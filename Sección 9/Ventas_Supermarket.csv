@@ -1,0 +1,1001 @@
+﻿idProduct;City;Customer type;Gender;Product line;Date;Payment;Unit price;Quantity;Rating
+1;Yangon;Member;Female;Health and beauty;05/01/2019;Ewallet;74.69;7;9.1
+2;Naypyitaw;Normal;Female;Electronic accessories;08/03/2019;Cash;15.28;5;9.6
+3;Yangon;Normal;Male;Home and lifestyle;03/03/2019;Credit card;46.33;7;7.4
+4;Yangon;Member;Male;Health and beauty;27/01/2019;Ewallet;58.22;8;8.4
+5;Yangon;Normal;Male;Sports and travel;08/02/2019;Ewallet;86.31;7;5.3
+6;Naypyitaw;Normal;Male;Electronic accessories;25/03/2019;Ewallet;85.39;7;4.1
+7;Yangon;Member;Female;Electronic accessories;25/02/2019;Ewallet;68.84;6;5.8
+8;Naypyitaw;Normal;Female;Home and lifestyle;24/02/2019;Ewallet;73.56;10;8
+9;Yangon;Member;Female;Health and beauty;10/01/2019;Credit card;36.26;2;7.2
+10;Mandalay;Member;Female;Food and beverages;20/02/2019;Credit card;54.84;3;5.9
+11;Mandalay;Member;Female;Fashion accessories;06/02/2019;Ewallet;14.48;4;4.5
+12;Mandalay;Member;Male;Electronic accessories;09/03/2019;Cash;25.51;4;6.8
+13;Yangon;Normal;Female;Electronic accessories;12/02/2019;Ewallet;46.95;5;7.1
+14;Yangon;Normal;Male;Food and beverages;07/02/2019;Ewallet;43.19;10;8.2
+15;Yangon;Normal;Female;Health and beauty;29/03/2019;Cash;71.38;10;5.7
+16;Mandalay;Member;Female;Sports and travel;15/01/2019;Cash;93.72;6;4.5
+17;Yangon;Member;Female;Health and beauty;11/03/2019;Credit card;68.93;7;4.6
+18;Yangon;Normal;Male;Sports and travel;01/01/2019;Credit card;72.61;6;6.9
+19;Yangon;Normal;Male;Food and beverages;21/01/2019;Credit card;54.67;3;8.6
+20;Mandalay;Normal;Female;Home and lifestyle;11/03/2019;Ewallet;40.3;2;4.4
+21;Naypyitaw;Member;Male;Electronic accessories;25/02/2019;Ewallet;86.04;5;4.8
+22;Mandalay;Normal;Male;Health and beauty;05/03/2019;Ewallet;87.98;3;5.1
+23;Mandalay;Normal;Male;Home and lifestyle;15/03/2019;Credit card;33.2;2;4.4
+24;Yangon;Normal;Male;Electronic accessories;17/02/2019;Ewallet;34.56;5;9.9
+25;Yangon;Member;Male;Sports and travel;02/03/2019;Ewallet;88.63;3;6
+26;Yangon;Member;Female;Home and lifestyle;22/03/2019;Credit card;52.59;8;8.5
+27;Mandalay;Normal;Male;Fashion accessories;08/02/2019;Cash;33.52;1;6.7
+28;Yangon;Normal;Female;Fashion accessories;10/03/2019;Credit card;87.67;2;7.7
+29;Mandalay;Normal;Female;Food and beverages;25/01/2019;Cash;88.36;5;9.6
+30;Yangon;Normal;Male;Health and beauty;15/03/2019;Cash;24.89;9;7.4
+31;Mandalay;Normal;Male;Fashion accessories;25/02/2019;Credit card;94.13;5;4.8
+32;Mandalay;Member;Male;Sports and travel;28/01/2019;Cash;78.07;9;4.5
+33;Mandalay;Normal;Male;Sports and travel;10/01/2019;Cash;83.78;8;5.1
+34;Yangon;Normal;Male;Health and beauty;15/03/2019;Credit card;96.58;2;5.1
+35;Naypyitaw;Member;Female;Food and beverages;06/02/2019;Ewallet;99.42;4;7.5
+36;Naypyitaw;Member;Female;Sports and travel;07/01/2019;Ewallet;68.12;1;6.8
+37;Yangon;Member;Male;Sports and travel;10/03/2019;Ewallet;62.62;5;7
+38;Yangon;Normal;Female;Electronic accessories;15/01/2019;Ewallet;60.88;9;4.7
+39;Naypyitaw;Normal;Female;Health and beauty;23/03/2019;Ewallet;54.92;8;7.6
+40;Mandalay;Member;Male;Home and lifestyle;03/03/2019;Cash;30.12;8;7.7
+41;Mandalay;Member;Female;Home and lifestyle;17/01/2019;Ewallet;86.72;1;7.9
+42;Naypyitaw;Member;Male;Home and lifestyle;02/02/2019;Cash;56.11;2;6.3
+43;Mandalay;Member;Female;Sports and travel;08/02/2019;Cash;69.12;6;5.6
+44;Naypyitaw;Member;Female;Food and beverages;04/03/2019;Cash;98.7;8;7.6
+45;Naypyitaw;Member;Male;Health and beauty;16/03/2019;Cash;15.37;2;7.2
+46;Mandalay;Member;Female;Electronic accessories;09/03/2019;Cash;93.96;4;9.5
+47;Mandalay;Member;Male;Health and beauty;27/02/2019;Credit card;56.69;9;8.4
+48;Mandalay;Member;Female;Food and beverages;06/02/2019;Ewallet;20.01;9;4.1
+49;Mandalay;Member;Male;Electronic accessories;10/02/2019;Credit card;18.93;6;8.1
+50;Naypyitaw;Member;Female;Fashion accessories;19/03/2019;Ewallet;82.63;10;7.9
+51;Naypyitaw;Member;Male;Food and beverages;03/02/2019;Cash;91.4;7;9.5
+52;Yangon;Member;Female;Food and beverages;10/02/2019;Cash;44.59;5;8.5
+53;Mandalay;Member;Female;Fashion accessories;22/03/2019;Ewallet;17.87;4;6.5
+54;Naypyitaw;Member;Male;Fashion accessories;25/01/2019;Credit card;15.43;1;6.1
+55;Mandalay;Normal;Male;Home and lifestyle;07/03/2019;Ewallet;16.16;2;6.5
+56;Naypyitaw;Normal;Female;Electronic accessories;28/02/2019;Cash;85.98;8;8.2
+57;Yangon;Member;Male;Home and lifestyle;27/03/2019;Cash;44.34;2;5.8
+58;Yangon;Normal;Male;Health and beauty;07/02/2019;Ewallet;89.6;8;6.6
+59;Yangon;Member;Female;Home and lifestyle;20/01/2019;Cash;72.35;10;5.4
+60;Naypyitaw;Normal;Male;Electronic accessories;12/03/2019;Cash;30.61;6;9.3
+61;Naypyitaw;Member;Female;Sports and travel;15/02/2019;Credit card;24.74;3;10
+62;Naypyitaw;Normal;Male;Home and lifestyle;24/02/2019;Ewallet;55.73;6;7
+63;Mandalay;Member;Female;Sports and travel;03/02/2019;Ewallet;55.07;9;10
+64;Yangon;Member;Male;Sports and travel;06/03/2019;Credit card;15.81;10;8.6
+65;Mandalay;Member;Male;Health and beauty;14/02/2019;Cash;75.74;4;7.6
+66;Yangon;Member;Male;Health and beauty;13/03/2019;Cash;15.87;10;5.8
+67;Naypyitaw;Normal;Female;Health and beauty;10/02/2019;Ewallet;33.47;2;6.7
+68;Mandalay;Member;Female;Fashion accessories;07/01/2019;Ewallet;97.61;6;9.9
+69;Yangon;Normal;Male;Sports and travel;24/01/2019;Cash;78.77;10;6.4
+70;Yangon;Member;Female;Health and beauty;02/02/2019;Cash;18.33;1;4.3
+71;Naypyitaw;Normal;Male;Food and beverages;06/01/2019;Credit card;89.48;10;9.6
+72;Naypyitaw;Normal;Male;Fashion accessories;11/02/2019;Cash;62.12;10;5.9
+73;Mandalay;Member;Female;Food and beverages;05/03/2019;Ewallet;48.52;3;4
+74;Naypyitaw;Normal;Female;Electronic accessories;09/03/2019;Cash;75.91;6;8.7
+75;Yangon;Normal;Male;Home and lifestyle;22/01/2019;Ewallet;74.67;9;9.4
+76;Naypyitaw;Normal;Female;Electronic accessories;13/01/2019;Credit card;41.65;10;5.4
+77;Naypyitaw;Member;Male;Fashion accessories;09/01/2019;Credit card;49.04;9;8.6
+78;Yangon;Member;Female;Fashion accessories;12/01/2019;Credit card;20.01;9;5.7
+79;Naypyitaw;Member;Female;Food and beverages;05/03/2019;Ewallet;78.31;10;6.6
+80;Naypyitaw;Normal;Female;Health and beauty;22/01/2019;Cash;20.38;5;6
+81;Naypyitaw;Normal;Female;Health and beauty;21/01/2019;Credit card;99.19;6;5.5
+82;Mandalay;Normal;Female;Food and beverages;26/01/2019;Ewallet;96.68;3;6.4
+83;Naypyitaw;Normal;Male;Food and beverages;23/01/2019;Ewallet;19.25;8;6.6
+84;Naypyitaw;Member;Female;Food and beverages;23/02/2019;Credit card;80.36;4;8.3
+85;Naypyitaw;Member;Male;Sports and travel;09/03/2019;Cash;48.91;5;6.6
+86;Naypyitaw;Normal;Female;Sports and travel;05/03/2019;Ewallet;83.06;7;4
+87;Naypyitaw;Normal;Male;Fashion accessories;25/03/2019;Cash;76.52;5;9.9
+88;Yangon;Member;Male;Food and beverages;27/03/2019;Credit card;49.38;7;7.3
+89;Yangon;Normal;Male;Sports and travel;02/01/2019;Cash;42.47;1;5.7
+90;Mandalay;Normal;Female;Health and beauty;27/02/2019;Cash;76.99;6;6.1
+91;Naypyitaw;Member;Female;Home and lifestyle;23/01/2019;Cash;47.38;4;7.1
+92;Naypyitaw;Normal;Female;Sports and travel;26/01/2019;Ewallet;44.86;10;8.2
+93;Yangon;Member;Female;Sports and travel;10/01/2019;Ewallet;21.98;7;5.1
+94;Mandalay;Member;Male;Health and beauty;12/03/2019;Credit card;64.36;9;8.6
+95;Naypyitaw;Normal;Male;Health and beauty;06/02/2019;Credit card;89.75;1;6.6
+96;Yangon;Normal;Male;Electronic accessories;08/03/2019;Ewallet;97.16;1;7.2
+97;Mandalay;Normal;Male;Health and beauty;29/03/2019;Ewallet;87.87;10;5.1
+98;Naypyitaw;Normal;Female;Electronic accessories;09/02/2019;Cash;12.45;6;4.1
+99;Yangon;Normal;Male;Food and beverages;23/03/2019;Ewallet;52.75;3;9.3
+100;Mandalay;Normal;Male;Home and lifestyle;05/03/2019;Cash;82.7;6;7.4
+101;Naypyitaw;Member;Male;Fashion accessories;26/03/2019;Cash;48.71;1;4.1
+102;Naypyitaw;Normal;Male;Fashion accessories;01/03/2019;Cash;78.55;9;7.2
+103;Naypyitaw;Normal;Female;Electronic accessories;01/02/2019;Cash;23.07;9;4.9
+104;Yangon;Normal;Male;Food and beverages;28/03/2019;Cash;58.26;6;9.9
+105;Mandalay;Normal;Male;Health and beauty;19/03/2019;Cash;30.35;7;8
+106;Yangon;Member;Male;Electronic accessories;12/01/2019;Ewallet;88.67;10;7.3
+107;Naypyitaw;Normal;Male;Fashion accessories;05/01/2019;Credit card;27.38;6;7.9
+108;Yangon;Normal;Male;Sports and travel;22/03/2019;Cash;62.13;6;7.4
+109;Naypyitaw;Normal;Female;Food and beverages;24/03/2019;Cash;33.98;9;4.2
+110;Naypyitaw;Member;Male;Electronic accessories;03/03/2019;Cash;81.97;10;9.2
+111;Mandalay;Member;Female;Sports and travel;05/02/2019;Ewallet;16.49;2;4.6
+112;Naypyitaw;Member;Female;Health and beauty;05/02/2019;Credit card;98.21;3;7.8
+113;Mandalay;Normal;Female;Fashion accessories;15/02/2019;Cash;72.84;7;8.4
+114;Yangon;Member;Male;Home and lifestyle;19/01/2019;Ewallet;58.07;9;4.3
+115;Naypyitaw;Member;Female;Home and lifestyle;01/02/2019;Credit card;80.79;9;9.5
+116;Naypyitaw;Normal;Female;Fashion accessories;02/03/2019;Credit card;27.02;3;7.1
+117;Mandalay;Member;Male;Fashion accessories;05/03/2019;Ewallet;21.94;5;5.3
+118;Mandalay;Member;Male;Fashion accessories;16/01/2019;Ewallet;51.36;1;5.2
+119;Yangon;Normal;Female;Food and beverages;02/02/2019;Ewallet;10.96;10;6
+120;Mandalay;Normal;Male;Home and lifestyle;20/01/2019;Ewallet;53.44;2;4.1
+121;Yangon;Normal;Female;Electronic accessories;14/02/2019;Credit card;99.56;8;5.2
+122;Naypyitaw;Member;Male;Sports and travel;12/01/2019;Credit card;57.12;7;6.5
+123;Mandalay;Member;Male;Sports and travel;09/03/2019;Credit card;99.96;9;4.2
+124;Naypyitaw;Member;Male;Home and lifestyle;13/03/2019;Credit card;63.91;8;4.6
+125;Mandalay;Member;Female;Fashion accessories;09/03/2019;Ewallet;56.47;8;7.3
+126;Yangon;Normal;Female;Home and lifestyle;10/03/2019;Credit card;93.69;7;4.5
+127;Yangon;Normal;Female;Sports and travel;27/01/2019;Cash;32.25;5;9
+128;Naypyitaw;Normal;Female;Fashion accessories;08/01/2019;Credit card;31.73;9;5.9
+129;Naypyitaw;Member;Female;Food and beverages;08/01/2019;Ewallet;68.54;8;8.5
+130;Mandalay;Normal;Female;Sports and travel;08/02/2019;Ewallet;90.28;9;7.2
+131;Mandalay;Normal;Female;Fashion accessories;25/01/2019;Cash;39.62;7;7.5
+132;Yangon;Member;Female;Sports and travel;06/03/2019;Cash;92.13;6;8.3
+133;Mandalay;Normal;Female;Sports and travel;10/02/2019;Cash;34.84;4;7.4
+134;Mandalay;Member;Male;Electronic accessories;17/02/2019;Credit card;87.45;6;8.8
+135;Naypyitaw;Normal;Female;Health and beauty;08/03/2019;Ewallet;81.3;6;5.3
+136;Naypyitaw;Normal;Male;Fashion accessories;18/02/2019;Cash;90.22;3;6.2
+137;Yangon;Normal;Female;Electronic accessories;18/01/2019;Credit card;26.31;5;8.8
+138;Yangon;Member;Female;Home and lifestyle;18/02/2019;Cash;34.42;6;9.8
+139;Mandalay;Normal;Male;Sports and travel;16/02/2019;Cash;51.91;10;8.2
+140;Yangon;Normal;Male;Sports and travel;16/03/2019;Ewallet;72.5;8;9.2
+141;Naypyitaw;Member;Female;Sports and travel;23/01/2019;Credit card;89.8;10;5.4
+142;Naypyitaw;Member;Male;Health and beauty;25/01/2019;Cash;90.5;10;8.1
+143;Naypyitaw;Member;Female;Health and beauty;05/02/2019;Cash;68.6;10;9.1
+144;Naypyitaw;Member;Female;Food and beverages;22/02/2019;Credit card;30.41;1;8.4
+145;Yangon;Normal;Female;Home and lifestyle;21/01/2019;Ewallet;77.95;6;8
+146;Naypyitaw;Normal;Female;Health and beauty;08/03/2019;Credit card;46.26;6;9.5
+147;Yangon;Member;Female;Fashion accessories;10/02/2019;Ewallet;30.14;10;9.2
+148;Naypyitaw;Normal;Male;Health and beauty;19/03/2019;Credit card;66.14;4;5.6
+149;Mandalay;Member;Male;Home and lifestyle;06/03/2019;Credit card;71.86;8;6.2
+150;Yangon;Normal;Male;Health and beauty;27/03/2019;Credit card;32.46;8;4.9
+151;Mandalay;Member;Female;Fashion accessories;23/03/2019;Credit card;91.54;4;4.8
+152;Naypyitaw;Member;Male;Sports and travel;11/03/2019;Credit card;34.56;7;7.3
+153;Yangon;Normal;Male;Fashion accessories;29/01/2019;Credit card;83.24;9;7.4
+154;Naypyitaw;Normal;Female;Food and beverages;07/02/2019;Ewallet;16.48;6;9.9
+155;Naypyitaw;Normal;Female;Sports and travel;28/01/2019;Cash;80.97;8;9.3
+156;Yangon;Member;Male;Food and beverages;20/02/2019;Credit card;92.29;5;9
+157;Mandalay;Member;Male;Electronic accessories;04/01/2019;Cash;72.17;1;6.1
+158;Mandalay;Normal;Male;Home and lifestyle;07/03/2019;Ewallet;50.28;5;9.7
+159;Mandalay;Member;Male;Health and beauty;30/03/2019;Ewallet;97.22;9;6
+160;Mandalay;Normal;Male;Sports and travel;27/03/2019;Ewallet;93.39;6;10
+161;Naypyitaw;Normal;Female;Food and beverages;19/01/2019;Credit card;43.18;8;8.3
+162;Yangon;Normal;Male;Sports and travel;25/02/2019;Cash;63.69;1;6
+163;Yangon;Normal;Male;Food and beverages;13/03/2019;Credit card;45.79;7;7
+164;Naypyitaw;Normal;Male;Sports and travel;30/01/2019;Ewallet;76.4;2;6.5
+165;Mandalay;Normal;Male;Food and beverages;20/02/2019;Credit card;39.9;10;5.9
+166;Mandalay;Member;Male;Health and beauty;25/02/2019;Ewallet;42.57;8;5.6
+167;Naypyitaw;Normal;Male;Home and lifestyle;16/01/2019;Cash;95.58;10;4.8
+168;Yangon;Normal;Male;Fashion accessories;08/02/2019;Credit card;98.98;10;8.7
+169;Yangon;Normal;Male;Food and beverages;19/01/2019;Cash;51.28;6;6.5
+170;Yangon;Member;Male;Sports and travel;01/02/2019;Credit card;69.52;7;8.5
+171;Yangon;Normal;Male;Health and beauty;03/01/2019;Ewallet;70.01;5;5.5
+172;Mandalay;Member;Male;Food and beverages;26/01/2019;Credit card;80.05;5;9.4
+173;Naypyitaw;Normal;Male;Electronic accessories;03/03/2019;Cash;20.85;8;6.3
+174;Mandalay;Member;Male;Electronic accessories;19/01/2019;Credit card;52.89;6;9.8
+175;Mandalay;Normal;Male;Food and beverages;18/01/2019;Ewallet;19.79;8;8.7
+176;Yangon;Member;Male;Home and lifestyle;21/03/2019;Ewallet;33.84;9;8.8
+177;Yangon;Member;Male;Food and beverages;03/03/2019;Credit card;22.17;8;9.6
+178;Naypyitaw;Normal;Female;Fashion accessories;13/02/2019;Credit card;22.51;7;4.8
+179;Yangon;Normal;Male;Food and beverages;23/03/2019;Ewallet;73.88;6;4.4
+180;Naypyitaw;Member;Male;Health and beauty;28/01/2019;Ewallet;86.8;3;9.9
+181;Naypyitaw;Normal;Male;Fashion accessories;09/02/2019;Cash;64.26;7;5.7
+182;Naypyitaw;Member;Male;Food and beverages;23/01/2019;Cash;38.47;8;7.7
+183;Yangon;Member;Male;Sports and travel;23/03/2019;Ewallet;15.5;10;8
+184;Naypyitaw;Normal;Male;Health and beauty;25/01/2019;Ewallet;34.31;8;5.7
+185;Yangon;Normal;Female;Sports and travel;04/03/2019;Credit card;12.34;7;6.7
+186;Mandalay;Member;Male;Food and beverages;05/03/2019;Ewallet;18.08;3;8
+187;Mandalay;Member;Female;Home and lifestyle;03/03/2019;Ewallet;94.49;8;7.5
+188;Mandalay;Member;Male;Home and lifestyle;08/02/2019;Cash;46.47;4;7
+189;Yangon;Normal;Male;Home and lifestyle;10/02/2019;Ewallet;74.07;1;9.9
+190;Naypyitaw;Normal;Female;Home and lifestyle;28/01/2019;Credit card;69.81;4;5.9
+191;Mandalay;Normal;Female;Home and lifestyle;11/02/2019;Credit card;77.04;3;7.2
+192;Mandalay;Normal;Female;Fashion accessories;15/01/2019;Ewallet;73.52;2;4.6
+193;Naypyitaw;Normal;Female;Food and beverages;16/03/2019;Cash;87.8;9;9.2
+194;Mandalay;Normal;Male;Home and lifestyle;26/01/2019;Ewallet;25.55;4;5.7
+195;Yangon;Normal;Male;Electronic accessories;19/03/2019;Credit card;32.71;5;9.9
+196;Naypyitaw;Member;Female;Fashion accessories;13/01/2019;Cash;74.29;1;5
+197;Naypyitaw;Member;Male;Health and beauty;26/03/2019;Cash;43.7;2;4.9
+198;Yangon;Normal;Female;Home and lifestyle;23/03/2019;Ewallet;25.29;1;6.1
+199;Naypyitaw;Normal;Male;Health and beauty;12/03/2019;Credit card;41.5;4;8.2
+200;Naypyitaw;Member;Female;Food and beverages;17/02/2019;Credit card;71.39;5;5.5
+201;Naypyitaw;Member;Female;Sports and travel;29/01/2019;Credit card;19.15;6;6.8
+202;Mandalay;Member;Female;Electronic accessories;15/03/2019;Cash;57.49;4;6.6
+203;Naypyitaw;Normal;Male;Electronic accessories;14/01/2019;Cash;61.41;7;9.8
+204;Mandalay;Member;Male;Health and beauty;06/02/2019;Ewallet;25.9;10;8.7
+205;Mandalay;Member;Male;Home and lifestyle;15/02/2019;Credit card;17.77;5;5.4
+206;Yangon;Normal;Female;Health and beauty;03/01/2019;Ewallet;23.03;9;7.9
+207;Naypyitaw;Member;Female;Electronic accessories;04/01/2019;Credit card;66.65;9;9.7
+208;Naypyitaw;Member;Female;Home and lifestyle;18/03/2019;Ewallet;28.53;10;7.8
+209;Mandalay;Normal;Female;Fashion accessories;28/03/2019;Ewallet;30.37;3;5.1
+210;Mandalay;Normal;Female;Electronic accessories;02/03/2019;Credit card;99.73;9;6.5
+211;Yangon;Normal;Male;Electronic accessories;25/01/2019;Ewallet;26.23;9;5.9
+212;Naypyitaw;Normal;Female;Food and beverages;16/01/2019;Cash;93.26;9;8.8
+213;Mandalay;Normal;Male;Home and lifestyle;20/03/2019;Ewallet;92.36;5;4.9
+214;Mandalay;Normal;Male;Sports and travel;04/01/2019;Credit card;46.42;3;4.4
+215;Mandalay;Member;Female;Sports and travel;11/03/2019;Cash;29.61;7;6.5
+216;Yangon;Normal;Male;Home and lifestyle;22/03/2019;Credit card;18.28;1;8.3
+217;Mandalay;Normal;Female;Sports and travel;24/03/2019;Cash;24.77;5;8.5
+218;Yangon;Member;Female;Electronic accessories;21/02/2019;Cash;94.64;3;5.5
+219;Mandalay;Normal;Male;Fashion accessories;12/02/2019;Ewallet;94.87;8;8.7
+220;Mandalay;Normal;Female;Food and beverages;10/03/2019;Credit card;57.34;3;7.9
+221;Mandalay;Normal;Male;Electronic accessories;31/01/2019;Ewallet;45.35;6;6.1
+222;Mandalay;Normal;Male;Food and beverages;06/03/2019;Ewallet;62.08;7;5.4
+223;Naypyitaw;Normal;Male;Electronic accessories;17/02/2019;Cash;11.81;5;9.4
+224;Naypyitaw;Member;Female;Fashion accessories;21/02/2019;Cash;12.54;1;8.2
+225;Yangon;Normal;Male;Food and beverages;20/03/2019;Cash;43.25;2;6.2
+226;Naypyitaw;Member;Female;Sports and travel;11/01/2019;Credit card;87.16;2;9.7
+227;Mandalay;Member;Male;Health and beauty;26/01/2019;Ewallet;69.37;9;4
+228;Naypyitaw;Member;Male;Electronic accessories;31/01/2019;Ewallet;37.06;4;9.7
+229;Mandalay;Member;Female;Electronic accessories;26/02/2019;Cash;90.7;6;5.3
+230;Yangon;Normal;Female;Home and lifestyle;11/03/2019;Ewallet;63.42;8;7.4
+231;Mandalay;Normal;Female;Fashion accessories;26/01/2019;Cash;81.37;2;6.5
+232;Mandalay;Member;Female;Electronic accessories;12/03/2019;Credit card;10.59;3;8.7
+233;Mandalay;Normal;Female;Health and beauty;11/02/2019;Cash;84.09;9;8
+234;Mandalay;Member;Male;Fashion accessories;21/02/2019;Cash;73.82;4;6.7
+235;Yangon;Member;Male;Health and beauty;09/03/2019;Ewallet;51.94;10;6.5
+236;Yangon;Normal;Female;Sports and travel;20/01/2019;Ewallet;93.14;2;4.1
+237;Naypyitaw;Normal;Male;Health and beauty;28/01/2019;Credit card;17.41;5;4.9
+238;Naypyitaw;Member;Female;Fashion accessories;05/03/2019;Credit card;44.22;5;8.6
+239;Mandalay;Member;Female;Electronic accessories;02/03/2019;Cash;13.22;5;4.3
+240;Yangon;Normal;Male;Fashion accessories;11/01/2019;Ewallet;89.69;1;4.9
+241;Yangon;Normal;Male;Food and beverages;11/01/2019;Credit card;24.94;9;5.6
+242;Yangon;Normal;Male;Health and beauty;11/03/2019;Credit card;59.77;2;5.8
+243;Naypyitaw;Member;Male;Fashion accessories;28/02/2019;Credit card;93.2;2;6
+244;Yangon;Member;Male;Home and lifestyle;05/01/2019;Cash;62.65;4;4.2
+245;Mandalay;Normal;Male;Home and lifestyle;02/02/2019;Credit card;93.87;8;8.3
+246;Yangon;Member;Male;Home and lifestyle;01/01/2019;Cash;47.59;8;5.7
+247;Mandalay;Member;Female;Electronic accessories;09/02/2019;Cash;81.4;3;4.8
+248;Yangon;Member;Male;Fashion accessories;23/01/2019;Ewallet;17.94;5;6.8
+249;Yangon;Member;Male;Electronic accessories;07/01/2019;Credit card;77.72;4;8.8
+250;Mandalay;Normal;Male;Food and beverages;14/01/2019;Credit card;73.06;7;4.2
+251;Mandalay;Member;Male;Food and beverages;02/02/2019;Ewallet;46.55;9;6.4
+252;Naypyitaw;Member;Male;Fashion accessories;17/03/2019;Credit card;35.19;10;8.4
+253;Naypyitaw;Normal;Female;Sports and travel;02/03/2019;Credit card;14.39;2;7.2
+254;Yangon;Normal;Male;Home and lifestyle;16/03/2019;Cash;23.75;4;5.2
+255;Yangon;Member;Male;Home and lifestyle;06/01/2019;Cash;58.9;8;8.9
+256;Mandalay;Member;Male;Fashion accessories;29/01/2019;Cash;32.62;4;9
+257;Yangon;Member;Male;Electronic accessories;31/01/2019;Credit card;66.35;1;9.7
+258;Yangon;Member;Male;Home and lifestyle;05/02/2019;Ewallet;25.91;6;8.7
+259;Yangon;Member;Male;Electronic accessories;13/02/2019;Ewallet;32.25;4;6.5
+260;Naypyitaw;Member;Male;Electronic accessories;07/02/2019;Credit card;65.94;4;6.9
+261;Yangon;Normal;Female;Electronic accessories;19/03/2019;Ewallet;75.06;9;6.2
+262;Naypyitaw;Normal;Female;Fashion accessories;07/03/2019;Ewallet;16.45;4;5.6
+263;Mandalay;Member;Female;Fashion accessories;13/03/2019;Cash;38.3;4;5.7
+264;Yangon;Member;Female;Sports and travel;09/02/2019;Cash;22.24;10;4.2
+265;Mandalay;Normal;Male;Sports and travel;26/02/2019;Ewallet;54.45;1;7.9
+266;Yangon;Member;Female;Sports and travel;12/03/2019;Credit card;98.4;7;8.7
+267;Naypyitaw;Normal;Male;Home and lifestyle;14/03/2019;Credit card;35.47;4;6.9
+268;Mandalay;Member;Female;Food and beverages;08/01/2019;Cash;74.6;10;9.5
+269;Yangon;Member;Male;Home and lifestyle;05/01/2019;Credit card;70.74;4;4.4
+270;Yangon;Member;Female;Home and lifestyle;04/01/2019;Ewallet;35.54;10;7
+271;Mandalay;Normal;Female;Sports and travel;06/03/2019;Ewallet;67.43;5;6.3
+272;Naypyitaw;Member;Female;Health and beauty;03/01/2019;Cash;21.12;2;9.7
+273;Yangon;Member;Female;Home and lifestyle;07/01/2019;Credit card;21.54;9;8.8
+274;Yangon;Normal;Female;Home and lifestyle;27/01/2019;Cash;12.03;2;5.1
+275;Mandalay;Normal;Female;Health and beauty;26/02/2019;Ewallet;99.71;6;7.9
+276;Mandalay;Normal;Male;Fashion accessories;07/01/2019;Cash;47.97;7;6.2
+277;Naypyitaw;Member;Female;Home and lifestyle;07/01/2019;Cash;21.82;10;7.1
+278;Naypyitaw;Normal;Female;Fashion accessories;02/02/2019;Ewallet;95.42;4;6.4
+279;Naypyitaw;Member;Male;Fashion accessories;20/03/2019;Cash;70.99;10;5.7
+280;Yangon;Member;Male;Sports and travel;20/03/2019;Credit card;44.02;10;9.6
+281;Yangon;Normal;Female;Home and lifestyle;15/02/2019;Credit card;69.96;8;6.4
+282;Naypyitaw;Normal;Male;Home and lifestyle;06/03/2019;Credit card;37;1;7.9
+283;Yangon;Normal;Female;Sports and travel;06/01/2019;Cash;15.34;1;6.5
+284;Yangon;Member;Male;Health and beauty;04/03/2019;Ewallet;99.83;6;8.5
+285;Yangon;Member;Female;Health and beauty;12/03/2019;Cash;47.67;4;9.1
+286;Mandalay;Normal;Male;Health and beauty;20/02/2019;Cash;66.68;5;7.6
+287;Naypyitaw;Member;Male;Home and lifestyle;24/03/2019;Cash;74.86;1;6.9
+288;Naypyitaw;Normal;Female;Sports and travel;31/01/2019;Cash;23.75;9;9.5
+289;Mandalay;Normal;Female;Food and beverages;25/01/2019;Credit card;48.51;7;5.2
+290;Yangon;Member;Female;Home and lifestyle;03/02/2019;Cash;94.88;7;4.2
+291;Mandalay;Member;Male;Electronic accessories;24/01/2019;Credit card;40.3;10;7
+292;Naypyitaw;Normal;Male;Electronic accessories;14/03/2019;Ewallet;27.85;7;6
+293;Yangon;Member;Female;Electronic accessories;18/02/2019;Cash;62.48;1;4.7
+294;Yangon;Member;Female;Food and beverages;21/01/2019;Cash;36.36;2;7.1
+295;Mandalay;Normal;Male;Health and beauty;13/03/2019;Ewallet;18.11;10;5.9
+296;Naypyitaw;Member;Female;Electronic accessories;03/03/2019;Cash;51.92;5;7.5
+297;Naypyitaw;Normal;Male;Electronic accessories;29/03/2019;Cash;28.84;4;6.4
+298;Yangon;Member;Male;Home and lifestyle;10/01/2019;Ewallet;78.38;6;5.8
+299;Yangon;Member;Male;Home and lifestyle;25/01/2019;Cash;60.01;4;4.5
+300;Naypyitaw;Member;Female;Home and lifestyle;19/01/2019;Cash;88.61;1;7.7
+301;Naypyitaw;Normal;Male;Fashion accessories;02/01/2019;Credit card;99.82;2;6.7
+302;Mandalay;Member;Male;Health and beauty;12/03/2019;Credit card;39.01;1;4.7
+303;Naypyitaw;Normal;Male;Food and beverages;25/02/2019;Cash;48.61;1;4.4
+304;Yangon;Normal;Female;Electronic accessories;18/03/2019;Credit card;51.19;4;4.7
+305;Mandalay;Normal;Female;Electronic accessories;23/02/2019;Cash;14.96;8;8.6
+306;Yangon;Member;Male;Electronic accessories;26/03/2019;Ewallet;72.2;7;4.3
+307;Yangon;Normal;Female;Sports and travel;30/03/2019;Cash;40.23;7;9.6
+308;Yangon;Member;Female;Home and lifestyle;17/02/2019;Cash;88.79;8;4.1
+309;Yangon;Member;Female;Electronic accessories;21/03/2019;Ewallet;26.48;3;4.7
+310;Yangon;Normal;Female;Fashion accessories;05/03/2019;Cash;81.91;2;7.8
+311;Mandalay;Member;Male;Sports and travel;31/01/2019;Cash;79.93;6;5.5
+312;Naypyitaw;Member;Male;Fashion accessories;05/02/2019;Ewallet;69.33;2;9.7
+313;Yangon;Member;Female;Food and beverages;01/02/2019;Credit card;14.23;5;4.4
+314;Yangon;Member;Female;Health and beauty;07/03/2019;Cash;15.55;9;5
+315;Naypyitaw;Member;Female;Electronic accessories;10/02/2019;Cash;78.13;10;4.4
+316;Naypyitaw;Member;Male;Food and beverages;14/02/2019;Cash;99.37;2;5.2
+317;Naypyitaw;Member;Female;Food and beverages;09/02/2019;Cash;21.08;3;7.3
+318;Naypyitaw;Member;Male;Electronic accessories;10/01/2019;Cash;74.79;5;4.9
+319;Naypyitaw;Member;Female;Health and beauty;11/03/2019;Credit card;29.67;7;8.1
+320;Naypyitaw;Member;Male;Health and beauty;18/02/2019;Ewallet;44.07;4;8.4
+321;Naypyitaw;Normal;Female;Food and beverages;26/02/2019;Cash;22.93;9;5.5
+322;Naypyitaw;Normal;Female;Health and beauty;18/01/2019;Cash;39.42;1;8.4
+323;Yangon;Normal;Male;Health and beauty;15/02/2019;Ewallet;15.26;6;9.8
+324;Yangon;Normal;Female;Fashion accessories;08/03/2019;Cash;61.77;5;6.7
+325;Yangon;Normal;Male;Home and lifestyle;17/01/2019;Credit card;21.52;6;9.4
+326;Mandalay;Normal;Male;Sports and travel;12/03/2019;Ewallet;97.74;4;6.4
+327;Yangon;Member;Male;Food and beverages;09/03/2019;Cash;99.78;5;5.4
+328;Naypyitaw;Member;Male;Food and beverages;12/03/2019;Cash;94.26;4;8.6
+329;Mandalay;Member;Male;Health and beauty;25/01/2019;Credit card;51.13;4;4
+330;Yangon;Member;Male;Electronic accessories;25/03/2019;Cash;36.36;4;7.6
+331;Mandalay;Normal;Male;Home and lifestyle;07/02/2019;Cash;22.02;9;6.8
+332;Yangon;Normal;Male;Food and beverages;17/02/2019;Credit card;32.9;3;9.1
+333;Yangon;Normal;Male;Fashion accessories;03/02/2019;Cash;77.02;5;5.5
+334;Yangon;Member;Male;Food and beverages;14/03/2019;Credit card;23.48;2;7.9
+335;Naypyitaw;Member;Male;Sports and travel;24/03/2019;Ewallet;14.7;5;8.5
+336;Yangon;Member;Female;Electronic accessories;21/03/2019;Credit card;28.45;5;9.1
+337;Yangon;Normal;Male;Fashion accessories;19/03/2019;Ewallet;76.4;9;7.5
+338;Mandalay;Normal;Female;Sports and travel;24/02/2019;Cash;57.95;6;5.2
+339;Naypyitaw;Normal;Female;Electronic accessories;28/03/2019;Credit card;47.65;3;9.5
+340;Mandalay;Member;Female;Food and beverages;05/02/2019;Credit card;42.82;9;8.9
+341;Mandalay;Member;Male;Electronic accessories;10/02/2019;Credit card;48.09;3;7.8
+342;Mandalay;Member;Female;Health and beauty;05/03/2019;Ewallet;55.97;7;8.9
+343;Mandalay;Member;Female;Health and beauty;15/02/2019;Cash;76.9;7;7.7
+344;Naypyitaw;Normal;Female;Food and beverages;30/01/2019;Ewallet;97.03;5;9.3
+345;Yangon;Normal;Male;Sports and travel;14/02/2019;Cash;44.65;3;6.2
+346;Yangon;Normal;Female;Fashion accessories;27/02/2019;Ewallet;77.93;9;7.6
+347;Yangon;Member;Male;Electronic accessories;04/02/2019;Cash;71.95;1;7.3
+348;Naypyitaw;Member;Female;Home and lifestyle;20/01/2019;Cash;89.25;8;4.7
+349;Yangon;Normal;Male;Electronic accessories;28/03/2019;Cash;26.02;7;5.1
+350;Mandalay;Normal;Female;Health and beauty;27/02/2019;Credit card;13.5;10;4.8
+351;Naypyitaw;Member;Female;Fashion accessories;15/02/2019;Credit card;99.3;10;6.6
+352;Yangon;Normal;Male;Electronic accessories;26/01/2019;Cash;51.69;7;5.5
+353;Mandalay;Member;Female;Fashion accessories;14/03/2019;Credit card;54.73;7;8.5
+354;Mandalay;Member;Male;Home and lifestyle;02/03/2019;Cash;27;9;4.8
+355;Naypyitaw;Normal;Female;Electronic accessories;04/03/2019;Cash;30.24;1;8.4
+356;Mandalay;Member;Female;Food and beverages;07/01/2019;Credit card;89.14;4;7.8
+357;Naypyitaw;Normal;Female;Fashion accessories;08/03/2019;Credit card;37.55;10;9.3
+358;Naypyitaw;Normal;Female;Sports and travel;09/01/2019;Cash;95.44;10;5.2
+359;Mandalay;Normal;Male;Electronic accessories;01/03/2019;Ewallet;27.5;3;6.5
+360;Mandalay;Normal;Male;Sports and travel;16/03/2019;Cash;74.97;1;5.6
+361;Yangon;Member;Male;Food and beverages;17/02/2019;Credit card;80.96;8;7.4
+362;Naypyitaw;Normal;Female;Food and beverages;27/02/2019;Cash;94.47;8;9.1
+363;Naypyitaw;Normal;Male;Food and beverages;07/03/2019;Ewallet;99.79;2;8
+364;Yangon;Normal;Male;Home and lifestyle;21/01/2019;Cash;73.22;6;7.2
+365;Naypyitaw;Normal;Female;Food and beverages;19/02/2019;Cash;41.24;4;7.1
+366;Naypyitaw;Normal;Female;Fashion accessories;06/01/2019;Cash;81.68;4;9.1
+367;Naypyitaw;Normal;Female;Electronic accessories;14/03/2019;Cash;51.32;9;5.6
+368;Yangon;Member;Male;Home and lifestyle;24/03/2019;Cash;65.94;4;6
+369;Naypyitaw;Normal;Female;Sports and travel;27/01/2019;Cash;14.36;10;5.4
+370;Yangon;Member;Male;Electronic accessories;06/03/2019;Credit card;21.5;9;7.8
+371;Mandalay;Member;Female;Electronic accessories;02/02/2019;Cash;26.26;7;9.9
+372;Mandalay;Normal;Female;Fashion accessories;25/01/2019;Credit card;60.96;2;4.9
+373;Naypyitaw;Normal;Female;Home and lifestyle;14/03/2019;Ewallet;70.11;6;5.2
+374;Naypyitaw;Normal;Male;Fashion accessories;29/01/2019;Cash;42.08;6;8.9
+375;Yangon;Normal;Female;Home and lifestyle;03/01/2019;Credit card;67.09;5;9.1
+376;Yangon;Member;Female;Fashion accessories;14/01/2019;Ewallet;96.7;5;7
+377;Mandalay;Member;Female;Home and lifestyle;05/01/2019;Credit card;35.38;9;9.6
+378;Naypyitaw;Normal;Male;Sports and travel;22/02/2019;Ewallet;95.49;7;8.7
+379;Naypyitaw;Member;Male;Fashion accessories;06/02/2019;Ewallet;96.98;4;9.4
+380;Mandalay;Normal;Female;Electronic accessories;30/01/2019;Credit card;23.65;4;4
+381;Yangon;Member;Male;Sports and travel;11/01/2019;Credit card;82.33;4;7.5
+382;Naypyitaw;Normal;Female;Electronic accessories;19/03/2019;Cash;26.61;2;4.2
+383;Mandalay;Normal;Female;Food and beverages;14/01/2019;Cash;99.69;5;9.9
+384;Naypyitaw;Member;Female;Food and beverages;01/03/2019;Ewallet;74.89;4;4.2
+385;Yangon;Normal;Female;Food and beverages;06/01/2019;Ewallet;40.94;5;9.9
+386;Mandalay;Member;Male;Sports and travel;31/01/2019;Cash;75.82;1;5.8
+387;Naypyitaw;Normal;Male;Food and beverages;11/03/2019;Cash;46.77;6;6
+388;Yangon;Normal;Female;Health and beauty;20/02/2019;Credit card;32.32;10;10
+389;Naypyitaw;Member;Female;Fashion accessories;27/01/2019;Ewallet;54.07;9;9.5
+390;Mandalay;Normal;Male;Food and beverages;10/03/2019;Credit card;18.22;7;6.6
+391;Naypyitaw;Member;Female;Fashion accessories;15/02/2019;Cash;80.48;3;8.1
+392;Mandalay;Normal;Female;Fashion accessories;26/01/2019;Cash;37.95;10;9.7
+393;Yangon;Member;Male;Electronic accessories;13/02/2019;Ewallet;76.82;1;7.2
+394;Yangon;Member;Female;Sports and travel;09/03/2019;Credit card;52.26;10;6.2
+395;Yangon;Normal;Female;Health and beauty;06/03/2019;Ewallet;79.74;1;7.3
+396;Yangon;Normal;Female;Health and beauty;24/01/2019;Ewallet;77.5;5;4.3
+397;Yangon;Normal;Female;Food and beverages;13/03/2019;Ewallet;54.27;5;4.6
+398;Mandalay;Normal;Male;Home and lifestyle;15/03/2019;Cash;13.59;9;5.8
+399;Mandalay;Member;Female;Health and beauty;05/03/2019;Credit card;41.06;6;8.3
+400;Mandalay;Member;Male;Electronic accessories;04/03/2019;Cash;19.24;9;8
+401;Naypyitaw;Normal;Female;Food and beverages;25/03/2019;Credit card;39.43;6;9.4
+402;Naypyitaw;Normal;Male;Home and lifestyle;12/03/2019;Credit card;46.22;4;6.2
+403;Naypyitaw;Member;Male;Home and lifestyle;04/02/2019;Ewallet;13.98;1;9.8
+404;Mandalay;Normal;Female;Fashion accessories;22/02/2019;Ewallet;39.75;5;9.6
+405;Naypyitaw;Member;Female;Fashion accessories;16/02/2019;Ewallet;97.79;7;4.9
+406;Yangon;Member;Male;Sports and travel;19/01/2019;Credit card;67.26;4;8
+407;Yangon;Normal;Male;Food and beverages;11/01/2019;Credit card;13.79;5;7.8
+408;Mandalay;Member;Female;Fashion accessories;04/01/2019;Cash;68.71;4;4.1
+409;Yangon;Normal;Female;Home and lifestyle;04/03/2019;Ewallet;56.53;4;5.5
+410;Naypyitaw;Normal;Female;Fashion accessories;28/01/2019;Ewallet;23.82;5;5.4
+411;Mandalay;Normal;Female;Health and beauty;02/01/2019;Cash;34.21;10;5.1
+412;Mandalay;Normal;Male;Sports and travel;25/01/2019;Ewallet;21.87;2;6.9
+413;Yangon;Member;Male;Health and beauty;04/01/2019;Cash;20.97;5;7.8
+414;Yangon;Normal;Male;Sports and travel;10/03/2019;Ewallet;25.84;3;6.6
+415;Yangon;Normal;Male;Home and lifestyle;22/03/2019;Ewallet;50.93;8;9.2
+416;Mandalay;Normal;Male;Health and beauty;25/01/2019;Ewallet;96.11;1;7.8
+417;Naypyitaw;Normal;Female;Home and lifestyle;08/01/2019;Credit card;45.38;4;8.7
+418;Naypyitaw;Member;Female;Health and beauty;22/01/2019;Ewallet;81.51;1;9.2
+419;Mandalay;Normal;Female;Health and beauty;12/01/2019;Ewallet;57.22;2;8.3
+420;Yangon;Member;Female;Electronic accessories;04/02/2019;Cash;25.22;7;8.2
+421;Naypyitaw;Member;Female;Food and beverages;28/03/2019;Ewallet;38.6;3;7.5
+422;Naypyitaw;Normal;Female;Electronic accessories;23/01/2019;Cash;84.05;3;9.8
+423;Naypyitaw;Member;Female;Fashion accessories;08/02/2019;Credit card;97.21;10;8.7
+424;Mandalay;Member;Male;Fashion accessories;19/03/2019;Credit card;25.42;8;6.7
+425;Naypyitaw;Normal;Male;Fashion accessories;09/03/2019;Cash;16.28;1;5
+426;Mandalay;Member;Male;Fashion accessories;02/01/2019;Cash;40.61;9;7
+427;Yangon;Member;Male;Health and beauty;21/01/2019;Cash;53.17;7;8.9
+428;Mandalay;Member;Female;Food and beverages;20/03/2019;Credit card;20.87;3;8
+429;Mandalay;Normal;Male;Sports and travel;27/02/2019;Cash;67.27;5;6.9
+430;Yangon;Member;Female;Home and lifestyle;08/03/2019;Ewallet;90.65;10;7.3
+431;Mandalay;Normal;Male;Fashion accessories;31/01/2019;Credit card;69.08;2;6.9
+432;Naypyitaw;Normal;Male;Food and beverages;08/03/2019;Ewallet;43.27;2;5.7
+433;Yangon;Normal;Female;Electronic accessories;13/01/2019;Ewallet;23.46;6;6.4
+434;Mandalay;Normal;Male;Fashion accessories;09/03/2019;Credit card;95.54;7;9.6
+435;Mandalay;Normal;Female;Fashion accessories;22/02/2019;Credit card;47.44;1;6.8
+436;Naypyitaw;Normal;Male;Sports and travel;19/03/2019;Ewallet;99.24;9;9
+437;Naypyitaw;Member;Male;Sports and travel;20/01/2019;Ewallet;82.93;4;9.6
+438;Yangon;Normal;Male;Home and lifestyle;08/03/2019;Credit card;33.99;6;7.7
+439;Naypyitaw;Member;Male;Food and beverages;08/03/2019;Ewallet;17.04;4;7
+440;Naypyitaw;Normal;Female;Electronic accessories;07/02/2019;Credit card;40.86;8;6.5
+441;Naypyitaw;Member;Male;Food and beverages;15/01/2019;Cash;17.44;5;8.1
+442;Mandalay;Member;Female;Sports and travel;22/03/2019;Credit card;88.43;8;4.3
+443;Yangon;Member;Female;Home and lifestyle;15/01/2019;Credit card;89.21;9;6.5
+444;Naypyitaw;Normal;Male;Fashion accessories;08/01/2019;Ewallet;12.78;1;9.5
+445;Yangon;Normal;Female;Sports and travel;15/01/2019;Cash;19.1;7;9.7
+446;Mandalay;Member;Female;Health and beauty;28/01/2019;Credit card;19.15;1;9.5
+447;Naypyitaw;Member;Male;Food and beverages;14/02/2019;Credit card;27.66;10;8.9
+448;Naypyitaw;Normal;Male;Fashion accessories;10/03/2019;Credit card;45.74;3;6.5
+449;Mandalay;Member;Female;Health and beauty;12/01/2019;Credit card;27.07;1;5.3
+450;Mandalay;Member;Female;Sports and travel;26/03/2019;Credit card;39.12;1;9.6
+451;Mandalay;Normal;Female;Electronic accessories;01/01/2019;Cash;74.71;6;6.7
+452;Mandalay;Normal;Male;Electronic accessories;02/01/2019;Cash;22.01;6;7.6
+453;Yangon;Normal;Female;Food and beverages;16/03/2019;Ewallet;63.61;5;4.8
+454;Yangon;Normal;Male;Health and beauty;03/03/2019;Ewallet;25;1;5.5
+455;Yangon;Member;Male;Electronic accessories;31/01/2019;Cash;20.77;4;4.7
+456;Mandalay;Member;Female;Fashion accessories;13/02/2019;Cash;29.56;5;6.9
+457;Mandalay;Member;Female;Food and beverages;15/02/2019;Credit card;77.4;9;4.5
+458;Mandalay;Normal;Male;Electronic accessories;07/02/2019;Cash;79.39;10;6.2
+459;Naypyitaw;Member;Female;Electronic accessories;27/01/2019;Cash;46.57;10;7.6
+460;Naypyitaw;Normal;Male;Food and beverages;23/02/2019;Credit card;35.89;1;7.9
+461;Naypyitaw;Normal;Male;Food and beverages;03/02/2019;Cash;40.52;5;4.5
+462;Mandalay;Member;Female;Food and beverages;03/03/2019;Credit card;73.05;10;8.7
+463;Naypyitaw;Normal;Female;Sports and travel;03/02/2019;Cash;73.95;4;6.1
+464;Naypyitaw;Member;Female;Food and beverages;17/03/2019;Cash;22.62;1;6.4
+465;Yangon;Member;Male;Food and beverages;28/03/2019;Credit card;51.34;5;9.1
+466;Naypyitaw;Member;Female;Sports and travel;02/03/2019;Credit card;54.55;10;7.1
+467;Naypyitaw;Member;Female;Health and beauty;08/02/2019;Credit card;37.15;7;7.7
+468;Mandalay;Normal;Male;Sports and travel;22/03/2019;Cash;37.02;6;4.5
+469;Naypyitaw;Normal;Male;Food and beverages;09/02/2019;Ewallet;21.58;1;7.2
+470;Naypyitaw;Member;Female;Electronic accessories;15/02/2019;Cash;98.84;1;8.4
+471;Naypyitaw;Member;Female;Home and lifestyle;23/01/2019;Ewallet;83.77;6;5.4
+472;Yangon;Member;Female;Sports and travel;25/01/2019;Cash;40.05;4;9.7
+473;Yangon;Member;Male;Fashion accessories;02/02/2019;Credit card;43.13;10;5.5
+474;Mandalay;Member;Male;Health and beauty;30/03/2019;Cash;72.57;8;4.6
+475;Yangon;Member;Female;Electronic accessories;30/03/2019;Cash;64.44;5;6.6
+476;Yangon;Normal;Male;Health and beauty;25/02/2019;Credit card;65.18;3;6.3
+477;Yangon;Normal;Female;Sports and travel;18/03/2019;Credit card;33.26;5;4.2
+478;Naypyitaw;Normal;Male;Electronic accessories;07/03/2019;Ewallet;84.07;4;4.4
+479;Mandalay;Normal;Male;Sports and travel;16/03/2019;Ewallet;34.37;10;6.7
+480;Yangon;Normal;Male;Electronic accessories;29/01/2019;Ewallet;38.6;1;6.7
+481;Naypyitaw;Normal;Male;Food and beverages;02/02/2019;Cash;65.97;8;8.4
+482;Naypyitaw;Normal;Female;Electronic accessories;15/02/2019;Cash;32.8;10;6.2
+483;Yangon;Normal;Male;Sports and travel;08/01/2019;Ewallet;37.14;5;5
+484;Mandalay;Member;Male;Home and lifestyle;12/02/2019;Cash;60.38;10;6
+485;Naypyitaw;Member;Female;Sports and travel;01/01/2019;Credit card;36.98;10;7
+486;Mandalay;Member;Female;Sports and travel;21/03/2019;Ewallet;49.49;4;6.6
+487;Mandalay;Normal;Female;Fashion accessories;28/02/2019;Cash;41.09;10;7.3
+488;Yangon;Normal;Male;Fashion accessories;23/03/2019;Ewallet;37.15;4;8.3
+489;Naypyitaw;Normal;Male;Home and lifestyle;30/01/2019;Cash;22.96;1;4.3
+490;Mandalay;Member;Female;Home and lifestyle;04/02/2019;Ewallet;77.68;9;9.8
+491;Mandalay;Normal;Female;Fashion accessories;13/03/2019;Ewallet;34.7;2;8.2
+492;Yangon;Member;Female;Fashion accessories;15/03/2019;Credit card;19.66;10;7.2
+493;Mandalay;Member;Female;Health and beauty;05/03/2019;Ewallet;25.32;8;8.7
+494;Naypyitaw;Member;Female;Home and lifestyle;05/03/2019;Credit card;12.12;10;8.4
+495;Mandalay;Normal;Male;Fashion accessories;26/02/2019;Ewallet;99.89;2;7.1
+496;Mandalay;Normal;Male;Sports and travel;20/03/2019;Cash;75.92;8;5.5
+497;Naypyitaw;Normal;Female;Electronic accessories;01/01/2019;Cash;63.22;2;8.5
+498;Naypyitaw;Normal;Female;Food and beverages;27/01/2019;Cash;90.24;6;6.2
+499;Mandalay;Member;Female;Sports and travel;21/01/2019;Cash;98.13;1;8.9
+500;Yangon;Member;Female;Sports and travel;02/02/2019;Cash;51.52;8;9.6
+501;Mandalay;Member;Male;Sports and travel;03/02/2019;Credit card;73.97;1;5.4
+502;Naypyitaw;Member;Female;Fashion accessories;05/01/2019;Ewallet;31.9;1;9.1
+503;Naypyitaw;Normal;Male;Home and lifestyle;27/01/2019;Ewallet;69.4;2;9
+504;Mandalay;Normal;Female;Sports and travel;25/03/2019;Cash;93.31;2;6.3
+505;Mandalay;Normal;Male;Sports and travel;25/02/2019;Credit card;88.45;1;9.5
+506;Yangon;Member;Male;Electronic accessories;28/01/2019;Ewallet;24.18;8;9.8
+507;Mandalay;Member;Female;Sports and travel;08/01/2019;Cash;48.5;3;6.7
+508;Mandalay;Normal;Female;Food and beverages;29/01/2019;Credit card;84.05;6;7.7
+509;Mandalay;Member;Male;Health and beauty;29/03/2019;Cash;61.29;5;7
+510;Naypyitaw;Member;Female;Home and lifestyle;09/02/2019;Credit card;15.95;6;5.1
+511;Mandalay;Member;Female;Sports and travel;16/01/2019;Credit card;90.74;7;6.2
+512;Yangon;Normal;Female;Home and lifestyle;05/01/2019;Ewallet;42.91;5;6.1
+513;Yangon;Normal;Female;Fashion accessories;27/01/2019;Ewallet;54.28;7;9.3
+514;Yangon;Normal;Male;Electronic accessories;14/03/2019;Cash;99.55;7;7.6
+515;Naypyitaw;Member;Male;Sports and travel;23/02/2019;Credit card;58.39;7;8.2
+516;Naypyitaw;Member;Female;Fashion accessories;18/03/2019;Ewallet;51.47;1;8.5
+517;Mandalay;Member;Male;Health and beauty;29/03/2019;Ewallet;54.86;5;9.8
+518;Naypyitaw;Member;Male;Home and lifestyle;22/01/2019;Credit card;39.39;5;8.7
+519;Yangon;Normal;Male;Home and lifestyle;01/03/2019;Ewallet;34.73;2;9.7
+520;Naypyitaw;Member;Male;Sports and travel;17/01/2019;Credit card;71.92;5;4.3
+521;Mandalay;Normal;Female;Electronic accessories;26/03/2019;Credit card;45.71;3;7.7
+522;Naypyitaw;Member;Female;Home and lifestyle;20/03/2019;Cash;83.17;6;7.3
+523;Yangon;Member;Female;Home and lifestyle;06/02/2019;Credit card;37.44;6;5.9
+524;Naypyitaw;Normal;Male;Health and beauty;01/01/2019;Cash;62.87;2;5
+525;Yangon;Normal;Male;Food and beverages;27/01/2019;Credit card;81.71;6;8
+526;Yangon;Member;Female;Sports and travel;25/02/2019;Ewallet;91.41;5;7.1
+527;Mandalay;Normal;Male;Fashion accessories;16/01/2019;Credit card;39.21;4;9
+528;Mandalay;Member;Male;Fashion accessories;13/01/2019;Ewallet;59.86;2;6.7
+529;Mandalay;Member;Female;Food and beverages;07/02/2019;Credit card;54.36;10;6.1
+530;Yangon;Normal;Male;Sports and travel;17/02/2019;Cash;98.09;9;9.3
+531;Yangon;Normal;Male;Health and beauty;12/02/2019;Ewallet;25.43;6;7
+532;Yangon;Member;Male;Fashion accessories;24/01/2019;Credit card;86.68;8;7.2
+533;Mandalay;Normal;Male;Electronic accessories;06/02/2019;Ewallet;22.95;10;8.2
+534;Naypyitaw;Normal;Female;Food and beverages;26/03/2019;Ewallet;16.31;9;8.4
+535;Yangon;Normal;Female;Home and lifestyle;11/03/2019;Ewallet;28.32;5;6.2
+536;Naypyitaw;Normal;Male;Home and lifestyle;07/02/2019;Ewallet;16.67;7;7.4
+537;Mandalay;Member;Female;Fashion accessories;05/01/2019;Credit card;73.96;1;5
+538;Yangon;Normal;Male;Home and lifestyle;07/03/2019;Ewallet;97.94;1;6.9
+539;Yangon;Normal;Female;Fashion accessories;25/02/2019;Credit card;73.05;4;4.9
+540;Naypyitaw;Member;Female;Food and beverages;01/02/2019;Ewallet;87.48;6;5.1
+541;Yangon;Normal;Male;Home and lifestyle;22/01/2019;Ewallet;30.68;3;9.1
+542;Naypyitaw;Member;Male;Health and beauty;03/01/2019;Credit card;75.88;1;7.1
+543;Mandalay;Member;Female;Sports and travel;13/02/2019;Credit card;20.18;4;5
+544;Naypyitaw;Member;Male;Electronic accessories;28/01/2019;Credit card;18.77;6;5.5
+545;Mandalay;Normal;Female;Food and beverages;05/01/2019;Credit card;71.2;1;9.2
+546;Mandalay;Member;Male;Home and lifestyle;19/03/2019;Ewallet;38.81;4;4.9
+547;Yangon;Normal;Female;Fashion accessories;12/01/2019;Ewallet;29.42;10;8.9
+548;Yangon;Normal;Male;Sports and travel;07/01/2019;Credit card;60.95;9;6
+549;Mandalay;Normal;Female;Sports and travel;26/01/2019;Cash;51.54;5;4.2
+550;Yangon;Normal;Female;Electronic accessories;23/01/2019;Cash;66.06;6;7.3
+551;Mandalay;Normal;Male;Fashion accessories;09/02/2019;Ewallet;57.27;3;6.5
+552;Mandalay;Normal;Female;Fashion accessories;22/02/2019;Cash;54.31;9;8.9
+553;Mandalay;Normal;Female;Health and beauty;05/02/2019;Cash;58.24;9;9.7
+554;Naypyitaw;Normal;Male;Electronic accessories;07/03/2019;Credit card;22.21;6;8.6
+555;Yangon;Member;Male;Electronic accessories;25/03/2019;Cash;19.32;7;6.9
+556;Mandalay;Normal;Male;Home and lifestyle;20/01/2019;Credit card;37.48;3;7.7
+557;Mandalay;Member;Female;Fashion accessories;04/02/2019;Cash;72.04;2;9.5
+558;Naypyitaw;Member;Female;Food and beverages;30/01/2019;Ewallet;98.52;10;4.5
+559;Yangon;Member;Male;Food and beverages;02/01/2019;Ewallet;41.66;6;5.6
+560;Yangon;Member;Female;Home and lifestyle;29/03/2019;Ewallet;72.42;3;8.2
+561;Mandalay;Normal;Male;Electronic accessories;14/03/2019;Cash;21.58;9;7.3
+562;Naypyitaw;Normal;Male;Food and beverages;11/02/2019;Credit card;89.2;10;4.4
+563;Mandalay;Normal;Female;Electronic accessories;30/01/2019;Ewallet;42.42;8;5.7
+564;Yangon;Member;Male;Electronic accessories;20/03/2019;Ewallet;74.51;6;5
+565;Mandalay;Normal;Male;Fashion accessories;20/03/2019;Cash;99.25;2;9
+566;Yangon;Normal;Female;Food and beverages;17/01/2019;Credit card;81.21;10;6.3
+567;Naypyitaw;Normal;Female;Sports and travel;03/02/2019;Credit card;49.33;10;9.4
+568;Yangon;Normal;Female;Fashion accessories;01/01/2019;Cash;65.74;9;7.7
+569;Mandalay;Normal;Female;Fashion accessories;10/01/2019;Credit card;79.86;7;5.5
+570;Naypyitaw;Normal;Female;Sports and travel;02/03/2019;Ewallet;73.98;7;4.1
+571;Mandalay;Member;Female;Home and lifestyle;25/02/2019;Credit card;82.04;5;7.6
+572;Mandalay;Member;Male;Sports and travel;29/01/2019;Cash;26.67;10;8.6
+573;Yangon;Member;Male;Food and beverages;10/03/2019;Ewallet;10.13;7;8.3
+574;Mandalay;Normal;Male;Food and beverages;13/01/2019;Credit card;72.39;2;8.1
+575;Yangon;Normal;Male;Sports and travel;22/03/2019;Credit card;85.91;5;8.6
+576;Mandalay;Member;Male;Fashion accessories;01/03/2019;Ewallet;81.31;7;6.3
+577;Mandalay;Normal;Male;Food and beverages;20/02/2019;Cash;60.3;4;5.8
+578;Naypyitaw;Normal;Male;Food and beverages;14/01/2019;Ewallet;31.77;4;6.2
+579;Yangon;Normal;Female;Health and beauty;26/03/2019;Cash;64.27;4;7.7
+580;Mandalay;Normal;Male;Health and beauty;01/03/2019;Ewallet;69.51;2;8.1
+581;Naypyitaw;Normal;Male;Food and beverages;07/01/2019;Cash;27.22;3;7.3
+582;Yangon;Member;Female;Health and beauty;01/02/2019;Cash;77.68;4;8.4
+583;Naypyitaw;Member;Female;Fashion accessories;13/02/2019;Credit card;92.98;2;8
+584;Mandalay;Member;Female;Fashion accessories;14/01/2019;Credit card;18.08;4;9.5
+585;Mandalay;Normal;Male;Sports and travel;19/01/2019;Ewallet;63.06;3;7
+586;Yangon;Normal;Male;Health and beauty;09/03/2019;Credit card;51.71;4;9.8
+587;Yangon;Normal;Female;Food and beverages;27/03/2019;Cash;52.34;3;9.2
+588;Yangon;Normal;Female;Sports and travel;04/02/2019;Ewallet;43.06;5;7.7
+589;Naypyitaw;Normal;Male;Fashion accessories;14/03/2019;Cash;59.61;10;5.3
+590;Yangon;Normal;Male;Health and beauty;04/03/2019;Cash;14.62;5;4.4
+591;Naypyitaw;Member;Male;Health and beauty;03/03/2019;Credit card;46.53;6;4.3
+592;Naypyitaw;Member;Female;Home and lifestyle;27/01/2019;Ewallet;24.24;7;9.4
+593;Yangon;Member;Female;Sports and travel;07/02/2019;Cash;45.58;1;9.8
+594;Yangon;Member;Female;Sports and travel;05/02/2019;Ewallet;75.2;3;4.8
+595;Mandalay;Member;Male;Sports and travel;15/03/2019;Cash;96.8;3;5.3
+596;Mandalay;Normal;Male;Health and beauty;01/03/2019;Credit card;14.82;3;8.7
+597;Yangon;Normal;Male;Food and beverages;15/02/2019;Credit card;52.2;3;9.5
+598;Naypyitaw;Normal;Female;Sports and travel;17/02/2019;Ewallet;46.66;9;5.3
+599;Naypyitaw;Normal;Female;Fashion accessories;26/01/2019;Cash;36.85;5;9.2
+600;Yangon;Member;Female;Home and lifestyle;24/03/2019;Ewallet;70.32;2;9.6
+601;Naypyitaw;Normal;Male;Electronic accessories;23/01/2019;Ewallet;83.08;1;6.4
+602;Naypyitaw;Normal;Female;Fashion accessories;26/01/2019;Credit card;64.99;1;4.5
+603;Naypyitaw;Normal;Male;Food and beverages;14/03/2019;Ewallet;77.56;10;6.9
+604;Mandalay;Normal;Female;Sports and travel;17/03/2019;Ewallet;54.51;6;7.8
+605;Naypyitaw;Member;Female;Fashion accessories;08/01/2019;Cash;51.89;7;4.5
+606;Mandalay;Normal;Male;Home and lifestyle;08/02/2019;Cash;31.75;4;8.6
+607;Yangon;Member;Female;Fashion accessories;10/02/2019;Ewallet;53.65;7;5.2
+608;Naypyitaw;Member;Female;Food and beverages;28/03/2019;Credit card;49.79;4;6.4
+609;Yangon;Normal;Male;Fashion accessories;23/01/2019;Ewallet;30.61;1;5.2
+610;Mandalay;Member;Male;Food and beverages;17/01/2019;Ewallet;57.89;2;8.9
+611;Yangon;Normal;Female;Electronic accessories;07/02/2019;Credit card;28.96;1;6.2
+612;Naypyitaw;Member;Female;Food and beverages;09/03/2019;Cash;98.97;9;6.7
+613;Mandalay;Member;Male;Fashion accessories;24/01/2019;Cash;93.22;3;7.2
+614;Naypyitaw;Member;Male;Sports and travel;19/01/2019;Credit card;80.93;1;9
+615;Yangon;Member;Male;Food and beverages;03/02/2019;Ewallet;67.45;10;4.2
+616;Yangon;Member;Female;Sports and travel;20/03/2019;Ewallet;38.72;9;4.2
+617;Mandalay;Member;Male;Sports and travel;13/01/2019;Cash;72.6;6;6.9
+618;Naypyitaw;Member;Male;Electronic accessories;14/03/2019;Ewallet;87.91;5;4.4
+619;Yangon;Member;Male;Food and beverages;23/01/2019;Credit card;98.53;6;4
+620;Naypyitaw;Member;Female;Fashion accessories;07/02/2019;Ewallet;43.46;6;8.5
+621;Yangon;Normal;Female;Food and beverages;28/03/2019;Credit card;71.68;3;9.2
+622;Yangon;Member;Female;Food and beverages;20/03/2019;Cash;91.61;1;9.8
+623;Mandalay;Member;Female;Home and lifestyle;17/01/2019;Credit card;94.59;7;4.9
+624;Mandalay;Normal;Female;Fashion accessories;12/01/2019;Credit card;83.25;10;4.4
+625;Mandalay;Member;Male;Fashion accessories;16/02/2019;Cash;91.35;1;6.8
+626;Mandalay;Member;Female;Food and beverages;26/01/2019;Cash;78.88;2;9.1
+627;Yangon;Normal;Male;Sports and travel;09/03/2019;Ewallet;60.87;2;8.7
+628;Mandalay;Member;Male;Health and beauty;14/03/2019;Cash;82.58;10;5
+629;Yangon;Member;Male;Home and lifestyle;25/01/2019;Ewallet;53.3;3;7.5
+630;Yangon;Normal;Female;Fashion accessories;26/01/2019;Credit card;12.09;1;8.2
+631;Yangon;Normal;Male;Sports and travel;19/01/2019;Credit card;64.19;10;6.7
+632;Yangon;Normal;Male;Electronic accessories;05/03/2019;Ewallet;78.31;3;5.4
+633;Yangon;Member;Male;Food and beverages;15/01/2019;Credit card;83.77;2;7
+634;Mandalay;Normal;Male;Home and lifestyle;18/03/2019;Ewallet;99.7;3;4.7
+635;Mandalay;Member;Male;Food and beverages;20/03/2019;Credit card;79.91;3;5
+636;Mandalay;Member;Male;Health and beauty;15/01/2019;Credit card;66.47;10;5
+637;Yangon;Normal;Male;Health and beauty;03/03/2019;Credit card;28.95;7;6
+638;Naypyitaw;Normal;Female;Electronic accessories;19/03/2019;Cash;46.2;1;6.3
+639;Mandalay;Member;Female;Food and beverages;08/03/2019;Cash;17.63;5;8.5
+640;Mandalay;Normal;Male;Fashion accessories;27/02/2019;Ewallet;52.42;3;7.5
+641;Mandalay;Member;Female;Food and beverages;23/02/2019;Ewallet;98.79;3;6.4
+642;Naypyitaw;Member;Female;Electronic accessories;19/03/2019;Ewallet;88.55;8;4.7
+643;Mandalay;Member;Male;Electronic accessories;27/03/2019;Ewallet;55.67;2;6
+644;Naypyitaw;Member;Female;Food and beverages;30/03/2019;Credit card;72.52;8;4
+645;Naypyitaw;Member;Male;Electronic accessories;16/02/2019;Ewallet;12.05;5;5.5
+646;Yangon;Member;Male;Home and lifestyle;18/01/2019;Ewallet;19.36;9;8.7
+647;Naypyitaw;Normal;Male;Health and beauty;30/03/2019;Cash;70.21;6;7.4
+648;Mandalay;Member;Male;Fashion accessories;20/03/2019;Cash;33.63;1;5.6
+649;Naypyitaw;Member;Female;Sports and travel;16/01/2019;Cash;15.49;2;6.3
+650;Naypyitaw;Normal;Male;Electronic accessories;24/02/2019;Cash;24.74;10;7.1
+651;Mandalay;Normal;Male;Electronic accessories;15/01/2019;Ewallet;75.66;5;7.8
+652;Mandalay;Normal;Female;Health and beauty;22/01/2019;Cash;55.81;6;9.9
+653;Yangon;Member;Male;Home and lifestyle;03/02/2019;Cash;72.78;10;7.3
+654;Mandalay;Member;Male;Sports and travel;06/03/2019;Ewallet;37.32;9;5.1
+655;Mandalay;Member;Male;Fashion accessories;16/02/2019;Credit card;60.18;4;9.4
+656;Yangon;Normal;Female;Electronic accessories;14/03/2019;Credit card;15.69;3;5.8
+657;Naypyitaw;Normal;Female;Electronic accessories;27/02/2019;Credit card;99.69;1;8
+658;Yangon;Member;Female;Fashion accessories;18/01/2019;Ewallet;88.15;3;7.9
+659;Yangon;Member;Female;Sports and travel;29/01/2019;Cash;27.93;5;5.9
+660;Yangon;Member;Male;Fashion accessories;26/02/2019;Credit card;55.45;1;4.9
+661;Mandalay;Normal;Female;Sports and travel;03/02/2019;Cash;42.97;3;9.3
+662;Naypyitaw;Member;Male;Sports and travel;16/01/2019;Credit card;17.14;7;7.9
+663;Mandalay;Member;Female;Fashion accessories;24/03/2019;Credit card;58.75;6;5.9
+664;Naypyitaw;Member;Female;Food and beverages;12/02/2019;Credit card;87.1;10;9.9
+665;Naypyitaw;Normal;Female;Sports and travel;21/02/2019;Cash;98.8;2;7.7
+666;Yangon;Normal;Female;Fashion accessories;04/02/2019;Ewallet;48.63;4;7.6
+667;Mandalay;Member;Male;Food and beverages;20/02/2019;Ewallet;57.74;3;7.7
+668;Mandalay;Normal;Female;Health and beauty;23/02/2019;Ewallet;17.97;4;6.4
+669;Naypyitaw;Member;Female;Health and beauty;16/02/2019;Ewallet;47.71;6;4.4
+670;Mandalay;Normal;Female;Sports and travel;17/01/2019;Credit card;40.62;2;4.1
+671;Yangon;Member;Male;Fashion accessories;14/01/2019;Ewallet;56.04;10;4.4
+672;Mandalay;Member;Male;Food and beverages;30/03/2019;Cash;93.4;2;5.5
+673;Mandalay;Normal;Female;Health and beauty;02/03/2019;Ewallet;73.41;3;4
+674;Naypyitaw;Normal;Male;Health and beauty;15/02/2019;Credit card;33.64;8;9.3
+675;Yangon;Normal;Female;Electronic accessories;01/03/2019;Credit card;45.48;10;4.8
+676;Mandalay;Member;Male;Fashion accessories;24/02/2019;Cash;83.77;2;4.6
+677;Mandalay;Member;Female;Sports and travel;19/02/2019;Credit card;64.08;7;7.3
+678;Yangon;Member;Female;Food and beverages;23/02/2019;Cash;73.47;4;6
+679;Naypyitaw;Normal;Male;Health and beauty;07/02/2019;Ewallet;58.95;10;8.1
+680;Yangon;Member;Male;Food and beverages;11/01/2019;Ewallet;48.5;6;9.4
+681;Mandalay;Member;Female;Electronic accessories;12/02/2019;Cash;39.48;1;6.5
+682;Mandalay;Normal;Female;Sports and travel;14/01/2019;Credit card;34.81;1;7
+683;Naypyitaw;Normal;Female;Fashion accessories;09/01/2019;Ewallet;49.32;6;7.1
+684;Yangon;Member;Male;Fashion accessories;27/02/2019;Ewallet;21.48;2;6.6
+685;Mandalay;Member;Female;Sports and travel;24/01/2019;Ewallet;23.08;6;4.9
+686;Mandalay;Member;Female;Home and lifestyle;08/01/2019;Credit card;49.1;2;6.4
+687;Mandalay;Member;Female;Sports and travel;08/01/2019;Credit card;64.83;2;8
+688;Yangon;Member;Male;Home and lifestyle;16/01/2019;Cash;63.56;10;4.3
+689;Naypyitaw;Member;Male;Sports and travel;13/03/2019;Cash;72.88;2;6.1
+690;Yangon;Normal;Female;Food and beverages;15/02/2019;Cash;67.1;3;7.5
+691;Naypyitaw;Member;Female;Sports and travel;25/01/2019;Cash;70.19;9;6.7
+692;Naypyitaw;Member;Male;Food and beverages;12/03/2019;Ewallet;55.04;7;5.2
+693;Yangon;Member;Male;Health and beauty;04/03/2019;Cash;48.63;10;8.8
+694;Naypyitaw;Member;Female;Fashion accessories;10/02/2019;Cash;73.38;7;9.5
+695;Naypyitaw;Normal;Female;Food and beverages;16/01/2019;Cash;52.6;9;7.6
+696;Yangon;Member;Female;Home and lifestyle;29/01/2019;Cash;87.37;5;6.6
+697;Yangon;Member;Female;Sports and travel;01/01/2019;Ewallet;27.04;4;6.9
+698;Mandalay;Normal;Male;Home and lifestyle;06/01/2019;Ewallet;62.19;4;4.3
+699;Yangon;Member;Male;Electronic accessories;19/02/2019;Credit card;69.58;9;7.8
+700;Naypyitaw;Normal;Male;Home and lifestyle;12/01/2019;Ewallet;97.5;10;8
+701;Naypyitaw;Normal;Female;Fashion accessories;07/02/2019;Ewallet;60.41;8;9.6
+702;Mandalay;Normal;Male;Food and beverages;27/03/2019;Credit card;32.32;3;4.3
+703;Mandalay;Member;Female;Fashion accessories;27/02/2019;Credit card;19.77;10;5
+704;Mandalay;Member;Male;Health and beauty;06/01/2019;Cash;80.47;9;9.2
+705;Mandalay;Member;Female;Home and lifestyle;02/03/2019;Cash;88.39;9;6.3
+706;Mandalay;Normal;Male;Health and beauty;29/03/2019;Cash;71.77;7;8.9
+707;Mandalay;Normal;Female;Electronic accessories;31/01/2019;Ewallet;43;4;7.6
+708;Naypyitaw;Member;Male;Food and beverages;21/01/2019;Cash;68.98;1;4.8
+709;Naypyitaw;Normal;Male;Fashion accessories;20/01/2019;Ewallet;15.62;8;9.1
+710;Yangon;Normal;Male;Sports and travel;17/01/2019;Ewallet;25.7;3;6.1
+711;Yangon;Member;Male;Food and beverages;28/02/2019;Cash;80.62;6;9.1
+712;Naypyitaw;Member;Female;Home and lifestyle;19/03/2019;Ewallet;75.53;4;8.3
+713;Naypyitaw;Normal;Female;Electronic accessories;19/02/2019;Ewallet;77.63;9;7.2
+714;Naypyitaw;Normal;Female;Health and beauty;04/02/2019;Ewallet;13.85;9;6
+715;Naypyitaw;Member;Male;Fashion accessories;31/01/2019;Ewallet;98.7;8;8.5
+716;Yangon;Normal;Female;Health and beauty;06/02/2019;Credit card;35.68;5;6.6
+717;Yangon;Member;Female;Fashion accessories;28/03/2019;Ewallet;71.46;7;4.5
+718;Yangon;Member;Male;Electronic accessories;19/01/2019;Credit card;11.94;3;8.1
+719;Yangon;Normal;Male;Fashion accessories;17/02/2019;Credit card;45.38;3;7.2
+720;Mandalay;Member;Female;Fashion accessories;18/01/2019;Credit card;17.48;6;6.1
+721;Mandalay;Normal;Female;Fashion accessories;02/02/2019;Cash;25.56;7;7.1
+722;Naypyitaw;Member;Female;Sports and travel;18/01/2019;Cash;90.63;9;5.1
+723;Mandalay;Normal;Male;Home and lifestyle;18/03/2019;Credit card;44.12;3;7.9
+724;Naypyitaw;Member;Female;Food and beverages;11/01/2019;Cash;36.77;7;7.4
+725;Mandalay;Member;Male;Food and beverages;04/02/2019;Ewallet;23.34;4;7.4
+726;Naypyitaw;Member;Female;Health and beauty;06/02/2019;Cash;28.5;8;6.6
+727;Naypyitaw;Member;Male;Home and lifestyle;08/01/2019;Credit card;55.57;3;5.9
+728;Mandalay;Normal;Male;Sports and travel;05/03/2019;Credit card;69.74;10;8.9
+729;Naypyitaw;Normal;Male;Fashion accessories;16/03/2019;Ewallet;97.26;4;6.8
+730;Mandalay;Member;Female;Home and lifestyle;09/03/2019;Cash;52.18;7;9.3
+731;Yangon;Member;Female;Fashion accessories;01/03/2019;Credit card;22.32;4;4.4
+732;Yangon;Normal;Male;Health and beauty;28/02/2019;Ewallet;56;3;4.8
+733;Yangon;Member;Male;Fashion accessories;08/02/2019;Ewallet;19.7;1;9.5
+734;Mandalay;Normal;Male;Electronic accessories;24/01/2019;Ewallet;75.88;7;8.9
+735;Mandalay;Member;Male;Food and beverages;01/03/2019;Ewallet;53.72;1;6.4
+736;Naypyitaw;Member;Male;Health and beauty;10/03/2019;Credit card;81.95;10;6
+737;Naypyitaw;Member;Female;Home and lifestyle;23/03/2019;Credit card;81.2;7;8.1
+738;Naypyitaw;Normal;Male;Electronic accessories;29/01/2019;Ewallet;58.76;10;9
+739;Mandalay;Member;Male;Electronic accessories;12/01/2019;Ewallet;91.56;8;6
+740;Yangon;Normal;Male;Home and lifestyle;20/03/2019;Cash;93.96;9;9.8
+741;Naypyitaw;Normal;Male;Home and lifestyle;23/03/2019;Cash;55.61;7;8.5
+742;Naypyitaw;Normal;Male;Food and beverages;14/01/2019;Ewallet;84.83;1;8.8
+743;Yangon;Member;Female;Sports and travel;12/02/2019;Ewallet;71.63;2;8.8
+744;Yangon;Member;Male;Home and lifestyle;20/02/2019;Ewallet;37.69;2;9.5
+745;Naypyitaw;Member;Female;Sports and travel;02/01/2019;Credit card;31.67;8;5.6
+746;Naypyitaw;Member;Female;Food and beverages;02/02/2019;Cash;38.42;1;8.6
+747;Mandalay;Member;Male;Fashion accessories;08/01/2019;Credit card;65.23;10;5.2
+748;Naypyitaw;Member;Female;Home and lifestyle;30/01/2019;Credit card;10.53;5;5.8
+749;Mandalay;Member;Female;Home and lifestyle;26/03/2019;Credit card;12.29;9;8
+750;Naypyitaw;Member;Male;Health and beauty;15/01/2019;Cash;81.23;7;9
+751;Mandalay;Member;Female;Fashion accessories;14/03/2019;Ewallet;22.32;4;4.1
+752;Yangon;Normal;Female;Food and beverages;03/02/2019;Credit card;27.28;5;8.6
+753;Yangon;Member;Female;Electronic accessories;22/02/2019;Ewallet;17.42;10;7
+754;Mandalay;Normal;Male;Home and lifestyle;24/01/2019;Ewallet;73.28;5;8.4
+755;Naypyitaw;Member;Female;Fashion accessories;25/01/2019;Ewallet;84.87;3;7.4
+756;Yangon;Normal;Female;Fashion accessories;09/03/2019;Credit card;97.29;8;6.2
+757;Mandalay;Member;Female;Electronic accessories;17/02/2019;Ewallet;35.74;8;4.9
+758;Yangon;Normal;Female;Home and lifestyle;11/01/2019;Cash;96.52;6;4.5
+759;Yangon;Member;Male;Food and beverages;27/02/2019;Ewallet;18.85;10;5.6
+760;Yangon;Normal;Female;Food and beverages;25/03/2019;Ewallet;55.39;4;8
+761;Mandalay;Member;Female;Food and beverages;11/02/2019;Credit card;77.2;10;5.6
+762;Mandalay;Normal;Male;Electronic accessories;31/01/2019;Credit card;72.13;10;4.2
+763;Yangon;Member;Female;Fashion accessories;20/01/2019;Ewallet;63.88;8;9.9
+764;Yangon;Member;Female;Health and beauty;26/03/2019;Ewallet;10.69;5;7.6
+765;Yangon;Member;Male;Health and beauty;20/01/2019;Credit card;55.5;4;6.6
+766;Mandalay;Normal;Female;Home and lifestyle;05/03/2019;Ewallet;95.46;8;4.7
+767;Naypyitaw;Normal;Female;Fashion accessories;05/01/2019;Credit card;76.06;3;9.8
+768;Mandalay;Normal;Male;Sports and travel;13/02/2019;Cash;13.69;6;6.3
+769;Mandalay;Normal;Female;Electronic accessories;16/03/2019;Cash;95.64;4;7.9
+770;Yangon;Normal;Female;Home and lifestyle;15/01/2019;Cash;11.43;6;7.7
+771;Mandalay;Member;Female;Sports and travel;26/02/2019;Ewallet;95.54;4;4.5
+772;Naypyitaw;Member;Female;Health and beauty;27/02/2019;Credit card;85.87;7;8
+773;Naypyitaw;Member;Female;Sports and travel;17/02/2019;Ewallet;67.99;7;5.7
+774;Naypyitaw;Normal;Female;Food and beverages;06/02/2019;Credit card;52.42;1;6.3
+775;Naypyitaw;Member;Male;Food and beverages;17/01/2019;Cash;65.65;2;6
+776;Mandalay;Normal;Female;Food and beverages;22/01/2019;Credit card;28.86;5;8
+777;Naypyitaw;Member;Male;Health and beauty;05/03/2019;Credit card;65.31;7;4.2
+778;Mandalay;Normal;Male;Sports and travel;03/01/2019;Cash;93.38;1;9.6
+779;Naypyitaw;Member;Male;Sports and travel;20/03/2019;Cash;25.25;5;6.1
+780;Mandalay;Member;Male;Electronic accessories;31/01/2019;Ewallet;87.87;9;5.6
+781;Naypyitaw;Normal;Male;Health and beauty;19/02/2019;Cash;21.8;8;8.3
+782;Yangon;Normal;Female;Sports and travel;11/02/2019;Ewallet;94.76;4;7.8
+783;Yangon;Member;Female;Fashion accessories;05/02/2019;Credit card;30.62;1;4.1
+784;Naypyitaw;Normal;Female;Home and lifestyle;03/03/2019;Cash;44.01;8;8.8
+785;Naypyitaw;Member;Female;Health and beauty;24/02/2019;Ewallet;10.16;5;4.1
+786;Yangon;Normal;Male;Electronic accessories;04/02/2019;Credit card;74.58;7;9
+787;Naypyitaw;Normal;Male;Electronic accessories;19/02/2019;Ewallet;71.89;8;5.5
+788;Naypyitaw;Normal;Female;Health and beauty;23/01/2019;Credit card;10.99;5;9.3
+789;Naypyitaw;Member;Male;Health and beauty;14/01/2019;Credit card;60.47;3;5.6
+790;Yangon;Normal;Male;Sports and travel;17/01/2019;Ewallet;58.91;7;9.7
+791;Yangon;Normal;Male;Fashion accessories;03/03/2019;Credit card;46.41;1;4
+792;Naypyitaw;Member;Male;Health and beauty;15/02/2019;Credit card;68.55;4;9.2
+793;Mandalay;Normal;Female;Home and lifestyle;15/01/2019;Credit card;97.37;10;4.9
+794;Yangon;Member;Male;Electronic accessories;27/02/2019;Credit card;92.6;7;9.3
+795;Yangon;Normal;Female;Electronic accessories;26/02/2019;Credit card;46.61;2;6.6
+796;Mandalay;Normal;Male;Fashion accessories;15/03/2019;Ewallet;27.18;2;4.3
+797;Naypyitaw;Member;Female;Home and lifestyle;24/01/2019;Cash;60.87;1;5.5
+798;Yangon;Member;Female;Sports and travel;22/02/2019;Cash;24.49;10;8.1
+799;Mandalay;Normal;Male;Health and beauty;15/03/2019;Credit card;92.78;1;9.8
+800;Naypyitaw;Member;Male;Home and lifestyle;11/02/2019;Ewallet;86.69;5;9.4
+801;Mandalay;Normal;Male;Sports and travel;12/01/2019;Ewallet;23.01;6;7.9
+802;Naypyitaw;Member;Female;Electronic accessories;03/03/2019;Ewallet;30.2;8;5.1
+803;Naypyitaw;Member;Male;Fashion accessories;23/03/2019;Ewallet;67.39;7;6.9
+804;Yangon;Member;Female;Fashion accessories;04/03/2019;Cash;48.96;9;8
+805;Mandalay;Member;Female;Electronic accessories;23/02/2019;Cash;75.59;9;8
+806;Yangon;Normal;Female;Home and lifestyle;17/03/2019;Cash;77.47;4;4.2
+807;Yangon;Normal;Female;Sports and travel;16/01/2019;Credit card;93.18;2;8.5
+808;Yangon;Normal;Female;Electronic accessories;08/01/2019;Cash;50.23;4;9
+809;Mandalay;Normal;Female;Health and beauty;14/01/2019;Cash;17.75;1;8.6
+810;Naypyitaw;Normal;Female;Fashion accessories;31/01/2019;Ewallet;62.18;10;6
+811;Mandalay;Normal;Male;Health and beauty;15/03/2019;Ewallet;10.75;8;6.2
+812;Yangon;Normal;Female;Electronic accessories;24/02/2019;Credit card;40.26;10;5
+813;Naypyitaw;Member;Female;Sports and travel;08/02/2019;Credit card;64.97;5;6.5
+814;Yangon;Normal;Male;Electronic accessories;22/03/2019;Cash;95.15;1;6
+815;Yangon;Member;Female;Electronic accessories;24/01/2019;Cash;48.62;8;5
+816;Mandalay;Normal;Female;Food and beverages;14/03/2019;Ewallet;53.21;8;5
+817;Naypyitaw;Normal;Female;Fashion accessories;23/01/2019;Cash;45.44;7;9.2
+818;Yangon;Normal;Male;Food and beverages;19/01/2019;Ewallet;33.88;8;9.6
+819;Mandalay;Member;Male;Health and beauty;27/01/2019;Credit card;96.16;4;8.4
+820;Mandalay;Member;Male;Food and beverages;03/02/2019;Credit card;47.16;5;6
+821;Mandalay;Normal;Male;Electronic accessories;25/03/2019;Ewallet;52.89;4;6.7
+822;Yangon;Member;Female;Home and lifestyle;24/02/2019;Credit card;47.68;2;4.1
+823;Naypyitaw;Member;Male;Sports and travel;07/02/2019;Cash;10.17;1;5.9
+824;Yangon;Normal;Female;Health and beauty;04/03/2019;Cash;68.71;3;8.7
+825;Mandalay;Member;Female;Sports and travel;14/02/2019;Credit card;60.08;7;4.5
+826;Yangon;Member;Female;Sports and travel;29/01/2019;Credit card;22.01;4;6.6
+827;Mandalay;Member;Female;Health and beauty;28/01/2019;Credit card;72.11;9;7.7
+828;Yangon;Member;Male;Fashion accessories;26/03/2019;Credit card;41.28;3;8.5
+829;Naypyitaw;Normal;Male;Electronic accessories;24/03/2019;Cash;64.95;10;5.2
+830;Yangon;Member;Female;Electronic accessories;01/01/2019;Credit card;74.22;10;4.3
+831;Yangon;Normal;Male;Electronic accessories;24/01/2019;Cash;10.56;8;7.6
+832;Mandalay;Normal;Male;Health and beauty;25/02/2019;Cash;62.57;4;9.5
+833;Mandalay;Member;Female;Sports and travel;09/01/2019;Cash;11.85;8;4.1
+834;Yangon;Member;Male;Health and beauty;14/02/2019;Ewallet;91.3;1;9.2
+835;Mandalay;Member;Female;Home and lifestyle;12/03/2019;Ewallet;40.73;7;5.4
+836;Yangon;Normal;Male;Fashion accessories;26/03/2019;Cash;52.38;1;5.8
+837;Yangon;Member;Male;Fashion accessories;09/01/2019;Ewallet;38.54;5;5.6
+838;Mandalay;Normal;Male;Sports and travel;02/01/2019;Credit card;44.63;6;5.1
+839;Naypyitaw;Normal;Male;Electronic accessories;15/01/2019;Cash;55.87;10;5.8
+840;Naypyitaw;Member;Female;Sports and travel;01/01/2019;Ewallet;29.22;6;5
+841;Yangon;Normal;Male;Fashion accessories;15/02/2019;Cash;51.94;3;7.9
+842;Mandalay;Normal;Male;Electronic accessories;28/02/2019;Cash;60.3;1;6
+843;Yangon;Member;Female;Sports and travel;02/03/2019;Credit card;39.47;2;5
+844;Naypyitaw;Member;Female;Food and beverages;13/02/2019;Credit card;14.87;2;8.9
+845;Yangon;Normal;Male;Fashion accessories;26/01/2019;Cash;21.32;1;5.9
+846;Yangon;Member;Male;Electronic accessories;30/01/2019;Credit card;93.78;3;5.9
+847;Yangon;Member;Male;Electronic accessories;27/01/2019;Ewallet;73.26;1;9.7
+848;Naypyitaw;Normal;Female;Sports and travel;30/01/2019;Credit card;22.38;1;8.6
+849;Naypyitaw;Member;Female;Food and beverages;08/01/2019;Cash;72.88;9;4
+850;Yangon;Normal;Female;Fashion accessories;19/01/2019;Cash;99.1;6;4.2
+851;Yangon;Normal;Male;Fashion accessories;25/01/2019;Cash;74.1;1;9.2
+852;Yangon;Normal;Female;Fashion accessories;19/02/2019;Ewallet;98.48;2;9.2
+853;Naypyitaw;Normal;Male;Health and beauty;14/01/2019;Ewallet;53.19;7;5
+854;Mandalay;Normal;Female;Electronic accessories;25/02/2019;Ewallet;52.79;10;10
+855;Yangon;Member;Female;Health and beauty;23/01/2019;Ewallet;95.95;5;8.8
+856;Mandalay;Normal;Female;Fashion accessories;16/02/2019;Cash;36.51;9;4.2
+857;Mandalay;Normal;Male;Food and beverages;01/01/2019;Cash;21.12;8;6.3
+858;Yangon;Member;Female;Home and lifestyle;07/03/2019;Cash;28.31;4;8.2
+859;Mandalay;Normal;Male;Health and beauty;15/02/2019;Cash;57.59;6;5.1
+860;Yangon;Member;Female;Food and beverages;23/01/2019;Cash;47.63;9;5
+861;Naypyitaw;Member;Female;Home and lifestyle;20/02/2019;Ewallet;86.27;1;7
+862;Yangon;Member;Male;Sports and travel;08/01/2019;Ewallet;12.76;2;7.8
+863;Mandalay;Normal;Female;Home and lifestyle;17/03/2019;Credit card;11.28;9;4.3
+864;Mandalay;Normal;Female;Home and lifestyle;12/01/2019;Cash;51.07;7;7
+865;Yangon;Member;Female;Electronic accessories;08/01/2019;Cash;79.59;3;6.6
+866;Naypyitaw;Member;Male;Health and beauty;26/01/2019;Ewallet;33.81;3;7.3
+867;Mandalay;Member;Male;Sports and travel;15/03/2019;Credit card;90.53;8;6.5
+868;Naypyitaw;Member;Female;Health and beauty;17/01/2019;Ewallet;62.82;2;4.9
+869;Naypyitaw;Member;Male;Food and beverages;08/01/2019;Credit card;24.31;3;4.3
+870;Yangon;Normal;Male;Sports and travel;06/01/2019;Ewallet;64.59;4;9.3
+871;Yangon;Member;Male;Food and beverages;16/02/2019;Credit card;24.82;7;7.1
+872;Naypyitaw;Normal;Male;Fashion accessories;13/03/2019;Ewallet;56.5;1;9.6
+873;Mandalay;Member;Female;Electronic accessories;28/01/2019;Cash;21.43;10;6.2
+874;Yangon;Member;Male;Sports and travel;18/01/2019;Cash;89.06;6;9.9
+875;Yangon;Member;Male;Home and lifestyle;19/03/2019;Credit card;23.29;4;5.9
+876;Naypyitaw;Normal;Male;Home and lifestyle;15/03/2019;Ewallet;65.26;8;6.3
+877;Naypyitaw;Member;Male;Fashion accessories;12/02/2019;Cash;52.35;1;4
+878;Mandalay;Member;Male;Electronic accessories;25/02/2019;Cash;39.75;1;6.1
+879;Yangon;Normal;Female;Electronic accessories;21/03/2019;Credit card;90.02;8;4.5
+880;Mandalay;Member;Female;Electronic accessories;19/01/2019;Ewallet;12.1;8;8.6
+881;Mandalay;Member;Female;Food and beverages;08/01/2019;Ewallet;33.21;10;6
+882;Naypyitaw;Member;Female;Fashion accessories;30/03/2019;Credit card;10.18;8;9.5
+883;Mandalay;Member;Male;Sports and travel;20/02/2019;Credit card;31.99;10;9.9
+884;Yangon;Member;Female;Home and lifestyle;30/03/2019;Ewallet;34.42;6;7.5
+885;Yangon;Member;Female;Food and beverages;19/03/2019;Cash;83.34;2;7.6
+886;Yangon;Normal;Male;Sports and travel;13/01/2019;Cash;45.58;7;5
+887;Yangon;Member;Male;Food and beverages;05/02/2019;Ewallet;87.9;1;6.7
+888;Yangon;Member;Female;Electronic accessories;23/03/2019;Ewallet;73.47;10;9.5
+889;Naypyitaw;Normal;Female;Fashion accessories;13/03/2019;Ewallet;12.19;8;6.8
+890;Yangon;Member;Male;Sports and travel;17/03/2019;Ewallet;76.92;10;5.6
+891;Naypyitaw;Normal;Female;Health and beauty;21/02/2019;Cash;83.66;5;7.2
+892;Mandalay;Normal;Female;Electronic accessories;07/02/2019;Cash;57.91;8;8.1
+893;Naypyitaw;Member;Female;Fashion accessories;02/03/2019;Credit card;92.49;5;8.6
+894;Mandalay;Normal;Male;Electronic accessories;06/03/2019;Cash;28.38;5;9.4
+895;Mandalay;Member;Male;Electronic accessories;06/02/2019;Credit card;50.45;6;8.9
+896;Mandalay;Normal;Male;Health and beauty;28/01/2019;Credit card;99.16;8;4.2
+897;Naypyitaw;Normal;Male;Fashion accessories;18/01/2019;Ewallet;60.74;7;5
+898;Naypyitaw;Member;Female;Food and beverages;05/02/2019;Cash;47.27;6;8.8
+899;Naypyitaw;Member;Male;Health and beauty;02/03/2019;Cash;85.6;7;5.3
+900;Yangon;Member;Male;Food and beverages;09/02/2019;Ewallet;35.04;9;4.6
+901;Naypyitaw;Member;Female;Electronic accessories;14/01/2019;Credit card;44.84;9;7.5
+902;Mandalay;Normal;Male;Home and lifestyle;09/02/2019;Ewallet;45.97;4;5.1
+903;Yangon;Member;Female;Health and beauty;26/03/2019;Credit card;27.73;5;4.2
+904;Yangon;Normal;Male;Food and beverages;28/01/2019;Cash;11.53;7;8.1
+905;Naypyitaw;Normal;Female;Health and beauty;14/02/2019;Ewallet;58.32;2;6
+906;Naypyitaw;Member;Female;Home and lifestyle;24/03/2019;Cash;78.38;4;7.9
+907;Naypyitaw;Normal;Male;Health and beauty;09/02/2019;Credit card;84.61;10;8.8
+908;Mandalay;Normal;Female;Health and beauty;24/03/2019;Credit card;82.88;5;6.6
+909;Yangon;Member;Female;Food and beverages;27/03/2019;Ewallet;79.54;2;6.2
+910;Mandalay;Normal;Female;Home and lifestyle;27/01/2019;Credit card;49.01;10;4.2
+911;Mandalay;Member;Female;Food and beverages;27/03/2019;Credit card;29.15;3;7.3
+912;Naypyitaw;Normal;Female;Electronic accessories;19/01/2019;Ewallet;56.13;4;8.6
+913;Yangon;Normal;Female;Home and lifestyle;07/02/2019;Cash;93.12;8;6.8
+914;Yangon;Member;Male;Fashion accessories;31/01/2019;Ewallet;51.34;8;7.6
+915;Yangon;Member;Female;Food and beverages;25/02/2019;Cash;99.6;3;5.8
+916;Naypyitaw;Normal;Female;Electronic accessories;02/02/2019;Cash;35.49;6;4.1
+917;Naypyitaw;Member;Male;Sports and travel;14/03/2019;Credit card;42.85;1;9.3
+918;Yangon;Normal;Female;Fashion accessories;11/03/2019;Cash;94.67;4;6.8
+919;Mandalay;Normal;Male;Home and lifestyle;22/02/2019;Ewallet;68.97;3;8.7
+920;Mandalay;Member;Female;Electronic accessories;02/03/2019;Ewallet;26.26;3;6.3
+921;Naypyitaw;Member;Female;Home and lifestyle;10/03/2019;Credit card;35.79;9;5.1
+922;Mandalay;Normal;Female;Home and lifestyle;08/02/2019;Cash;16.37;6;7
+923;Naypyitaw;Member;Female;Home and lifestyle;22/02/2019;Credit card;12.73;2;5.2
+924;Naypyitaw;Normal;Female;Sports and travel;10/01/2019;Credit card;83.14;7;6.6
+925;Naypyitaw;Member;Female;Sports and travel;14/03/2019;Ewallet;35.22;6;6.5
+926;Mandalay;Normal;Female;Electronic accessories;10/01/2019;Ewallet;13.78;4;9
+927;Mandalay;Member;Male;Sports and travel;15/02/2019;Credit card;88.31;1;5.2
+928;Yangon;Member;Female;Health and beauty;13/01/2019;Credit card;39.62;9;6.8
+929;Mandalay;Normal;Female;Electronic accessories;15/02/2019;Credit card;88.25;9;7.6
+930;Mandalay;Normal;Male;Sports and travel;02/03/2019;Ewallet;25.31;2;7.2
+931;Mandalay;Normal;Male;Home and lifestyle;24/03/2019;Ewallet;99.92;6;7.1
+932;Naypyitaw;Member;Female;Fashion accessories;02/02/2019;Credit card;83.35;2;9.5
+933;Yangon;Normal;Female;Food and beverages;27/02/2019;Ewallet;74.44;10;5.1
+934;Naypyitaw;Normal;Male;Health and beauty;20/01/2019;Ewallet;64.08;7;7.6
+935;Mandalay;Normal;Female;Home and lifestyle;03/01/2019;Ewallet;63.15;6;9.8
+936;Naypyitaw;Member;Male;Home and lifestyle;24/01/2019;Ewallet;85.72;3;5.1
+937;Naypyitaw;Normal;Female;Health and beauty;05/01/2019;Ewallet;78.89;7;7.5
+938;Yangon;Normal;Female;Sports and travel;30/03/2019;Cash;89.48;5;7.4
+939;Yangon;Member;Female;Health and beauty;17/02/2019;Cash;92.09;3;4.2
+940;Naypyitaw;Normal;Female;Food and beverages;21/03/2019;Ewallet;57.29;6;5.9
+941;Yangon;Normal;Male;Food and beverages;02/03/2019;Ewallet;66.52;4;6.9
+942;Naypyitaw;Member;Male;Fashion accessories;27/03/2019;Cash;99.82;9;6.6
+943;Yangon;Normal;Female;Home and lifestyle;19/01/2019;Ewallet;45.68;10;5.7
+944;Yangon;Normal;Male;Health and beauty;19/02/2019;Credit card;50.79;5;5.3
+945;Yangon;Member;Male;Health and beauty;28/03/2019;Cash;10.08;7;4.2
+946;Yangon;Normal;Female;Electronic accessories;05/01/2019;Credit card;93.88;7;7.3
+947;Naypyitaw;Member;Male;Electronic accessories;26/03/2019;Credit card;84.25;2;5.3
+948;Mandalay;Member;Male;Fashion accessories;03/02/2019;Ewallet;53.78;1;4.7
+949;Naypyitaw;Member;Male;Home and lifestyle;06/02/2019;Ewallet;35.81;5;7.9
+950;Mandalay;Normal;Female;Food and beverages;24/02/2019;Ewallet;26.43;8;8.9
+951;Mandalay;Member;Male;Health and beauty;21/02/2019;Ewallet;39.91;3;9.3
+952;Mandalay;Member;Female;Home and lifestyle;09/01/2019;Ewallet;21.9;3;4.7
+953;Mandalay;Member;Female;Food and beverages;25/02/2019;Ewallet;62.85;4;8.7
+954;Naypyitaw;Member;Female;Food and beverages;13/01/2019;Cash;21.04;4;7.6
+955;Mandalay;Member;Male;Home and lifestyle;09/02/2019;Cash;65.91;6;5.7
+956;Yangon;Normal;Female;Fashion accessories;06/01/2019;Cash;42.57;7;6.8
+957;Naypyitaw;Member;Male;Food and beverages;10/01/2019;Cash;50.49;9;5.4
+958;Mandalay;Normal;Male;Electronic accessories;07/02/2019;Cash;46.02;6;7.1
+959;Naypyitaw;Normal;Female;Home and lifestyle;09/01/2019;Cash;15.8;10;7.8
+960;Yangon;Member;Female;Food and beverages;19/02/2019;Cash;98.66;9;8.4
+961;Naypyitaw;Member;Male;Fashion accessories;18/03/2019;Cash;91.98;1;9.8
+962;Yangon;Member;Male;Electronic accessories;05/02/2019;Cash;20.89;2;9.8
+963;Yangon;Normal;Female;Fashion accessories;19/03/2019;Credit card;15.5;1;7.4
+964;Naypyitaw;Member;Male;Electronic accessories;30/03/2019;Cash;96.82;3;6.7
+965;Mandalay;Normal;Male;Food and beverages;26/01/2019;Credit card;33.33;2;6.4
+966;Mandalay;Normal;Female;Electronic accessories;02/03/2019;Credit card;38.27;2;5.8
+967;Yangon;Normal;Female;Home and lifestyle;04/03/2019;Ewallet;33.3;9;7.2
+968;Yangon;Member;Male;Home and lifestyle;13/01/2019;Credit card;81.01;3;9.3
+969;Yangon;Normal;Female;Health and beauty;25/03/2019;Cash;15.8;3;9.5
+970;Mandalay;Member;Female;Electronic accessories;11/03/2019;Credit card;34.49;5;9
+971;Mandalay;Member;Female;Food and beverages;01/01/2019;Credit card;84.63;10;9
+972;Mandalay;Member;Male;Home and lifestyle;10/02/2019;Ewallet;36.91;7;6.7
+973;Mandalay;Normal;Male;Electronic accessories;26/01/2019;Cash;87.08;7;5.5
+974;Yangon;Normal;Male;Home and lifestyle;11/02/2019;Cash;80.08;3;5.4
+975;Naypyitaw;Normal;Male;Fashion accessories;07/02/2019;Cash;86.13;2;8.2
+976;Mandalay;Member;Male;Fashion accessories;06/03/2019;Credit card;49.92;2;7
+977;Yangon;Normal;Female;Food and beverages;04/03/2019;Cash;74.66;4;8.5
+978;Mandalay;Member;Male;Food and beverages;26/02/2019;Ewallet;26.6;6;4.9
+979;Mandalay;Normal;Female;Electronic accessories;10/03/2019;Credit card;25.45;1;5.1
+980;Mandalay;Normal;Female;Food and beverages;04/02/2019;Credit card;67.77;1;6.5
+981;Naypyitaw;Member;Male;Food and beverages;19/01/2019;Cash;59.59;4;9.8
+982;Yangon;Normal;Male;Health and beauty;23/01/2019;Cash;58.15;4;8.4
+983;Yangon;Member;Female;Sports and travel;14/03/2019;Ewallet;97.48;9;7.4
+984;Naypyitaw;Normal;Male;Health and beauty;23/01/2019;Cash;99.96;7;6.1
+985;Naypyitaw;Normal;Male;Electronic accessories;09/01/2019;Cash;96.37;7;6
+986;Mandalay;Normal;Female;Fashion accessories;07/02/2019;Ewallet;63.71;5;8.5
+987;Mandalay;Normal;Female;Health and beauty;18/02/2019;Ewallet;14.76;2;4.3
+988;Mandalay;Member;Male;Health and beauty;03/01/2019;Credit card;62;8;6.2
+989;Naypyitaw;Member;Male;Electronic accessories;29/03/2019;Ewallet;82.34;10;4.3
+990;Mandalay;Member;Male;Health and beauty;28/01/2019;Credit card;75.37;8;8.4
+991;Yangon;Normal;Female;Food and beverages;22/03/2019;Credit card;56.56;5;4.5
+992;Mandalay;Normal;Female;Sports and travel;24/01/2019;Ewallet;76.6;10;6
+993;Yangon;Normal;Male;Electronic accessories;10/03/2019;Ewallet;58.03;2;8.8
+994;Mandalay;Normal;Male;Fashion accessories;22/02/2019;Ewallet;17.49;10;6.6
+995;Naypyitaw;Member;Female;Electronic accessories;18/02/2019;Ewallet;60.95;1;5.9
+996;Naypyitaw;Normal;Male;Health and beauty;29/01/2019;Ewallet;40.35;1;6.2
+997;Mandalay;Normal;Female;Home and lifestyle;02/03/2019;Ewallet;97.38;10;4.4
+998;Yangon;Member;Male;Food and beverages;09/02/2019;Cash;31.84;1;7.7
+999;Yangon;Normal;Male;Home and lifestyle;22/02/2019;Cash;65.82;1;4.1
+1000;Yangon;Member;Female;Fashion accessories;18/02/2019;Cash;88.34;7;6.6
