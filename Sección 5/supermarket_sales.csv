@@ -1,0 +1,1001 @@
+idProduct,City,Customer_type,Gender,Product_line,DateSale,Payment
+1,Yangon,Member,Female,Health and beauty,2019-01-05,Ewallet
+2,Naypyitaw,Normal,Female,Electronic accessories,2019-03-08,Cash
+3,Yangon,Normal,Male,Home and lifestyle,2019-03-03,Credit card
+4,Yangon,Member,Male,Health and beauty,2019-01-27,Ewallet
+5,Yangon,Normal,Male,Sports and travel,2019-02-08,Ewallet
+6,Naypyitaw,Normal,Male,Electronic accessories,2019-03-25,Ewallet
+7,Yangon,Member,Female,Electronic accessories,2019-02-25,Ewallet
+8,Naypyitaw,Normal,Female,Home and lifestyle,2019-02-24,Ewallet
+9,Yangon,Member,Female,Health and beauty,2019-01-10,Credit card
+10,Mandalay,Member,Female,Food and beverages,2019-02-20,Credit card
+11,Mandalay,Member,Female,Fashion accessories,2019-02-06,Ewallet
+12,Mandalay,Member,Male,Electronic accessories,2019-03-09,Cash
+13,Yangon,Normal,Female,Electronic accessories,2019-02-12,Ewallet
+14,Yangon,Normal,Male,Food and beverages,2019-02-07,Ewallet
+15,Yangon,Normal,Female,Health and beauty,2019-03-29,Cash
+16,Mandalay,Member,Female,Sports and travel,2019-01-15,Cash
+17,Yangon,Member,Female,Health and beauty,2019-03-11,Credit card
+18,Yangon,Normal,Male,Sports and travel,2019-01-01,Credit card
+19,Yangon,Normal,Male,Food and beverages,2019-01-21,Credit card
+20,Mandalay,Normal,Female,Home and lifestyle,2019-03-11,Ewallet
+21,Naypyitaw,Member,Male,Electronic accessories,2019-02-25,Ewallet
+22,Mandalay,Normal,Male,Health and beauty,2019-03-05,Ewallet
+23,Mandalay,Normal,Male,Home and lifestyle,2019-03-15,Credit card
+24,Yangon,Normal,Male,Electronic accessories,2019-02-17,Ewallet
+25,Yangon,Member,Male,Sports and travel,2019-03-02,Ewallet
+26,Yangon,Member,Female,Home and lifestyle,2019-03-22,Credit card
+27,Mandalay,Normal,Male,Fashion accessories,2019-02-08,Cash
+28,Yangon,Normal,Female,Fashion accessories,2019-03-10,Credit card
+29,Mandalay,Normal,Female,Food and beverages,2019-01-25,Cash
+30,Yangon,Normal,Male,Health and beauty,2019-03-15,Cash
+31,Mandalay,Normal,Male,Fashion accessories,2019-02-25,Credit card
+32,Mandalay,Member,Male,Sports and travel,2019-01-28,Cash
+33,Mandalay,Normal,Male,Sports and travel,2019-01-10,Cash
+34,Yangon,Normal,Male,Health and beauty,2019-03-15,Credit card
+35,Naypyitaw,Member,Female,Food and beverages,2019-02-06,Ewallet
+36,Naypyitaw,Member,Female,Sports and travel,2019-01-07,Ewallet
+37,Yangon,Member,Male,Sports and travel,2019-03-10,Ewallet
+38,Yangon,Normal,Female,Electronic accessories,2019-01-15,Ewallet
+39,Naypyitaw,Normal,Female,Health and beauty,2019-03-23,Ewallet
+40,Mandalay,Member,Male,Home and lifestyle,2019-03-03,Cash
+41,Mandalay,Member,Female,Home and lifestyle,2019-01-17,Ewallet
+42,Naypyitaw,Member,Male,Home and lifestyle,2019-02-02,Cash
+43,Mandalay,Member,Female,Sports and travel,2019-02-08,Cash
+44,Naypyitaw,Member,Female,Food and beverages,2019-03-04,Cash
+45,Naypyitaw,Member,Male,Health and beauty,2019-03-16,Cash
+46,Mandalay,Member,Female,Electronic accessories,2019-03-09,Cash
+47,Mandalay,Member,Male,Health and beauty,2019-02-27,Credit card
+48,Mandalay,Member,Female,Food and beverages,2019-02-06,Ewallet
+49,Mandalay,Member,Male,Electronic accessories,2019-02-10,Credit card
+50,Naypyitaw,Member,Female,Fashion accessories,2019-03-19,Ewallet
+51,Naypyitaw,Member,Male,Food and beverages,2019-02-03,Cash
+52,Yangon,Member,Female,Food and beverages,2019-02-10,Cash
+53,Mandalay,Member,Female,Fashion accessories,2019-03-22,Ewallet
+54,Naypyitaw,Member,Male,Fashion accessories,2019-01-25,Credit card
+55,Mandalay,Normal,Male,Home and lifestyle,2019-03-07,Ewallet
+56,Naypyitaw,Normal,Female,Electronic accessories,2019-02-28,Cash
+57,Yangon,Member,Male,Home and lifestyle,2019-03-27,Cash
+58,Yangon,Normal,Male,Health and beauty,2019-02-07,Ewallet
+59,Yangon,Member,Female,Home and lifestyle,2019-01-20,Cash
+60,Naypyitaw,Normal,Male,Electronic accessories,2019-03-12,Cash
+61,Naypyitaw,Member,Female,Sports and travel,2019-02-15,Credit card
+62,Naypyitaw,Normal,Male,Home and lifestyle,2019-02-24,Ewallet
+63,Mandalay,Member,Female,Sports and travel,2019-02-03,Ewallet
+64,Yangon,Member,Male,Sports and travel,2019-03-06,Credit card
+65,Mandalay,Member,Male,Health and beauty,2019-02-14,Cash
+66,Yangon,Member,Male,Health and beauty,2019-03-13,Cash
+67,Naypyitaw,Normal,Female,Health and beauty,2019-02-10,Ewallet
+68,Mandalay,Member,Female,Fashion accessories,2019-01-07,Ewallet
+69,Yangon,Normal,Male,Sports and travel,2019-01-24,Cash
+70,Yangon,Member,Female,Health and beauty,2019-02-02,Cash
+71,Naypyitaw,Normal,Male,Food and beverages,2019-01-06,Credit card
+72,Naypyitaw,Normal,Male,Fashion accessories,2019-02-11,Cash
+73,Mandalay,Member,Female,Food and beverages,2019-03-05,Ewallet
+74,Naypyitaw,Normal,Female,Electronic accessories,2019-03-09,Cash
+75,Yangon,Normal,Male,Home and lifestyle,2019-01-22,Ewallet
+76,Naypyitaw,Normal,Female,Electronic accessories,2019-01-13,Credit card
+77,Naypyitaw,Member,Male,Fashion accessories,2019-01-09,Credit card
+78,Yangon,Member,Female,Fashion accessories,2019-01-12,Credit card
+79,Naypyitaw,Member,Female,Food and beverages,2019-03-05,Ewallet
+80,Naypyitaw,Normal,Female,Health and beauty,2019-01-22,Cash
+81,Naypyitaw,Normal,Female,Health and beauty,2019-01-21,Credit card
+82,Mandalay,Normal,Female,Food and beverages,2019-01-26,Ewallet
+83,Naypyitaw,Normal,Male,Food and beverages,2019-01-23,Ewallet
+84,Naypyitaw,Member,Female,Food and beverages,2019-02-23,Credit card
+85,Naypyitaw,Member,Male,Sports and travel,2019-03-09,Cash
+86,Naypyitaw,Normal,Female,Sports and travel,2019-03-05,Ewallet
+87,Naypyitaw,Normal,Male,Fashion accessories,2019-03-25,Cash
+88,Yangon,Member,Male,Food and beverages,2019-03-27,Credit card
+89,Yangon,Normal,Male,Sports and travel,2019-01-02,Cash
+90,Mandalay,Normal,Female,Health and beauty,2019-02-27,Cash
+91,Naypyitaw,Member,Female,Home and lifestyle,2019-01-23,Cash
+92,Naypyitaw,Normal,Female,Sports and travel,2019-01-26,Ewallet
+93,Yangon,Member,Female,Sports and travel,2019-01-10,Ewallet
+94,Mandalay,Member,Male,Health and beauty,2019-03-12,Credit card
+95,Naypyitaw,Normal,Male,Health and beauty,2019-02-06,Credit card
+96,Yangon,Normal,Male,Electronic accessories,2019-03-08,Ewallet
+97,Mandalay,Normal,Male,Health and beauty,2019-03-29,Ewallet
+98,Naypyitaw,Normal,Female,Electronic accessories,2019-02-09,Cash
+99,Yangon,Normal,Male,Food and beverages,2019-03-23,Ewallet
+100,Mandalay,Normal,Male,Home and lifestyle,2019-03-05,Cash
+101,Naypyitaw,Member,Male,Fashion accessories,2019-03-26,Cash
+102,Naypyitaw,Normal,Male,Fashion accessories,2019-03-01,Cash
+103,Naypyitaw,Normal,Female,Electronic accessories,2019-02-01,Cash
+104,Yangon,Normal,Male,Food and beverages,2019-03-28,Cash
+105,Mandalay,Normal,Male,Health and beauty,2019-03-19,Cash
+106,Yangon,Member,Male,Electronic accessories,2019-01-12,Ewallet
+107,Naypyitaw,Normal,Male,Fashion accessories,2019-01-05,Credit card
+108,Yangon,Normal,Male,Sports and travel,2019-03-22,Cash
+109,Naypyitaw,Normal,Female,Food and beverages,2019-03-24,Cash
+110,Naypyitaw,Member,Male,Electronic accessories,2019-03-03,Cash
+111,Mandalay,Member,Female,Sports and travel,2019-02-05,Ewallet
+112,Naypyitaw,Member,Female,Health and beauty,2019-02-05,Credit card
+113,Mandalay,Normal,Female,Fashion accessories,2019-02-15,Cash
+114,Yangon,Member,Male,Home and lifestyle,2019-01-19,Ewallet
+115,Naypyitaw,Member,Female,Home and lifestyle,2019-02-01,Credit card
+116,Naypyitaw,Normal,Female,Fashion accessories,2019-03-02,Credit card
+117,Mandalay,Member,Male,Fashion accessories,2019-03-05,Ewallet
+118,Mandalay,Member,Male,Fashion accessories,2019-01-16,Ewallet
+119,Yangon,Normal,Female,Food and beverages,2019-02-02,Ewallet
+120,Mandalay,Normal,Male,Home and lifestyle,2019-01-20,Ewallet
+121,Yangon,Normal,Female,Electronic accessories,2019-02-14,Credit card
+122,Naypyitaw,Member,Male,Sports and travel,2019-01-12,Credit card
+123,Mandalay,Member,Male,Sports and travel,2019-03-09,Credit card
+124,Naypyitaw,Member,Male,Home and lifestyle,2019-03-13,Credit card
+125,Mandalay,Member,Female,Fashion accessories,2019-03-09,Ewallet
+126,Yangon,Normal,Female,Home and lifestyle,2019-03-10,Credit card
+127,Yangon,Normal,Female,Sports and travel,2019-01-27,Cash
+128,Naypyitaw,Normal,Female,Fashion accessories,2019-01-08,Credit card
+129,Naypyitaw,Member,Female,Food and beverages,2019-01-08,Ewallet
+130,Mandalay,Normal,Female,Sports and travel,2019-02-08,Ewallet
+131,Mandalay,Normal,Female,Fashion accessories,2019-01-25,Cash
+132,Yangon,Member,Female,Sports and travel,2019-03-06,Cash
+133,Mandalay,Normal,Female,Sports and travel,2019-02-10,Cash
+134,Mandalay,Member,Male,Electronic accessories,2019-02-17,Credit card
+135,Naypyitaw,Normal,Female,Health and beauty,2019-03-08,Ewallet
+136,Naypyitaw,Normal,Male,Fashion accessories,2019-02-18,Cash
+137,Yangon,Normal,Female,Electronic accessories,2019-01-18,Credit card
+138,Yangon,Member,Female,Home and lifestyle,2019-02-18,Cash
+139,Mandalay,Normal,Male,Sports and travel,2019-02-16,Cash
+140,Yangon,Normal,Male,Sports and travel,2019-03-16,Ewallet
+141,Naypyitaw,Member,Female,Sports and travel,2019-01-23,Credit card
+142,Naypyitaw,Member,Male,Health and beauty,2019-01-25,Cash
+143,Naypyitaw,Member,Female,Health and beauty,2019-02-05,Cash
+144,Naypyitaw,Member,Female,Food and beverages,2019-02-22,Credit card
+145,Yangon,Normal,Female,Home and lifestyle,2019-01-21,Ewallet
+146,Naypyitaw,Normal,Female,Health and beauty,2019-03-08,Credit card
+147,Yangon,Member,Female,Fashion accessories,2019-02-10,Ewallet
+148,Naypyitaw,Normal,Male,Health and beauty,2019-03-19,Credit card
+149,Mandalay,Member,Male,Home and lifestyle,2019-03-06,Credit card
+150,Yangon,Normal,Male,Health and beauty,2019-03-27,Credit card
+151,Mandalay,Member,Female,Fashion accessories,2019-03-23,Credit card
+152,Naypyitaw,Member,Male,Sports and travel,2019-03-11,Credit card
+153,Yangon,Normal,Male,Fashion accessories,2019-01-29,Credit card
+154,Naypyitaw,Normal,Female,Food and beverages,2019-02-07,Ewallet
+155,Naypyitaw,Normal,Female,Sports and travel,2019-01-28,Cash
+156,Yangon,Member,Male,Food and beverages,2019-02-20,Credit card
+157,Mandalay,Member,Male,Electronic accessories,2019-01-04,Cash
+158,Mandalay,Normal,Male,Home and lifestyle,2019-03-07,Ewallet
+159,Mandalay,Member,Male,Health and beauty,2019-03-30,Ewallet
+160,Mandalay,Normal,Male,Sports and travel,2019-03-27,Ewallet
+161,Naypyitaw,Normal,Female,Food and beverages,2019-01-19,Credit card
+162,Yangon,Normal,Male,Sports and travel,2019-02-25,Cash
+163,Yangon,Normal,Male,Food and beverages,2019-03-13,Credit card
+164,Naypyitaw,Normal,Male,Sports and travel,2019-01-30,Ewallet
+165,Mandalay,Normal,Male,Food and beverages,2019-02-20,Credit card
+166,Mandalay,Member,Male,Health and beauty,2019-02-25,Ewallet
+167,Naypyitaw,Normal,Male,Home and lifestyle,2019-01-16,Cash
+168,Yangon,Normal,Male,Fashion accessories,2019-02-08,Credit card
+169,Yangon,Normal,Male,Food and beverages,2019-01-19,Cash
+170,Yangon,Member,Male,Sports and travel,2019-02-01,Credit card
+171,Yangon,Normal,Male,Health and beauty,2019-01-03,Ewallet
+172,Mandalay,Member,Male,Food and beverages,2019-01-26,Credit card
+173,Naypyitaw,Normal,Male,Electronic accessories,2019-03-03,Cash
+174,Mandalay,Member,Male,Electronic accessories,2019-01-19,Credit card
+175,Mandalay,Normal,Male,Food and beverages,2019-01-18,Ewallet
+176,Yangon,Member,Male,Home and lifestyle,2019-03-21,Ewallet
+177,Yangon,Member,Male,Food and beverages,2019-03-03,Credit card
+178,Naypyitaw,Normal,Female,Fashion accessories,2019-02-13,Credit card
+179,Yangon,Normal,Male,Food and beverages,2019-03-23,Ewallet
+180,Naypyitaw,Member,Male,Health and beauty,2019-01-28,Ewallet
+181,Naypyitaw,Normal,Male,Fashion accessories,2019-02-09,Cash
+182,Naypyitaw,Member,Male,Food and beverages,2019-01-23,Cash
+183,Yangon,Member,Male,Sports and travel,2019-03-23,Ewallet
+184,Naypyitaw,Normal,Male,Health and beauty,2019-01-25,Ewallet
+185,Yangon,Normal,Female,Sports and travel,2019-03-04,Credit card
+186,Mandalay,Member,Male,Food and beverages,2019-03-05,Ewallet
+187,Mandalay,Member,Female,Home and lifestyle,2019-03-03,Ewallet
+188,Mandalay,Member,Male,Home and lifestyle,2019-02-08,Cash
+189,Yangon,Normal,Male,Home and lifestyle,2019-02-10,Ewallet
+190,Naypyitaw,Normal,Female,Home and lifestyle,2019-01-28,Credit card
+191,Mandalay,Normal,Female,Home and lifestyle,2019-02-11,Credit card
+192,Mandalay,Normal,Female,Fashion accessories,2019-01-15,Ewallet
+193,Naypyitaw,Normal,Female,Food and beverages,2019-03-16,Cash
+194,Mandalay,Normal,Male,Home and lifestyle,2019-01-26,Ewallet
+195,Yangon,Normal,Male,Electronic accessories,2019-03-19,Credit card
+196,Naypyitaw,Member,Female,Fashion accessories,2019-01-13,Cash
+197,Naypyitaw,Member,Male,Health and beauty,2019-03-26,Cash
+198,Yangon,Normal,Female,Home and lifestyle,2019-03-23,Ewallet
+199,Naypyitaw,Normal,Male,Health and beauty,2019-03-12,Credit card
+200,Naypyitaw,Member,Female,Food and beverages,2019-02-17,Credit card
+201,Naypyitaw,Member,Female,Sports and travel,2019-01-29,Credit card
+202,Mandalay,Member,Female,Electronic accessories,2019-03-15,Cash
+203,Naypyitaw,Normal,Male,Electronic accessories,2019-01-14,Cash
+204,Mandalay,Member,Male,Health and beauty,2019-02-06,Ewallet
+205,Mandalay,Member,Male,Home and lifestyle,2019-02-15,Credit card
+206,Yangon,Normal,Female,Health and beauty,2019-01-03,Ewallet
+207,Naypyitaw,Member,Female,Electronic accessories,2019-01-04,Credit card
+208,Naypyitaw,Member,Female,Home and lifestyle,2019-03-18,Ewallet
+209,Mandalay,Normal,Female,Fashion accessories,2019-03-28,Ewallet
+210,Mandalay,Normal,Female,Electronic accessories,2019-03-02,Credit card
+211,Yangon,Normal,Male,Electronic accessories,2019-01-25,Ewallet
+212,Naypyitaw,Normal,Female,Food and beverages,2019-01-16,Cash
+213,Mandalay,Normal,Male,Home and lifestyle,2019-03-20,Ewallet
+214,Mandalay,Normal,Male,Sports and travel,2019-01-04,Credit card
+215,Mandalay,Member,Female,Sports and travel,2019-03-11,Cash
+216,Yangon,Normal,Male,Home and lifestyle,2019-03-22,Credit card
+217,Mandalay,Normal,Female,Sports and travel,2019-03-24,Cash
+218,Yangon,Member,Female,Electronic accessories,2019-02-21,Cash
+219,Mandalay,Normal,Male,Fashion accessories,2019-02-12,Ewallet
+220,Mandalay,Normal,Female,Food and beverages,2019-03-10,Credit card
+221,Mandalay,Normal,Male,Electronic accessories,2019-01-31,Ewallet
+222,Mandalay,Normal,Male,Food and beverages,2019-03-06,Ewallet
+223,Naypyitaw,Normal,Male,Electronic accessories,2019-02-17,Cash
+224,Naypyitaw,Member,Female,Fashion accessories,2019-02-21,Cash
+225,Yangon,Normal,Male,Food and beverages,2019-03-20,Cash
+226,Naypyitaw,Member,Female,Sports and travel,2019-01-11,Credit card
+227,Mandalay,Member,Male,Health and beauty,2019-01-26,Ewallet
+228,Naypyitaw,Member,Male,Electronic accessories,2019-01-31,Ewallet
+229,Mandalay,Member,Female,Electronic accessories,2019-02-26,Cash
+230,Yangon,Normal,Female,Home and lifestyle,2019-03-11,Ewallet
+231,Mandalay,Normal,Female,Fashion accessories,2019-01-26,Cash
+232,Mandalay,Member,Female,Electronic accessories,2019-03-12,Credit card
+233,Mandalay,Normal,Female,Health and beauty,2019-02-11,Cash
+234,Mandalay,Member,Male,Fashion accessories,2019-02-21,Cash
+235,Yangon,Member,Male,Health and beauty,2019-03-09,Ewallet
+236,Yangon,Normal,Female,Sports and travel,2019-01-20,Ewallet
+237,Naypyitaw,Normal,Male,Health and beauty,2019-01-28,Credit card
+238,Naypyitaw,Member,Female,Fashion accessories,2019-03-05,Credit card
+239,Mandalay,Member,Female,Electronic accessories,2019-03-02,Cash
+240,Yangon,Normal,Male,Fashion accessories,2019-01-11,Ewallet
+241,Yangon,Normal,Male,Food and beverages,2019-01-11,Credit card
+242,Yangon,Normal,Male,Health and beauty,2019-03-11,Credit card
+243,Naypyitaw,Member,Male,Fashion accessories,2019-02-28,Credit card
+244,Yangon,Member,Male,Home and lifestyle,2019-01-05,Cash
+245,Mandalay,Normal,Male,Home and lifestyle,2019-02-02,Credit card
+246,Yangon,Member,Male,Home and lifestyle,2019-01-01,Cash
+247,Mandalay,Member,Female,Electronic accessories,2019-02-09,Cash
+248,Yangon,Member,Male,Fashion accessories,2019-01-23,Ewallet
+249,Yangon,Member,Male,Electronic accessories,2019-01-07,Credit card
+250,Mandalay,Normal,Male,Food and beverages,2019-01-14,Credit card
+251,Mandalay,Member,Male,Food and beverages,2019-02-02,Ewallet
+252,Naypyitaw,Member,Male,Fashion accessories,2019-03-17,Credit card
+253,Naypyitaw,Normal,Female,Sports and travel,2019-03-02,Credit card
+254,Yangon,Normal,Male,Home and lifestyle,2019-03-16,Cash
+255,Yangon,Member,Male,Home and lifestyle,2019-01-06,Cash
+256,Mandalay,Member,Male,Fashion accessories,2019-01-29,Cash
+257,Yangon,Member,Male,Electronic accessories,2019-01-31,Credit card
+258,Yangon,Member,Male,Home and lifestyle,2019-02-05,Ewallet
+259,Yangon,Member,Male,Electronic accessories,2019-02-13,Ewallet
+260,Naypyitaw,Member,Male,Electronic accessories,2019-02-07,Credit card
+261,Yangon,Normal,Female,Electronic accessories,2019-03-19,Ewallet
+262,Naypyitaw,Normal,Female,Fashion accessories,2019-03-07,Ewallet
+263,Mandalay,Member,Female,Fashion accessories,2019-03-13,Cash
+264,Yangon,Member,Female,Sports and travel,2019-02-09,Cash
+265,Mandalay,Normal,Male,Sports and travel,2019-02-26,Ewallet
+266,Yangon,Member,Female,Sports and travel,2019-03-12,Credit card
+267,Naypyitaw,Normal,Male,Home and lifestyle,2019-03-14,Credit card
+268,Mandalay,Member,Female,Food and beverages,2019-01-08,Cash
+269,Yangon,Member,Male,Home and lifestyle,2019-01-05,Credit card
+270,Yangon,Member,Female,Home and lifestyle,2019-01-04,Ewallet
+271,Mandalay,Normal,Female,Sports and travel,2019-03-06,Ewallet
+272,Naypyitaw,Member,Female,Health and beauty,2019-01-03,Cash
+273,Yangon,Member,Female,Home and lifestyle,2019-01-07,Credit card
+274,Yangon,Normal,Female,Home and lifestyle,2019-01-27,Cash
+275,Mandalay,Normal,Female,Health and beauty,2019-02-26,Ewallet
+276,Mandalay,Normal,Male,Fashion accessories,2019-01-07,Cash
+277,Naypyitaw,Member,Female,Home and lifestyle,2019-01-07,Cash
+278,Naypyitaw,Normal,Female,Fashion accessories,2019-02-02,Ewallet
+279,Naypyitaw,Member,Male,Fashion accessories,2019-03-20,Cash
+280,Yangon,Member,Male,Sports and travel,2019-03-20,Credit card
+281,Yangon,Normal,Female,Home and lifestyle,2019-02-15,Credit card
+282,Naypyitaw,Normal,Male,Home and lifestyle,2019-03-06,Credit card
+283,Yangon,Normal,Female,Sports and travel,2019-01-06,Cash
+284,Yangon,Member,Male,Health and beauty,2019-03-04,Ewallet
+285,Yangon,Member,Female,Health and beauty,2019-03-12,Cash
+286,Mandalay,Normal,Male,Health and beauty,2019-02-20,Cash
+287,Naypyitaw,Member,Male,Home and lifestyle,2019-03-24,Cash
+288,Naypyitaw,Normal,Female,Sports and travel,2019-01-31,Cash
+289,Mandalay,Normal,Female,Food and beverages,2019-01-25,Credit card
+290,Yangon,Member,Female,Home and lifestyle,2019-02-03,Cash
+291,Mandalay,Member,Male,Electronic accessories,2019-01-24,Credit card
+292,Naypyitaw,Normal,Male,Electronic accessories,2019-03-14,Ewallet
+293,Yangon,Member,Female,Electronic accessories,2019-02-18,Cash
+294,Yangon,Member,Female,Food and beverages,2019-01-21,Cash
+295,Mandalay,Normal,Male,Health and beauty,2019-03-13,Ewallet
+296,Naypyitaw,Member,Female,Electronic accessories,2019-03-03,Cash
+297,Naypyitaw,Normal,Male,Electronic accessories,2019-03-29,Cash
+298,Yangon,Member,Male,Home and lifestyle,2019-01-10,Ewallet
+299,Yangon,Member,Male,Home and lifestyle,2019-01-25,Cash
+300,Naypyitaw,Member,Female,Home and lifestyle,2019-01-19,Cash
+301,Naypyitaw,Normal,Male,Fashion accessories,2019-01-02,Credit card
+302,Mandalay,Member,Male,Health and beauty,2019-03-12,Credit card
+303,Naypyitaw,Normal,Male,Food and beverages,2019-02-25,Cash
+304,Yangon,Normal,Female,Electronic accessories,2019-03-18,Credit card
+305,Mandalay,Normal,Female,Electronic accessories,2019-02-23,Cash
+306,Yangon,Member,Male,Electronic accessories,2019-03-26,Ewallet
+307,Yangon,Normal,Female,Sports and travel,2019-03-30,Cash
+308,Yangon,Member,Female,Home and lifestyle,2019-02-17,Cash
+309,Yangon,Member,Female,Electronic accessories,2019-03-21,Ewallet
+310,Yangon,Normal,Female,Fashion accessories,2019-03-05,Cash
+311,Mandalay,Member,Male,Sports and travel,2019-01-31,Cash
+312,Naypyitaw,Member,Male,Fashion accessories,2019-02-05,Ewallet
+313,Yangon,Member,Female,Food and beverages,2019-02-01,Credit card
+314,Yangon,Member,Female,Health and beauty,2019-03-07,Cash
+315,Naypyitaw,Member,Female,Electronic accessories,2019-02-10,Cash
+316,Naypyitaw,Member,Male,Food and beverages,2019-02-14,Cash
+317,Naypyitaw,Member,Female,Food and beverages,2019-02-09,Cash
+318,Naypyitaw,Member,Male,Electronic accessories,2019-01-10,Cash
+319,Naypyitaw,Member,Female,Health and beauty,2019-03-11,Credit card
+320,Naypyitaw,Member,Male,Health and beauty,2019-02-18,Ewallet
+321,Naypyitaw,Normal,Female,Food and beverages,2019-02-26,Cash
+322,Naypyitaw,Normal,Female,Health and beauty,2019-01-18,Cash
+323,Yangon,Normal,Male,Health and beauty,2019-02-15,Ewallet
+324,Yangon,Normal,Female,Fashion accessories,2019-03-08,Cash
+325,Yangon,Normal,Male,Home and lifestyle,2019-01-17,Credit card
+326,Mandalay,Normal,Male,Sports and travel,2019-03-12,Ewallet
+327,Yangon,Member,Male,Food and beverages,2019-03-09,Cash
+328,Naypyitaw,Member,Male,Food and beverages,2019-03-12,Cash
+329,Mandalay,Member,Male,Health and beauty,2019-01-25,Credit card
+330,Yangon,Member,Male,Electronic accessories,2019-03-25,Cash
+331,Mandalay,Normal,Male,Home and lifestyle,2019-02-07,Cash
+332,Yangon,Normal,Male,Food and beverages,2019-02-17,Credit card
+333,Yangon,Normal,Male,Fashion accessories,2019-02-03,Cash
+334,Yangon,Member,Male,Food and beverages,2019-03-14,Credit card
+335,Naypyitaw,Member,Male,Sports and travel,2019-03-24,Ewallet
+336,Yangon,Member,Female,Electronic accessories,2019-03-21,Credit card
+337,Yangon,Normal,Male,Fashion accessories,2019-03-19,Ewallet
+338,Mandalay,Normal,Female,Sports and travel,2019-02-24,Cash
+339,Naypyitaw,Normal,Female,Electronic accessories,2019-03-28,Credit card
+340,Mandalay,Member,Female,Food and beverages,2019-02-05,Credit card
+341,Mandalay,Member,Male,Electronic accessories,2019-02-10,Credit card
+342,Mandalay,Member,Female,Health and beauty,2019-03-05,Ewallet
+343,Mandalay,Member,Female,Health and beauty,2019-02-15,Cash
+344,Naypyitaw,Normal,Female,Food and beverages,2019-01-30,Ewallet
+345,Yangon,Normal,Male,Sports and travel,2019-02-14,Cash
+346,Yangon,Normal,Female,Fashion accessories,2019-02-27,Ewallet
+347,Yangon,Member,Male,Electronic accessories,2019-02-04,Cash
+348,Naypyitaw,Member,Female,Home and lifestyle,2019-01-20,Cash
+349,Yangon,Normal,Male,Electronic accessories,2019-03-28,Cash
+350,Mandalay,Normal,Female,Health and beauty,2019-02-27,Credit card
+351,Naypyitaw,Member,Female,Fashion accessories,2019-02-15,Credit card
+352,Yangon,Normal,Male,Electronic accessories,2019-01-26,Cash
+353,Mandalay,Member,Female,Fashion accessories,2019-03-14,Credit card
+354,Mandalay,Member,Male,Home and lifestyle,2019-03-02,Cash
+355,Naypyitaw,Normal,Female,Electronic accessories,2019-03-04,Cash
+356,Mandalay,Member,Female,Food and beverages,2019-01-07,Credit card
+357,Naypyitaw,Normal,Female,Fashion accessories,2019-03-08,Credit card
+358,Naypyitaw,Normal,Female,Sports and travel,2019-01-09,Cash
+359,Mandalay,Normal,Male,Electronic accessories,2019-03-01,Ewallet
+360,Mandalay,Normal,Male,Sports and travel,2019-03-16,Cash
+361,Yangon,Member,Male,Food and beverages,2019-02-17,Credit card
+362,Naypyitaw,Normal,Female,Food and beverages,2019-02-27,Cash
+363,Naypyitaw,Normal,Male,Food and beverages,2019-03-07,Ewallet
+364,Yangon,Normal,Male,Home and lifestyle,2019-01-21,Cash
+365,Naypyitaw,Normal,Female,Food and beverages,2019-02-19,Cash
+366,Naypyitaw,Normal,Female,Fashion accessories,2019-01-06,Cash
+367,Naypyitaw,Normal,Female,Electronic accessories,2019-03-14,Cash
+368,Yangon,Member,Male,Home and lifestyle,2019-03-24,Cash
+369,Naypyitaw,Normal,Female,Sports and travel,2019-01-27,Cash
+370,Yangon,Member,Male,Electronic accessories,2019-03-06,Credit card
+371,Mandalay,Member,Female,Electronic accessories,2019-02-02,Cash
+372,Mandalay,Normal,Female,Fashion accessories,2019-01-25,Credit card
+373,Naypyitaw,Normal,Female,Home and lifestyle,2019-03-14,Ewallet
+374,Naypyitaw,Normal,Male,Fashion accessories,2019-01-29,Cash
+375,Yangon,Normal,Female,Home and lifestyle,2019-01-03,Credit card
+376,Yangon,Member,Female,Fashion accessories,2019-01-14,Ewallet
+377,Mandalay,Member,Female,Home and lifestyle,2019-01-05,Credit card
+378,Naypyitaw,Normal,Male,Sports and travel,2019-02-22,Ewallet
+379,Naypyitaw,Member,Male,Fashion accessories,2019-02-06,Ewallet
+380,Mandalay,Normal,Female,Electronic accessories,2019-01-30,Credit card
+381,Yangon,Member,Male,Sports and travel,2019-01-11,Credit card
+382,Naypyitaw,Normal,Female,Electronic accessories,2019-03-19,Cash
+383,Mandalay,Normal,Female,Food and beverages,2019-01-14,Cash
+384,Naypyitaw,Member,Female,Food and beverages,2019-03-01,Ewallet
+385,Yangon,Normal,Female,Food and beverages,2019-01-06,Ewallet
+386,Mandalay,Member,Male,Sports and travel,2019-01-31,Cash
+387,Naypyitaw,Normal,Male,Food and beverages,2019-03-11,Cash
+388,Yangon,Normal,Female,Health and beauty,2019-02-20,Credit card
+389,Naypyitaw,Member,Female,Fashion accessories,2019-01-27,Ewallet
+390,Mandalay,Normal,Male,Food and beverages,2019-03-10,Credit card
+391,Naypyitaw,Member,Female,Fashion accessories,2019-02-15,Cash
+392,Mandalay,Normal,Female,Fashion accessories,2019-01-26,Cash
+393,Yangon,Member,Male,Electronic accessories,2019-02-13,Ewallet
+394,Yangon,Member,Female,Sports and travel,2019-03-09,Credit card
+395,Yangon,Normal,Female,Health and beauty,2019-03-06,Ewallet
+396,Yangon,Normal,Female,Health and beauty,2019-01-24,Ewallet
+397,Yangon,Normal,Female,Food and beverages,2019-03-13,Ewallet
+398,Mandalay,Normal,Male,Home and lifestyle,2019-03-15,Cash
+399,Mandalay,Member,Female,Health and beauty,2019-03-05,Credit card
+400,Mandalay,Member,Male,Electronic accessories,2019-03-04,Cash
+401,Naypyitaw,Normal,Female,Food and beverages,2019-03-25,Credit card
+402,Naypyitaw,Normal,Male,Home and lifestyle,2019-03-12,Credit card
+403,Naypyitaw,Member,Male,Home and lifestyle,2019-02-04,Ewallet
+404,Mandalay,Normal,Female,Fashion accessories,2019-02-22,Ewallet
+405,Naypyitaw,Member,Female,Fashion accessories,2019-02-16,Ewallet
+406,Yangon,Member,Male,Sports and travel,2019-01-19,Credit card
+407,Yangon,Normal,Male,Food and beverages,2019-01-11,Credit card
+408,Mandalay,Member,Female,Fashion accessories,2019-01-04,Cash
+409,Yangon,Normal,Female,Home and lifestyle,2019-03-04,Ewallet
+410,Naypyitaw,Normal,Female,Fashion accessories,2019-01-28,Ewallet
+411,Mandalay,Normal,Female,Health and beauty,2019-01-02,Cash
+412,Mandalay,Normal,Male,Sports and travel,2019-01-25,Ewallet
+413,Yangon,Member,Male,Health and beauty,2019-01-04,Cash
+414,Yangon,Normal,Male,Sports and travel,2019-03-10,Ewallet
+415,Yangon,Normal,Male,Home and lifestyle,2019-03-22,Ewallet
+416,Mandalay,Normal,Male,Health and beauty,2019-01-25,Ewallet
+417,Naypyitaw,Normal,Female,Home and lifestyle,2019-01-08,Credit card
+418,Naypyitaw,Member,Female,Health and beauty,2019-01-22,Ewallet
+419,Mandalay,Normal,Female,Health and beauty,2019-01-12,Ewallet
+420,Yangon,Member,Female,Electronic accessories,2019-02-04,Cash
+421,Naypyitaw,Member,Female,Food and beverages,2019-03-28,Ewallet
+422,Naypyitaw,Normal,Female,Electronic accessories,2019-01-23,Cash
+423,Naypyitaw,Member,Female,Fashion accessories,2019-02-08,Credit card
+424,Mandalay,Member,Male,Fashion accessories,2019-03-19,Credit card
+425,Naypyitaw,Normal,Male,Fashion accessories,2019-03-09,Cash
+426,Mandalay,Member,Male,Fashion accessories,2019-01-02,Cash
+427,Yangon,Member,Male,Health and beauty,2019-01-21,Cash
+428,Mandalay,Member,Female,Food and beverages,2019-03-20,Credit card
+429,Mandalay,Normal,Male,Sports and travel,2019-02-27,Cash
+430,Yangon,Member,Female,Home and lifestyle,2019-03-08,Ewallet
+431,Mandalay,Normal,Male,Fashion accessories,2019-01-31,Credit card
+432,Naypyitaw,Normal,Male,Food and beverages,2019-03-08,Ewallet
+433,Yangon,Normal,Female,Electronic accessories,2019-01-13,Ewallet
+434,Mandalay,Normal,Male,Fashion accessories,2019-03-09,Credit card
+435,Mandalay,Normal,Female,Fashion accessories,2019-02-22,Credit card
+436,Naypyitaw,Normal,Male,Sports and travel,2019-03-19,Ewallet
+437,Naypyitaw,Member,Male,Sports and travel,2019-01-20,Ewallet
+438,Yangon,Normal,Male,Home and lifestyle,2019-03-08,Credit card
+439,Naypyitaw,Member,Male,Food and beverages,2019-03-08,Ewallet
+440,Naypyitaw,Normal,Female,Electronic accessories,2019-02-07,Credit card
+441,Naypyitaw,Member,Male,Food and beverages,2019-01-15,Cash
+442,Mandalay,Member,Female,Sports and travel,2019-03-22,Credit card
+443,Yangon,Member,Female,Home and lifestyle,2019-01-15,Credit card
+444,Naypyitaw,Normal,Male,Fashion accessories,2019-01-08,Ewallet
+445,Yangon,Normal,Female,Sports and travel,2019-01-15,Cash
+446,Mandalay,Member,Female,Health and beauty,2019-01-28,Credit card
+447,Naypyitaw,Member,Male,Food and beverages,2019-02-14,Credit card
+448,Naypyitaw,Normal,Male,Fashion accessories,2019-03-10,Credit card
+449,Mandalay,Member,Female,Health and beauty,2019-01-12,Credit card
+450,Mandalay,Member,Female,Sports and travel,2019-03-26,Credit card
+451,Mandalay,Normal,Female,Electronic accessories,2019-01-01,Cash
+452,Mandalay,Normal,Male,Electronic accessories,2019-01-02,Cash
+453,Yangon,Normal,Female,Food and beverages,2019-03-16,Ewallet
+454,Yangon,Normal,Male,Health and beauty,2019-03-03,Ewallet
+455,Yangon,Member,Male,Electronic accessories,2019-01-31,Cash
+456,Mandalay,Member,Female,Fashion accessories,2019-02-13,Cash
+457,Mandalay,Member,Female,Food and beverages,2019-02-15,Credit card
+458,Mandalay,Normal,Male,Electronic accessories,2019-02-07,Cash
+459,Naypyitaw,Member,Female,Electronic accessories,2019-01-27,Cash
+460,Naypyitaw,Normal,Male,Food and beverages,2019-02-23,Credit card
+461,Naypyitaw,Normal,Male,Food and beverages,2019-02-03,Cash
+462,Mandalay,Member,Female,Food and beverages,2019-03-03,Credit card
+463,Naypyitaw,Normal,Female,Sports and travel,2019-02-03,Cash
+464,Naypyitaw,Member,Female,Food and beverages,2019-03-17,Cash
+465,Yangon,Member,Male,Food and beverages,2019-03-28,Credit card
+466,Naypyitaw,Member,Female,Sports and travel,2019-03-02,Credit card
+467,Naypyitaw,Member,Female,Health and beauty,2019-02-08,Credit card
+468,Mandalay,Normal,Male,Sports and travel,2019-03-22,Cash
+469,Naypyitaw,Normal,Male,Food and beverages,2019-02-09,Ewallet
+470,Naypyitaw,Member,Female,Electronic accessories,2019-02-15,Cash
+471,Naypyitaw,Member,Female,Home and lifestyle,2019-01-23,Ewallet
+472,Yangon,Member,Female,Sports and travel,2019-01-25,Cash
+473,Yangon,Member,Male,Fashion accessories,2019-02-02,Credit card
+474,Mandalay,Member,Male,Health and beauty,2019-03-30,Cash
+475,Yangon,Member,Female,Electronic accessories,2019-03-30,Cash
+476,Yangon,Normal,Male,Health and beauty,2019-02-25,Credit card
+477,Yangon,Normal,Female,Sports and travel,2019-03-18,Credit card
+478,Naypyitaw,Normal,Male,Electronic accessories,2019-03-07,Ewallet
+479,Mandalay,Normal,Male,Sports and travel,2019-03-16,Ewallet
+480,Yangon,Normal,Male,Electronic accessories,2019-01-29,Ewallet
+481,Naypyitaw,Normal,Male,Food and beverages,2019-02-02,Cash
+482,Naypyitaw,Normal,Female,Electronic accessories,2019-02-15,Cash
+483,Yangon,Normal,Male,Sports and travel,2019-01-08,Ewallet
+484,Mandalay,Member,Male,Home and lifestyle,2019-02-12,Cash
+485,Naypyitaw,Member,Female,Sports and travel,2019-01-01,Credit card
+486,Mandalay,Member,Female,Sports and travel,2019-03-21,Ewallet
+487,Mandalay,Normal,Female,Fashion accessories,2019-02-28,Cash
+488,Yangon,Normal,Male,Fashion accessories,2019-03-23,Ewallet
+489,Naypyitaw,Normal,Male,Home and lifestyle,2019-01-30,Cash
+490,Mandalay,Member,Female,Home and lifestyle,2019-02-04,Ewallet
+491,Mandalay,Normal,Female,Fashion accessories,2019-03-13,Ewallet
+492,Yangon,Member,Female,Fashion accessories,2019-03-15,Credit card
+493,Mandalay,Member,Female,Health and beauty,2019-03-05,Ewallet
+494,Naypyitaw,Member,Female,Home and lifestyle,2019-03-05,Credit card
+495,Mandalay,Normal,Male,Fashion accessories,2019-02-26,Ewallet
+496,Mandalay,Normal,Male,Sports and travel,2019-03-20,Cash
+497,Naypyitaw,Normal,Female,Electronic accessories,2019-01-01,Cash
+498,Naypyitaw,Normal,Female,Food and beverages,2019-01-27,Cash
+499,Mandalay,Member,Female,Sports and travel,2019-01-21,Cash
+500,Yangon,Member,Female,Sports and travel,2019-02-02,Cash
+501,Mandalay,Member,Male,Sports and travel,2019-02-03,Credit card
+502,Naypyitaw,Member,Female,Fashion accessories,2019-01-05,Ewallet
+503,Naypyitaw,Normal,Male,Home and lifestyle,2019-01-27,Ewallet
+504,Mandalay,Normal,Female,Sports and travel,2019-03-25,Cash
+505,Mandalay,Normal,Male,Sports and travel,2019-02-25,Credit card
+506,Yangon,Member,Male,Electronic accessories,2019-01-28,Ewallet
+507,Mandalay,Member,Female,Sports and travel,2019-01-08,Cash
+508,Mandalay,Normal,Female,Food and beverages,2019-01-29,Credit card
+509,Mandalay,Member,Male,Health and beauty,2019-03-29,Cash
+510,Naypyitaw,Member,Female,Home and lifestyle,2019-02-09,Credit card
+511,Mandalay,Member,Female,Sports and travel,2019-01-16,Credit card
+512,Yangon,Normal,Female,Home and lifestyle,2019-01-05,Ewallet
+513,Yangon,Normal,Female,Fashion accessories,2019-01-27,Ewallet
+514,Yangon,Normal,Male,Electronic accessories,2019-03-14,Cash
+515,Naypyitaw,Member,Male,Sports and travel,2019-02-23,Credit card
+516,Naypyitaw,Member,Female,Fashion accessories,2019-03-18,Ewallet
+517,Mandalay,Member,Male,Health and beauty,2019-03-29,Ewallet
+518,Naypyitaw,Member,Male,Home and lifestyle,2019-01-22,Credit card
+519,Yangon,Normal,Male,Home and lifestyle,2019-03-01,Ewallet
+520,Naypyitaw,Member,Male,Sports and travel,2019-01-17,Credit card
+521,Mandalay,Normal,Female,Electronic accessories,2019-03-26,Credit card
+522,Naypyitaw,Member,Female,Home and lifestyle,2019-03-20,Cash
+523,Yangon,Member,Female,Home and lifestyle,2019-02-06,Credit card
+524,Naypyitaw,Normal,Male,Health and beauty,2019-01-01,Cash
+525,Yangon,Normal,Male,Food and beverages,2019-01-27,Credit card
+526,Yangon,Member,Female,Sports and travel,2019-02-25,Ewallet
+527,Mandalay,Normal,Male,Fashion accessories,2019-01-16,Credit card
+528,Mandalay,Member,Male,Fashion accessories,2019-01-13,Ewallet
+529,Mandalay,Member,Female,Food and beverages,2019-02-07,Credit card
+530,Yangon,Normal,Male,Sports and travel,2019-02-17,Cash
+531,Yangon,Normal,Male,Health and beauty,2019-02-12,Ewallet
+532,Yangon,Member,Male,Fashion accessories,2019-01-24,Credit card
+533,Mandalay,Normal,Male,Electronic accessories,2019-02-06,Ewallet
+534,Naypyitaw,Normal,Female,Food and beverages,2019-03-26,Ewallet
+535,Yangon,Normal,Female,Home and lifestyle,2019-03-11,Ewallet
+536,Naypyitaw,Normal,Male,Home and lifestyle,2019-02-07,Ewallet
+537,Mandalay,Member,Female,Fashion accessories,2019-01-05,Credit card
+538,Yangon,Normal,Male,Home and lifestyle,2019-03-07,Ewallet
+539,Yangon,Normal,Female,Fashion accessories,2019-02-25,Credit card
+540,Naypyitaw,Member,Female,Food and beverages,2019-02-01,Ewallet
+541,Yangon,Normal,Male,Home and lifestyle,2019-01-22,Ewallet
+542,Naypyitaw,Member,Male,Health and beauty,2019-01-03,Credit card
+543,Mandalay,Member,Female,Sports and travel,2019-02-13,Credit card
+544,Naypyitaw,Member,Male,Electronic accessories,2019-01-28,Credit card
+545,Mandalay,Normal,Female,Food and beverages,2019-01-05,Credit card
+546,Mandalay,Member,Male,Home and lifestyle,2019-03-19,Ewallet
+547,Yangon,Normal,Female,Fashion accessories,2019-01-12,Ewallet
+548,Yangon,Normal,Male,Sports and travel,2019-01-07,Credit card
+549,Mandalay,Normal,Female,Sports and travel,2019-01-26,Cash
+550,Yangon,Normal,Female,Electronic accessories,2019-01-23,Cash
+551,Mandalay,Normal,Male,Fashion accessories,2019-02-09,Ewallet
+552,Mandalay,Normal,Female,Fashion accessories,2019-02-22,Cash
+553,Mandalay,Normal,Female,Health and beauty,2019-02-05,Cash
+554,Naypyitaw,Normal,Male,Electronic accessories,2019-03-07,Credit card
+555,Yangon,Member,Male,Electronic accessories,2019-03-25,Cash
+556,Mandalay,Normal,Male,Home and lifestyle,2019-01-20,Credit card
+557,Mandalay,Member,Female,Fashion accessories,2019-02-04,Cash
+558,Naypyitaw,Member,Female,Food and beverages,2019-01-30,Ewallet
+559,Yangon,Member,Male,Food and beverages,2019-01-02,Ewallet
+560,Yangon,Member,Female,Home and lifestyle,2019-03-29,Ewallet
+561,Mandalay,Normal,Male,Electronic accessories,2019-03-14,Cash
+562,Naypyitaw,Normal,Male,Food and beverages,2019-02-11,Credit card
+563,Mandalay,Normal,Female,Electronic accessories,2019-01-30,Ewallet
+564,Yangon,Member,Male,Electronic accessories,2019-03-20,Ewallet
+565,Mandalay,Normal,Male,Fashion accessories,2019-03-20,Cash
+566,Yangon,Normal,Female,Food and beverages,2019-01-17,Credit card
+567,Naypyitaw,Normal,Female,Sports and travel,2019-02-03,Credit card
+568,Yangon,Normal,Female,Fashion accessories,2019-01-01,Cash
+569,Mandalay,Normal,Female,Fashion accessories,2019-01-10,Credit card
+570,Naypyitaw,Normal,Female,Sports and travel,2019-03-02,Ewallet
+571,Mandalay,Member,Female,Home and lifestyle,2019-02-25,Credit card
+572,Mandalay,Member,Male,Sports and travel,2019-01-29,Cash
+573,Yangon,Member,Male,Food and beverages,2019-03-10,Ewallet
+574,Mandalay,Normal,Male,Food and beverages,2019-01-13,Credit card
+575,Yangon,Normal,Male,Sports and travel,2019-03-22,Credit card
+576,Mandalay,Member,Male,Fashion accessories,2019-03-01,Ewallet
+577,Mandalay,Normal,Male,Food and beverages,2019-02-20,Cash
+578,Naypyitaw,Normal,Male,Food and beverages,2019-01-14,Ewallet
+579,Yangon,Normal,Female,Health and beauty,2019-03-26,Cash
+580,Mandalay,Normal,Male,Health and beauty,2019-03-01,Ewallet
+581,Naypyitaw,Normal,Male,Food and beverages,2019-01-07,Cash
+582,Yangon,Member,Female,Health and beauty,2019-02-01,Cash
+583,Naypyitaw,Member,Female,Fashion accessories,2019-02-13,Credit card
+584,Mandalay,Member,Female,Fashion accessories,2019-01-14,Credit card
+585,Mandalay,Normal,Male,Sports and travel,2019-01-19,Ewallet
+586,Yangon,Normal,Male,Health and beauty,2019-03-09,Credit card
+587,Yangon,Normal,Female,Food and beverages,2019-03-27,Cash
+588,Yangon,Normal,Female,Sports and travel,2019-02-04,Ewallet
+589,Naypyitaw,Normal,Male,Fashion accessories,2019-03-14,Cash
+590,Yangon,Normal,Male,Health and beauty,2019-03-04,Cash
+591,Naypyitaw,Member,Male,Health and beauty,2019-03-03,Credit card
+592,Naypyitaw,Member,Female,Home and lifestyle,2019-01-27,Ewallet
+593,Yangon,Member,Female,Sports and travel,2019-02-07,Cash
+594,Yangon,Member,Female,Sports and travel,2019-02-05,Ewallet
+595,Mandalay,Member,Male,Sports and travel,2019-03-15,Cash
+596,Mandalay,Normal,Male,Health and beauty,2019-03-01,Credit card
+597,Yangon,Normal,Male,Food and beverages,2019-02-15,Credit card
+598,Naypyitaw,Normal,Female,Sports and travel,2019-02-17,Ewallet
+599,Naypyitaw,Normal,Female,Fashion accessories,2019-01-26,Cash
+600,Yangon,Member,Female,Home and lifestyle,2019-03-24,Ewallet
+601,Naypyitaw,Normal,Male,Electronic accessories,2019-01-23,Ewallet
+602,Naypyitaw,Normal,Female,Fashion accessories,2019-01-26,Credit card
+603,Naypyitaw,Normal,Male,Food and beverages,2019-03-14,Ewallet
+604,Mandalay,Normal,Female,Sports and travel,2019-03-17,Ewallet
+605,Naypyitaw,Member,Female,Fashion accessories,2019-01-08,Cash
+606,Mandalay,Normal,Male,Home and lifestyle,2019-02-08,Cash
+607,Yangon,Member,Female,Fashion accessories,2019-02-10,Ewallet
+608,Naypyitaw,Member,Female,Food and beverages,2019-03-28,Credit card
+609,Yangon,Normal,Male,Fashion accessories,2019-01-23,Ewallet
+610,Mandalay,Member,Male,Food and beverages,2019-01-17,Ewallet
+611,Yangon,Normal,Female,Electronic accessories,2019-02-07,Credit card
+612,Naypyitaw,Member,Female,Food and beverages,2019-03-09,Cash
+613,Mandalay,Member,Male,Fashion accessories,2019-01-24,Cash
+614,Naypyitaw,Member,Male,Sports and travel,2019-01-19,Credit card
+615,Yangon,Member,Male,Food and beverages,2019-02-03,Ewallet
+616,Yangon,Member,Female,Sports and travel,2019-03-20,Ewallet
+617,Mandalay,Member,Male,Sports and travel,2019-01-13,Cash
+618,Naypyitaw,Member,Male,Electronic accessories,2019-03-14,Ewallet
+619,Yangon,Member,Male,Food and beverages,2019-01-23,Credit card
+620,Naypyitaw,Member,Female,Fashion accessories,2019-02-07,Ewallet
+621,Yangon,Normal,Female,Food and beverages,2019-03-28,Credit card
+622,Yangon,Member,Female,Food and beverages,2019-03-20,Cash
+623,Mandalay,Member,Female,Home and lifestyle,2019-01-17,Credit card
+624,Mandalay,Normal,Female,Fashion accessories,2019-01-12,Credit card
+625,Mandalay,Member,Male,Fashion accessories,2019-02-16,Cash
+626,Mandalay,Member,Female,Food and beverages,2019-01-26,Cash
+627,Yangon,Normal,Male,Sports and travel,2019-03-09,Ewallet
+628,Mandalay,Member,Male,Health and beauty,2019-03-14,Cash
+629,Yangon,Member,Male,Home and lifestyle,2019-01-25,Ewallet
+630,Yangon,Normal,Female,Fashion accessories,2019-01-26,Credit card
+631,Yangon,Normal,Male,Sports and travel,2019-01-19,Credit card
+632,Yangon,Normal,Male,Electronic accessories,2019-03-05,Ewallet
+633,Yangon,Member,Male,Food and beverages,2019-01-15,Credit card
+634,Mandalay,Normal,Male,Home and lifestyle,2019-03-18,Ewallet
+635,Mandalay,Member,Male,Food and beverages,2019-03-20,Credit card
+636,Mandalay,Member,Male,Health and beauty,2019-01-15,Credit card
+637,Yangon,Normal,Male,Health and beauty,2019-03-03,Credit card
+638,Naypyitaw,Normal,Female,Electronic accessories,2019-03-19,Cash
+639,Mandalay,Member,Female,Food and beverages,2019-03-08,Cash
+640,Mandalay,Normal,Male,Fashion accessories,2019-02-27,Ewallet
+641,Mandalay,Member,Female,Food and beverages,2019-02-23,Ewallet
+642,Naypyitaw,Member,Female,Electronic accessories,2019-03-19,Ewallet
+643,Mandalay,Member,Male,Electronic accessories,2019-03-27,Ewallet
+644,Naypyitaw,Member,Female,Food and beverages,2019-03-30,Credit card
+645,Naypyitaw,Member,Male,Electronic accessories,2019-02-16,Ewallet
+646,Yangon,Member,Male,Home and lifestyle,2019-01-18,Ewallet
+647,Naypyitaw,Normal,Male,Health and beauty,2019-03-30,Cash
+648,Mandalay,Member,Male,Fashion accessories,2019-03-20,Cash
+649,Naypyitaw,Member,Female,Sports and travel,2019-01-16,Cash
+650,Naypyitaw,Normal,Male,Electronic accessories,2019-02-24,Cash
+651,Mandalay,Normal,Male,Electronic accessories,2019-01-15,Ewallet
+652,Mandalay,Normal,Female,Health and beauty,2019-01-22,Cash
+653,Yangon,Member,Male,Home and lifestyle,2019-02-03,Cash
+654,Mandalay,Member,Male,Sports and travel,2019-03-06,Ewallet
+655,Mandalay,Member,Male,Fashion accessories,2019-02-16,Credit card
+656,Yangon,Normal,Female,Electronic accessories,2019-03-14,Credit card
+657,Naypyitaw,Normal,Female,Electronic accessories,2019-02-27,Credit card
+658,Yangon,Member,Female,Fashion accessories,2019-01-18,Ewallet
+659,Yangon,Member,Female,Sports and travel,2019-01-29,Cash
+660,Yangon,Member,Male,Fashion accessories,2019-02-26,Credit card
+661,Mandalay,Normal,Female,Sports and travel,2019-02-03,Cash
+662,Naypyitaw,Member,Male,Sports and travel,2019-01-16,Credit card
+663,Mandalay,Member,Female,Fashion accessories,2019-03-24,Credit card
+664,Naypyitaw,Member,Female,Food and beverages,2019-02-12,Credit card
+665,Naypyitaw,Normal,Female,Sports and travel,2019-02-21,Cash
+666,Yangon,Normal,Female,Fashion accessories,2019-02-04,Ewallet
+667,Mandalay,Member,Male,Food and beverages,2019-02-20,Ewallet
+668,Mandalay,Normal,Female,Health and beauty,2019-02-23,Ewallet
+669,Naypyitaw,Member,Female,Health and beauty,2019-02-16,Ewallet
+670,Mandalay,Normal,Female,Sports and travel,2019-01-17,Credit card
+671,Yangon,Member,Male,Fashion accessories,2019-01-14,Ewallet
+672,Mandalay,Member,Male,Food and beverages,2019-03-30,Cash
+673,Mandalay,Normal,Female,Health and beauty,2019-03-02,Ewallet
+674,Naypyitaw,Normal,Male,Health and beauty,2019-02-15,Credit card
+675,Yangon,Normal,Female,Electronic accessories,2019-03-01,Credit card
+676,Mandalay,Member,Male,Fashion accessories,2019-02-24,Cash
+677,Mandalay,Member,Female,Sports and travel,2019-02-19,Credit card
+678,Yangon,Member,Female,Food and beverages,2019-02-23,Cash
+679,Naypyitaw,Normal,Male,Health and beauty,2019-02-07,Ewallet
+680,Yangon,Member,Male,Food and beverages,2019-01-11,Ewallet
+681,Mandalay,Member,Female,Electronic accessories,2019-02-12,Cash
+682,Mandalay,Normal,Female,Sports and travel,2019-01-14,Credit card
+683,Naypyitaw,Normal,Female,Fashion accessories,2019-01-09,Ewallet
+684,Yangon,Member,Male,Fashion accessories,2019-02-27,Ewallet
+685,Mandalay,Member,Female,Sports and travel,2019-01-24,Ewallet
+686,Mandalay,Member,Female,Home and lifestyle,2019-01-08,Credit card
+687,Mandalay,Member,Female,Sports and travel,2019-01-08,Credit card
+688,Yangon,Member,Male,Home and lifestyle,2019-01-16,Cash
+689,Naypyitaw,Member,Male,Sports and travel,2019-03-13,Cash
+690,Yangon,Normal,Female,Food and beverages,2019-02-15,Cash
+691,Naypyitaw,Member,Female,Sports and travel,2019-01-25,Cash
+692,Naypyitaw,Member,Male,Food and beverages,2019-03-12,Ewallet
+693,Yangon,Member,Male,Health and beauty,2019-03-04,Cash
+694,Naypyitaw,Member,Female,Fashion accessories,2019-02-10,Cash
+695,Naypyitaw,Normal,Female,Food and beverages,2019-01-16,Cash
+696,Yangon,Member,Female,Home and lifestyle,2019-01-29,Cash
+697,Yangon,Member,Female,Sports and travel,2019-01-01,Ewallet
+698,Mandalay,Normal,Male,Home and lifestyle,2019-01-06,Ewallet
+699,Yangon,Member,Male,Electronic accessories,2019-02-19,Credit card
+700,Naypyitaw,Normal,Male,Home and lifestyle,2019-01-12,Ewallet
+701,Naypyitaw,Normal,Female,Fashion accessories,2019-02-07,Ewallet
+702,Mandalay,Normal,Male,Food and beverages,2019-03-27,Credit card
+703,Mandalay,Member,Female,Fashion accessories,2019-02-27,Credit card
+704,Mandalay,Member,Male,Health and beauty,2019-01-06,Cash
+705,Mandalay,Member,Female,Home and lifestyle,2019-03-02,Cash
+706,Mandalay,Normal,Male,Health and beauty,2019-03-29,Cash
+707,Mandalay,Normal,Female,Electronic accessories,2019-01-31,Ewallet
+708,Naypyitaw,Member,Male,Food and beverages,2019-01-21,Cash
+709,Naypyitaw,Normal,Male,Fashion accessories,2019-01-20,Ewallet
+710,Yangon,Normal,Male,Sports and travel,2019-01-17,Ewallet
+711,Yangon,Member,Male,Food and beverages,2019-02-28,Cash
+712,Naypyitaw,Member,Female,Home and lifestyle,2019-03-19,Ewallet
+713,Naypyitaw,Normal,Female,Electronic accessories,2019-02-19,Ewallet
+714,Naypyitaw,Normal,Female,Health and beauty,2019-02-04,Ewallet
+715,Naypyitaw,Member,Male,Fashion accessories,2019-01-31,Ewallet
+716,Yangon,Normal,Female,Health and beauty,2019-02-06,Credit card
+717,Yangon,Member,Female,Fashion accessories,2019-03-28,Ewallet
+718,Yangon,Member,Male,Electronic accessories,2019-01-19,Credit card
+719,Yangon,Normal,Male,Fashion accessories,2019-02-17,Credit card
+720,Mandalay,Member,Female,Fashion accessories,2019-01-18,Credit card
+721,Mandalay,Normal,Female,Fashion accessories,2019-02-02,Cash
+722,Naypyitaw,Member,Female,Sports and travel,2019-01-18,Cash
+723,Mandalay,Normal,Male,Home and lifestyle,2019-03-18,Credit card
+724,Naypyitaw,Member,Female,Food and beverages,2019-01-11,Cash
+725,Mandalay,Member,Male,Food and beverages,2019-02-04,Ewallet
+726,Naypyitaw,Member,Female,Health and beauty,2019-02-06,Cash
+727,Naypyitaw,Member,Male,Home and lifestyle,2019-01-08,Credit card
+728,Mandalay,Normal,Male,Sports and travel,2019-03-05,Credit card
+729,Naypyitaw,Normal,Male,Fashion accessories,2019-03-16,Ewallet
+730,Mandalay,Member,Female,Home and lifestyle,2019-03-09,Cash
+731,Yangon,Member,Female,Fashion accessories,2019-03-01,Credit card
+732,Yangon,Normal,Male,Health and beauty,2019-02-28,Ewallet
+733,Yangon,Member,Male,Fashion accessories,2019-02-08,Ewallet
+734,Mandalay,Normal,Male,Electronic accessories,2019-01-24,Ewallet
+735,Mandalay,Member,Male,Food and beverages,2019-03-01,Ewallet
+736,Naypyitaw,Member,Male,Health and beauty,2019-03-10,Credit card
+737,Naypyitaw,Member,Female,Home and lifestyle,2019-03-23,Credit card
+738,Naypyitaw,Normal,Male,Electronic accessories,2019-01-29,Ewallet
+739,Mandalay,Member,Male,Electronic accessories,2019-01-12,Ewallet
+740,Yangon,Normal,Male,Home and lifestyle,2019-03-20,Cash
+741,Naypyitaw,Normal,Male,Home and lifestyle,2019-03-23,Cash
+742,Naypyitaw,Normal,Male,Food and beverages,2019-01-14,Ewallet
+743,Yangon,Member,Female,Sports and travel,2019-02-12,Ewallet
+744,Yangon,Member,Male,Home and lifestyle,2019-02-20,Ewallet
+745,Naypyitaw,Member,Female,Sports and travel,2019-01-02,Credit card
+746,Naypyitaw,Member,Female,Food and beverages,2019-02-02,Cash
+747,Mandalay,Member,Male,Fashion accessories,2019-01-08,Credit card
+748,Naypyitaw,Member,Female,Home and lifestyle,2019-01-30,Credit card
+749,Mandalay,Member,Female,Home and lifestyle,2019-03-26,Credit card
+750,Naypyitaw,Member,Male,Health and beauty,2019-01-15,Cash
+751,Mandalay,Member,Female,Fashion accessories,2019-03-14,Ewallet
+752,Yangon,Normal,Female,Food and beverages,2019-02-03,Credit card
+753,Yangon,Member,Female,Electronic accessories,2019-02-22,Ewallet
+754,Mandalay,Normal,Male,Home and lifestyle,2019-01-24,Ewallet
+755,Naypyitaw,Member,Female,Fashion accessories,2019-01-25,Ewallet
+756,Yangon,Normal,Female,Fashion accessories,2019-03-09,Credit card
+757,Mandalay,Member,Female,Electronic accessories,2019-02-17,Ewallet
+758,Yangon,Normal,Female,Home and lifestyle,2019-01-11,Cash
+759,Yangon,Member,Male,Food and beverages,2019-02-27,Ewallet
+760,Yangon,Normal,Female,Food and beverages,2019-03-25,Ewallet
+761,Mandalay,Member,Female,Food and beverages,2019-02-11,Credit card
+762,Mandalay,Normal,Male,Electronic accessories,2019-01-31,Credit card
+763,Yangon,Member,Female,Fashion accessories,2019-01-20,Ewallet
+764,Yangon,Member,Female,Health and beauty,2019-03-26,Ewallet
+765,Yangon,Member,Male,Health and beauty,2019-01-20,Credit card
+766,Mandalay,Normal,Female,Home and lifestyle,2019-03-05,Ewallet
+767,Naypyitaw,Normal,Female,Fashion accessories,2019-01-05,Credit card
+768,Mandalay,Normal,Male,Sports and travel,2019-02-13,Cash
+769,Mandalay,Normal,Female,Electronic accessories,2019-03-16,Cash
+770,Yangon,Normal,Female,Home and lifestyle,2019-01-15,Cash
+771,Mandalay,Member,Female,Sports and travel,2019-02-26,Ewallet
+772,Naypyitaw,Member,Female,Health and beauty,2019-02-27,Credit card
+773,Naypyitaw,Member,Female,Sports and travel,2019-02-17,Ewallet
+774,Naypyitaw,Normal,Female,Food and beverages,2019-02-06,Credit card
+775,Naypyitaw,Member,Male,Food and beverages,2019-01-17,Cash
+776,Mandalay,Normal,Female,Food and beverages,2019-01-22,Credit card
+777,Naypyitaw,Member,Male,Health and beauty,2019-03-05,Credit card
+778,Mandalay,Normal,Male,Sports and travel,2019-01-03,Cash
+779,Naypyitaw,Member,Male,Sports and travel,2019-03-20,Cash
+780,Mandalay,Member,Male,Electronic accessories,2019-01-31,Ewallet
+781,Naypyitaw,Normal,Male,Health and beauty,2019-02-19,Cash
+782,Yangon,Normal,Female,Sports and travel,2019-02-11,Ewallet
+783,Yangon,Member,Female,Fashion accessories,2019-02-05,Credit card
+784,Naypyitaw,Normal,Female,Home and lifestyle,2019-03-03,Cash
+785,Naypyitaw,Member,Female,Health and beauty,2019-02-24,Ewallet
+786,Yangon,Normal,Male,Electronic accessories,2019-02-04,Credit card
+787,Naypyitaw,Normal,Male,Electronic accessories,2019-02-19,Ewallet
+788,Naypyitaw,Normal,Female,Health and beauty,2019-01-23,Credit card
+789,Naypyitaw,Member,Male,Health and beauty,2019-01-14,Credit card
+790,Yangon,Normal,Male,Sports and travel,2019-01-17,Ewallet
+791,Yangon,Normal,Male,Fashion accessories,2019-03-03,Credit card
+792,Naypyitaw,Member,Male,Health and beauty,2019-02-15,Credit card
+793,Mandalay,Normal,Female,Home and lifestyle,2019-01-15,Credit card
+794,Yangon,Member,Male,Electronic accessories,2019-02-27,Credit card
+795,Yangon,Normal,Female,Electronic accessories,2019-02-26,Credit card
+796,Mandalay,Normal,Male,Fashion accessories,2019-03-15,Ewallet
+797,Naypyitaw,Member,Female,Home and lifestyle,2019-01-24,Cash
+798,Yangon,Member,Female,Sports and travel,2019-02-22,Cash
+799,Mandalay,Normal,Male,Health and beauty,2019-03-15,Credit card
+800,Naypyitaw,Member,Male,Home and lifestyle,2019-02-11,Ewallet
+801,Mandalay,Normal,Male,Sports and travel,2019-01-12,Ewallet
+802,Naypyitaw,Member,Female,Electronic accessories,2019-03-03,Ewallet
+803,Naypyitaw,Member,Male,Fashion accessories,2019-03-23,Ewallet
+804,Yangon,Member,Female,Fashion accessories,2019-03-04,Cash
+805,Mandalay,Member,Female,Electronic accessories,2019-02-23,Cash
+806,Yangon,Normal,Female,Home and lifestyle,2019-03-17,Cash
+807,Yangon,Normal,Female,Sports and travel,2019-01-16,Credit card
+808,Yangon,Normal,Female,Electronic accessories,2019-01-08,Cash
+809,Mandalay,Normal,Female,Health and beauty,2019-01-14,Cash
+810,Naypyitaw,Normal,Female,Fashion accessories,2019-01-31,Ewallet
+811,Mandalay,Normal,Male,Health and beauty,2019-03-15,Ewallet
+812,Yangon,Normal,Female,Electronic accessories,2019-02-24,Credit card
+813,Naypyitaw,Member,Female,Sports and travel,2019-02-08,Credit card
+814,Yangon,Normal,Male,Electronic accessories,2019-03-22,Cash
+815,Yangon,Member,Female,Electronic accessories,2019-01-24,Cash
+816,Mandalay,Normal,Female,Food and beverages,2019-03-14,Ewallet
+817,Naypyitaw,Normal,Female,Fashion accessories,2019-01-23,Cash
+818,Yangon,Normal,Male,Food and beverages,2019-01-19,Ewallet
+819,Mandalay,Member,Male,Health and beauty,2019-01-27,Credit card
+820,Mandalay,Member,Male,Food and beverages,2019-02-03,Credit card
+821,Mandalay,Normal,Male,Electronic accessories,2019-03-25,Ewallet
+822,Yangon,Member,Female,Home and lifestyle,2019-02-24,Credit card
+823,Naypyitaw,Member,Male,Sports and travel,2019-02-07,Cash
+824,Yangon,Normal,Female,Health and beauty,2019-03-04,Cash
+825,Mandalay,Member,Female,Sports and travel,2019-02-14,Credit card
+826,Yangon,Member,Female,Sports and travel,2019-01-29,Credit card
+827,Mandalay,Member,Female,Health and beauty,2019-01-28,Credit card
+828,Yangon,Member,Male,Fashion accessories,2019-03-26,Credit card
+829,Naypyitaw,Normal,Male,Electronic accessories,2019-03-24,Cash
+830,Yangon,Member,Female,Electronic accessories,2019-01-01,Credit card
+831,Yangon,Normal,Male,Electronic accessories,2019-01-24,Cash
+832,Mandalay,Normal,Male,Health and beauty,2019-02-25,Cash
+833,Mandalay,Member,Female,Sports and travel,2019-01-09,Cash
+834,Yangon,Member,Male,Health and beauty,2019-02-14,Ewallet
+835,Mandalay,Member,Female,Home and lifestyle,2019-03-12,Ewallet
+836,Yangon,Normal,Male,Fashion accessories,2019-03-26,Cash
+837,Yangon,Member,Male,Fashion accessories,2019-01-09,Ewallet
+838,Mandalay,Normal,Male,Sports and travel,2019-01-02,Credit card
+839,Naypyitaw,Normal,Male,Electronic accessories,2019-01-15,Cash
+840,Naypyitaw,Member,Female,Sports and travel,2019-01-01,Ewallet
+841,Yangon,Normal,Male,Fashion accessories,2019-02-15,Cash
+842,Mandalay,Normal,Male,Electronic accessories,2019-02-28,Cash
+843,Yangon,Member,Female,Sports and travel,2019-03-02,Credit card
+844,Naypyitaw,Member,Female,Food and beverages,2019-02-13,Credit card
+845,Yangon,Normal,Male,Fashion accessories,2019-01-26,Cash
+846,Yangon,Member,Male,Electronic accessories,2019-01-30,Credit card
+847,Yangon,Member,Male,Electronic accessories,2019-01-27,Ewallet
+848,Naypyitaw,Normal,Female,Sports and travel,2019-01-30,Credit card
+849,Naypyitaw,Member,Female,Food and beverages,2019-01-08,Cash
+850,Yangon,Normal,Female,Fashion accessories,2019-01-19,Cash
+851,Yangon,Normal,Male,Fashion accessories,2019-01-25,Cash
+852,Yangon,Normal,Female,Fashion accessories,2019-02-19,Ewallet
+853,Naypyitaw,Normal,Male,Health and beauty,2019-01-14,Ewallet
+854,Mandalay,Normal,Female,Electronic accessories,2019-02-25,Ewallet
+855,Yangon,Member,Female,Health and beauty,2019-01-23,Ewallet
+856,Mandalay,Normal,Female,Fashion accessories,2019-02-16,Cash
+857,Mandalay,Normal,Male,Food and beverages,2019-01-01,Cash
+858,Yangon,Member,Female,Home and lifestyle,2019-03-07,Cash
+859,Mandalay,Normal,Male,Health and beauty,2019-02-15,Cash
+860,Yangon,Member,Female,Food and beverages,2019-01-23,Cash
+861,Naypyitaw,Member,Female,Home and lifestyle,2019-02-20,Ewallet
+862,Yangon,Member,Male,Sports and travel,2019-01-08,Ewallet
+863,Mandalay,Normal,Female,Home and lifestyle,2019-03-17,Credit card
+864,Mandalay,Normal,Female,Home and lifestyle,2019-01-12,Cash
+865,Yangon,Member,Female,Electronic accessories,2019-01-08,Cash
+866,Naypyitaw,Member,Male,Health and beauty,2019-01-26,Ewallet
+867,Mandalay,Member,Male,Sports and travel,2019-03-15,Credit card
+868,Naypyitaw,Member,Female,Health and beauty,2019-01-17,Ewallet
+869,Naypyitaw,Member,Male,Food and beverages,2019-01-08,Credit card
+870,Yangon,Normal,Male,Sports and travel,2019-01-06,Ewallet
+871,Yangon,Member,Male,Food and beverages,2019-02-16,Credit card
+872,Naypyitaw,Normal,Male,Fashion accessories,2019-03-13,Ewallet
+873,Mandalay,Member,Female,Electronic accessories,2019-01-28,Cash
+874,Yangon,Member,Male,Sports and travel,2019-01-18,Cash
+875,Yangon,Member,Male,Home and lifestyle,2019-03-19,Credit card
+876,Naypyitaw,Normal,Male,Home and lifestyle,2019-03-15,Ewallet
+877,Naypyitaw,Member,Male,Fashion accessories,2019-02-12,Cash
+878,Mandalay,Member,Male,Electronic accessories,2019-02-25,Cash
+879,Yangon,Normal,Female,Electronic accessories,2019-03-21,Credit card
+880,Mandalay,Member,Female,Electronic accessories,2019-01-19,Ewallet
+881,Mandalay,Member,Female,Food and beverages,2019-01-08,Ewallet
+882,Naypyitaw,Member,Female,Fashion accessories,2019-03-30,Credit card
+883,Mandalay,Member,Male,Sports and travel,2019-02-20,Credit card
+884,Yangon,Member,Female,Home and lifestyle,2019-03-30,Ewallet
+885,Yangon,Member,Female,Food and beverages,2019-03-19,Cash
+886,Yangon,Normal,Male,Sports and travel,2019-01-13,Cash
+887,Yangon,Member,Male,Food and beverages,2019-02-05,Ewallet
+888,Yangon,Member,Female,Electronic accessories,2019-03-23,Ewallet
+889,Naypyitaw,Normal,Female,Fashion accessories,2019-03-13,Ewallet
+890,Yangon,Member,Male,Sports and travel,2019-03-17,Ewallet
+891,Naypyitaw,Normal,Female,Health and beauty,2019-02-21,Cash
+892,Mandalay,Normal,Female,Electronic accessories,2019-02-07,Cash
+893,Naypyitaw,Member,Female,Fashion accessories,2019-03-02,Credit card
+894,Mandalay,Normal,Male,Electronic accessories,2019-03-06,Cash
+895,Mandalay,Member,Male,Electronic accessories,2019-02-06,Credit card
+896,Mandalay,Normal,Male,Health and beauty,2019-01-28,Credit card
+897,Naypyitaw,Normal,Male,Fashion accessories,2019-01-18,Ewallet
+898,Naypyitaw,Member,Female,Food and beverages,2019-02-05,Cash
+899,Naypyitaw,Member,Male,Health and beauty,2019-03-02,Cash
+900,Yangon,Member,Male,Food and beverages,2019-02-09,Ewallet
+901,Naypyitaw,Member,Female,Electronic accessories,2019-01-14,Credit card
+902,Mandalay,Normal,Male,Home and lifestyle,2019-02-09,Ewallet
+903,Yangon,Member,Female,Health and beauty,2019-03-26,Credit card
+904,Yangon,Normal,Male,Food and beverages,2019-01-28,Cash
+905,Naypyitaw,Normal,Female,Health and beauty,2019-02-14,Ewallet
+906,Naypyitaw,Member,Female,Home and lifestyle,2019-03-24,Cash
+907,Naypyitaw,Normal,Male,Health and beauty,2019-02-09,Credit card
+908,Mandalay,Normal,Female,Health and beauty,2019-03-24,Credit card
+909,Yangon,Member,Female,Food and beverages,2019-03-27,Ewallet
+910,Mandalay,Normal,Female,Home and lifestyle,2019-01-27,Credit card
+911,Mandalay,Member,Female,Food and beverages,2019-03-27,Credit card
+912,Naypyitaw,Normal,Female,Electronic accessories,2019-01-19,Ewallet
+913,Yangon,Normal,Female,Home and lifestyle,2019-02-07,Cash
+914,Yangon,Member,Male,Fashion accessories,2019-01-31,Ewallet
+915,Yangon,Member,Female,Food and beverages,2019-02-25,Cash
+916,Naypyitaw,Normal,Female,Electronic accessories,2019-02-02,Cash
+917,Naypyitaw,Member,Male,Sports and travel,2019-03-14,Credit card
+918,Yangon,Normal,Female,Fashion accessories,2019-03-11,Cash
+919,Mandalay,Normal,Male,Home and lifestyle,2019-02-22,Ewallet
+920,Mandalay,Member,Female,Electronic accessories,2019-03-02,Ewallet
+921,Naypyitaw,Member,Female,Home and lifestyle,2019-03-10,Credit card
+922,Mandalay,Normal,Female,Home and lifestyle,2019-02-08,Cash
+923,Naypyitaw,Member,Female,Home and lifestyle,2019-02-22,Credit card
+924,Naypyitaw,Normal,Female,Sports and travel,2019-01-10,Credit card
+925,Naypyitaw,Member,Female,Sports and travel,2019-03-14,Ewallet
+926,Mandalay,Normal,Female,Electronic accessories,2019-01-10,Ewallet
+927,Mandalay,Member,Male,Sports and travel,2019-02-15,Credit card
+928,Yangon,Member,Female,Health and beauty,2019-01-13,Credit card
+929,Mandalay,Normal,Female,Electronic accessories,2019-02-15,Credit card
+930,Mandalay,Normal,Male,Sports and travel,2019-03-02,Ewallet
+931,Mandalay,Normal,Male,Home and lifestyle,2019-03-24,Ewallet
+932,Naypyitaw,Member,Female,Fashion accessories,2019-02-02,Credit card
+933,Yangon,Normal,Female,Food and beverages,2019-02-27,Ewallet
+934,Naypyitaw,Normal,Male,Health and beauty,2019-01-20,Ewallet
+935,Mandalay,Normal,Female,Home and lifestyle,2019-01-03,Ewallet
+936,Naypyitaw,Member,Male,Home and lifestyle,2019-01-24,Ewallet
+937,Naypyitaw,Normal,Female,Health and beauty,2019-01-05,Ewallet
+938,Yangon,Normal,Female,Sports and travel,2019-03-30,Cash
+939,Yangon,Member,Female,Health and beauty,2019-02-17,Cash
+940,Naypyitaw,Normal,Female,Food and beverages,2019-03-21,Ewallet
+941,Yangon,Normal,Male,Food and beverages,2019-03-02,Ewallet
+942,Naypyitaw,Member,Male,Fashion accessories,2019-03-27,Cash
+943,Yangon,Normal,Female,Home and lifestyle,2019-01-19,Ewallet
+944,Yangon,Normal,Male,Health and beauty,2019-02-19,Credit card
+945,Yangon,Member,Male,Health and beauty,2019-03-28,Cash
+946,Yangon,Normal,Female,Electronic accessories,2019-01-05,Credit card
+947,Naypyitaw,Member,Male,Electronic accessories,2019-03-26,Credit card
+948,Mandalay,Member,Male,Fashion accessories,2019-02-03,Ewallet
+949,Naypyitaw,Member,Male,Home and lifestyle,2019-02-06,Ewallet
+950,Mandalay,Normal,Female,Food and beverages,2019-02-24,Ewallet
+951,Mandalay,Member,Male,Health and beauty,2019-02-21,Ewallet
+952,Mandalay,Member,Female,Home and lifestyle,2019-01-09,Ewallet
+953,Mandalay,Member,Female,Food and beverages,2019-02-25,Ewallet
+954,Naypyitaw,Member,Female,Food and beverages,2019-01-13,Cash
+955,Mandalay,Member,Male,Home and lifestyle,2019-02-09,Cash
+956,Yangon,Normal,Female,Fashion accessories,2019-01-06,Cash
+957,Naypyitaw,Member,Male,Food and beverages,2019-01-10,Cash
+958,Mandalay,Normal,Male,Electronic accessories,2019-02-07,Cash
+959,Naypyitaw,Normal,Female,Home and lifestyle,2019-01-09,Cash
+960,Yangon,Member,Female,Food and beverages,2019-02-19,Cash
+961,Naypyitaw,Member,Male,Fashion accessories,2019-03-18,Cash
+962,Yangon,Member,Male,Electronic accessories,2019-02-05,Cash
+963,Yangon,Normal,Female,Fashion accessories,2019-03-19,Credit card
+964,Naypyitaw,Member,Male,Electronic accessories,2019-03-30,Cash
+965,Mandalay,Normal,Male,Food and beverages,2019-01-26,Credit card
+966,Mandalay,Normal,Female,Electronic accessories,2019-03-02,Credit card
+967,Yangon,Normal,Female,Home and lifestyle,2019-03-04,Ewallet
+968,Yangon,Member,Male,Home and lifestyle,2019-01-13,Credit card
+969,Yangon,Normal,Female,Health and beauty,2019-03-25,Cash
+970,Mandalay,Member,Female,Electronic accessories,2019-03-11,Credit card
+971,Mandalay,Member,Female,Food and beverages,2019-01-01,Credit card
+972,Mandalay,Member,Male,Home and lifestyle,2019-02-10,Ewallet
+973,Mandalay,Normal,Male,Electronic accessories,2019-01-26,Cash
+974,Yangon,Normal,Male,Home and lifestyle,2019-02-11,Cash
+975,Naypyitaw,Normal,Male,Fashion accessories,2019-02-07,Cash
+976,Mandalay,Member,Male,Fashion accessories,2019-03-06,Credit card
+977,Yangon,Normal,Female,Food and beverages,2019-03-04,Cash
+978,Mandalay,Member,Male,Food and beverages,2019-02-26,Ewallet
+979,Mandalay,Normal,Female,Electronic accessories,2019-03-10,Credit card
+980,Mandalay,Normal,Female,Food and beverages,2019-02-04,Credit card
+981,Naypyitaw,Member,Male,Food and beverages,2019-01-19,Cash
+982,Yangon,Normal,Male,Health and beauty,2019-01-23,Cash
+983,Yangon,Member,Female,Sports and travel,2019-03-14,Ewallet
+984,Naypyitaw,Normal,Male,Health and beauty,2019-01-23,Cash
+985,Naypyitaw,Normal,Male,Electronic accessories,2019-01-09,Cash
+986,Mandalay,Normal,Female,Fashion accessories,2019-02-07,Ewallet
+987,Mandalay,Normal,Female,Health and beauty,2019-02-18,Ewallet
+988,Mandalay,Member,Male,Health and beauty,2019-01-03,Credit card
+989,Naypyitaw,Member,Male,Electronic accessories,2019-03-29,Ewallet
+990,Mandalay,Member,Male,Health and beauty,2019-01-28,Credit card
+991,Yangon,Normal,Female,Food and beverages,2019-03-22,Credit card
+992,Mandalay,Normal,Female,Sports and travel,2019-01-24,Ewallet
+993,Yangon,Normal,Male,Electronic accessories,2019-03-10,Ewallet
+994,Mandalay,Normal,Male,Fashion accessories,2019-02-22,Ewallet
+995,Naypyitaw,Member,Female,Electronic accessories,2019-02-18,Ewallet
+996,Naypyitaw,Normal,Male,Health and beauty,2019-01-29,Ewallet
+997,Mandalay,Normal,Female,Home and lifestyle,2019-03-02,Ewallet
+998,Yangon,Member,Male,Food and beverages,2019-02-09,Cash
+999,Yangon,Normal,Male,Home and lifestyle,2019-02-22,Cash
+1000,Yangon,Member,Female,Fashion accessories,2019-02-18,Cash
