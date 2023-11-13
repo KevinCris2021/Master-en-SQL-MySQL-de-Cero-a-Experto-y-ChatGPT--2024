@@ -1,0 +1,11 @@
+﻿id,nombre,apellido,correo,manager_id
+1,Fabiola,Soto,fabiola.soto@miempresa.com,NULL
+2,Mireya,Rodriguez,mireya.rodriguez@miempresa.com,1
+3,Genna,Serrado,genna.serrado@miempresa.com,2
+4,Virgie,Vargas,virgie.vargas@miempresa.com,1
+5,Jannette,Centurion,jannette.centurion@miempresa.com,3
+6,Marcela,Valencia,marcela.valencia@miempresa.com,5
+7,Kali,Godos,kali.godos@miempresa.com,5
+8,Layla,Trisano,layla.trisano@miempresa.com,1
+9,Bernardo,Perez,bernardo.perez@miempresa.com,7
+10,Luis,Andrade,luis.andrade@miempresa.com,7
