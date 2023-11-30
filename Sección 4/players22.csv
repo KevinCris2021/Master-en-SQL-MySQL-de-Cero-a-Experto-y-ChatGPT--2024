@@ -1,0 +1,300 @@
+Playerid; FirstName; LastName; Age; BirthDate; Height; Weight; Nationality; Club; Value_eur; Wage_eur; Team_Position
+1; Lionel; Messi;34; 1987-06-24;170;72; ARG; Paris Saint-Germain;78;78; RW
+2; Robert; Lewandowski;32; 1988-08-21;185;81; POL; FC Bayern München;120;120; ST
+3; Cristiano Ronaldo; dos Santos;36; 1985-02-05;187;83; PRT; Manchester United;45;45; ST
+4; Neymar; da Silva;29; 1992-02-05;175;68; BRA; Paris Saint-Germain;129;129; LW
+5; Kevin; De Bruyne;30; 1991-06-28;181;70; BEL; Manchester City;126;126; CM
+6; Jan; Oblak;28; 1993-01-07;188;87; SVN; Atlético de Madrid;112;112; GK
+7; Kylian; Mbappé;22; 1998-12-20;182;73; FRA; Paris Saint-Germain;194;194; ST
+8; Manuel; Neuer;35; 1986-03-27;193;93; DEU; FC Bayern München;14;14; GK
+9; Marc-André; ter Stegen;29; 1992-04-30;187;85; DEU; FC Barcelona;99;99; GK
+10; Harry; Kane;27; 1993-07-28;188;89; ENG; Tottenham Hotspur;130;130; ST
+11; N\Golo; Kanté;30; 1991-03-29;168;70; FRA; Chelsea;100;100; CM
+12; Karim; Benzema;33; 1987-12-19;185;81; FRA; Real Madrid CF;66;66; CF
+13; Thibaut; Courtois;29; 1992-05-11;199;96; BEL; Real Madrid CF;86;86; GK
+14; Carlos; Casimiro;29; 1992-02-23;185;84; BRA; Real Madrid CF;88;88; CDM
+15; Virgil; van Dijk;29; 1991-07-08;193;92; NLD; Liverpool;86;86; CB
+16; Sadio; Mané;29; 1992-04-10;175;69; SEN; Liverpool;101;101; LW
+17; Mohamed; Salah;29; 1992-06-15;175;71; EGY; Liverpool;101;101; RW
+18; Ederson; Santana;27; 1993-08-17;188;86; BRA; Manchester City;94;94; GK
+19; Joshua; Kimmich;26; 1995-02-08;177;75; DEU; FC Bayern München;108;108; CDM
+20; Alisson; Becker;28; 1992-10-02;191;91; BRA; Liverpool;82;82; GK
+21; Gianluigi; Donnarumma;22; 1999-02-25;196;90; ITA; Paris Saint-Germain;120;120; GK
+22; Sergio; Ramos;35; 1986-03-30;184;82; ESP; Paris Saint-Germain;24;24; CB
+23; Luis; Suárez;34; 1987-01-24;182;83; URY; Atlético de Madrid;45;45; ST
+24; Toni; Kroos;31; 1990-01-04;183;76; DEU; Real Madrid CF;75;75; CM
+25; Romelu; Lukaku;28; 1993-05-13;191;94; BEL; Chelsea;94;94; ST
+26; Keylor; Navas;34; 1986-12-15;185;80; CRI; Paris Saint-Germain;16;16; GK
+27; Raheem; Sterling;26; 1994-12-08;170;69; ENG; Manchester City;108;108; RW
+28; Bruno; Fernandes;26; 1994-09-08;179;69; PRT; Manchester United;108;108; CAM
+29; Erling; Haaland;20; 2000-07-21;194;94; NOR; Borussia Dortmund;138;138; ST
+30; Sergio; Agüero;33; 1988-06-02;173;70; ARG; FC Barcelona;51;51; ST
+31; Hugo; Lloris;34; 1986-12-26;188;82; FRA; Tottenham Hotspur;14;14; GK
+32; Luka; Modri?;35; 1985-09-09;172;66; HRV; Real Madrid CF;32;32; CM
+33; Ángel; Di María;33; 1988-02-14;180;69; ARG; Paris Saint-Germain;50;50; LW
+34; Wojciech; Szcz?sny;31; 1990-04-18;195;90; POL; Juventus;42;42; GK
+35; Thomas; Müller;31; 1989-09-13;185;76; DEU; FC Bayern München;66;66; CAM
+36; Ciro; Immobile;31; 1990-02-20;185;85; ITA; Lazio;68;68; ST
+37; Paul; Pogba;28; 1993-03-15;191;84; FRA; Manchester United;80;80; CDM
+38; Marco; Verratti;28; 1992-11-05;165;60; ITA; Paris Saint-Germain;80;80; CM
+39; Marcos; Correa;27; 1994-05-14;183;75; BRA; Paris Saint-Germain;91;91; CB
+40; Leon; Goretzka;26; 1995-02-06;189;82; DEU; FC Bayern München;93;93; LM
+41; Paulo; Dybala;27; 1993-11-15;177;75; ARG; Juventus;93;93; CAM
+42; Andrew; Robertson;27; 1994-03-11;178;64; SCT; Liverpool;84;84; LF
+43; Frenkie; de Jong;24; 1997-05-12;180;74; NLD; FC Barcelona;120;120; CM
+44; Trent; Alexander-Arnold;22; 1998-10-07;180;69; ENG; Liverpool;114;114; RB
+45; Jadon; Sancho;21; 2000-03-25;180;76; ENG; Manchester United;117;117; LM
+46; Rúben; Dias;24; 1997-05-14;187;82; PRT; Manchester City;103;103; CB
+47; Giorgio; Chiellini;36; 1984-08-14;187;85; ITA; Juventus;12;12; CB
+48; Samir; Handanovi?;36; 1984-07-14;193;92; SVN; Inter;8;8; GK
+49; Mats; Hummels;32; 1988-12-16;191;96; DEU; Borussia Dortmund;44;44; CB
+50; Jordi; Alba;32; 1989-03-21;170;68; ESP; FC Barcelona;47;47; LF
+51; Thiago; Alcantara;30; 1991-04-11;174;70; ESP; Liverpool;65;65; CM
+52; Sergio; Busquets;32; 1988-07-16;189;76; ESP; FC Barcelona;45;45; CDM
+53; Daniel; Parejo;32; 1989-04-16;182;74; ESP; Villarreal CF;54;54; CM
+54; Koen; Casteels;29; 1992-06-25;197;86; BEL; VfL Wolfsburg;52;52; GK
+55; Lorenzo; Insigne;30; 1991-06-04;163;59; ITA; Napoli;66;66; LW
+56; Kalidou; Koulibaly;30; 1991-06-20;187;89; SEN; Napoli;56;56; CB
+57; Raphaël; Varane;28; 1993-04-25;191;81; FRA; Manchester United;69;69; CB
+58; Riyad; Mahrez;30; 1991-02-21;179;67; DZA; Manchester City;66;66; RW
+59; Gerard; Moreno;29; 1992-04-07;180;77; ESP; Villarreal CF;68;68; ST
+60; Jamie; Vardy;34; 1987-01-11;179;74; ENG; Leicester City;33;33; ST
+61; Fábio; Henrique;27; 1993-10-23;188;78; BRA; Liverpool;74;74; CDM
+62; João; Pedro;27; 1994-05-27;182;74; PRT; Manchester City;72;72; LF
+63; Aymeric; Laporte;27; 1994-05-27;191;85; ESP; Manchester City;77;77; CB
+64; Kingsley; Coman;25; 1996-06-13;180;76; FRA; FC Bayern München;81;81; RW
+65; Bernardo; Silva;26; 1994-08-10;173;64; PRT; Manchester City;80;80; CAM
+66; Marcos; Llorente;26; 1995-01-30;184;74; ESP; Atlético de Madrid;88;88; RM
+67; Rodrigo; Hernández;25; 1996-06-22;191;82; ESP; Manchester City;81;81; CDM
+68; Milan; Škriniar;26; 1995-02-11;188;80; SVK; Inter;74;74; CB
+69; Alejandro; Gómez;33; 1988-02-15;167;68; ARG; Sevilla FC;34;34; CM
+70; Kasper; Schmeichel;34; 1986-11-05;189;89; DNK; Leicester City;9;9; GK
+71; Thiago; Silva;36; 1984-09-22;183;79; BRA; Chelsea;10;10; CB
+72; David; Silva;35; 1986-01-08;173;67; ESP; Real Sociedad;22;22; CAM
+73; Yann; Sommer;32; 1988-12-17;183;79; CHE; Borussia Mönchengladbach;27;27; GK
+74; Edinson; Cavani;34; 1987-02-14;185;77; URY; Manchester United;26;26; ST
+75; Eden; Hazard;30; 1991-01-07;175;74; BEL; Real Madrid CF;52;52; LW
+76; Leonardo; Bonucci;34; 1987-05-01;190;85; ITA; Juventus;18;18; CB
+77; Péter; Gulácsi;31; 1990-05-06;191;86; HUN; RB Leipzig;29;29; GK
+78; ?lkay; Gündo?an;30; 1990-10-24;180;80; DEU; Manchester City;52;52; CM
+79; Marco; Reus;32; 1989-05-31;180;71; DEU; Borussia Dortmund;43;43; CAM
+80; Kyle; Walker;31; 1990-05-28;183;83; ENG; Manchester City;39;39; RB
+81; Pierre-Emerick; Aubameyang;32; 1989-06-18;187;80; GAB; Arsenal;44;44; ST
+82; Jorge; Resurrección;29; 1992-01-08;176;75; ESP; Atlético de Madrid;53;53; CM
+83; Antoine; Griezmann;30; 1991-03-21;176;73; FRA; Atlético de Madrid;53;53; LW
+84; Stefan; de Vrij;29; 1992-02-05;189;78; NLD; Inter;45;45; CB
+85; Roberto; Firmino;29; 1991-10-02;181;76; BRA; Liverpool;54;54; CF
+86; Memphis; Depay;27; 1994-02-13;176;78; NLD; FC Barcelona;63;63; LW
+87; Daniel; Carvajal;29; 1992-01-11;173;73; ESP; Real Madrid CF;48;48; RB
+88; Jorge; Frello;29; 1991-12-20;180;68; ITA; Chelsea;53;53; CM
+89; Serge; David;25; 1995-07-14;176;77; DEU; FC Bayern München;65;65; RM
+90; Sergej; Milinkovi?-Savi?;26; 1995-02-27;191;76; SRB; Lazio;66;66; CM
+91; Onyinye; Wilfred;24; 1996-12-16;183;74; NGA; Leicester City;67;67; LM
+92; Mikel; Oyarzabal;24; 1997-04-21;181;79; ESP; Real Sociedad;78;78; LW
+93; Lautaro; Martínez;23; 1997-08-22;174;72; ARG; Inter;78;78; LW
+94; Marcus; Rashford;23; 1997-10-31;186;70; ENG; Manchester United;78;78; RW
+95; Achraf; Hakimi;22; 1998-11-04;181;73; MAR; Paris Saint-Germain;70;70; RB
+96; Matthijs; de Ligt;21; 1999-08-12;189;89; NLD; Juventus;75;75; CB
+97; Zlatan; Ibrahimovi?;39; 1981-10-03;195;95; SWE; AC Milan;15;15; ST
+98; Jesús; Navas;35; 1985-11-21;172;60; ESP; Sevilla FC;13;13; RB
+99; Gerard; Piqué;34; 1987-02-02;194;85; ESP; FC Barcelona;14;14; CB
+100; Dries; Mertens;34; 1987-05-06;169;61; BEL; Napoli;21;21; ST
+101; Georginio; Wijnaldum;30; 1990-11-11;175;74; NLD; Paris Saint-Germain;41;41; CM
+102; Jordan; Henderson;31; 1990-06-17;182;80; ENG; Liverpool;30;30; CM
+103; Fernando; Francisco;33; 1987-07-25;183;76; BRA; Sevilla FC;21;21; CDM
+104; Kieran; Trippier;30; 1990-09-19;173;69; ENG; Atlético de Madrid;37;37; RB
+105; Iago; Aspas;33; 1987-08-01;176;67; ESP; RC Celta de Vigo;27;27; ST
+106; David; De;30; 1990-11-07;192;82; ESP; Manchester United;28;28; GK
+107; David; Alaba;29; 1992-06-24;180;78; AUT; Real Madrid CF;36;36; LF
+108; Luis; Alberto;28; 1992-09-28;183;74; ESP; Lazio;43;43; CM
+109; Dušan; Tadi?;32; 1988-11-20;181;76; SRB; Ajax;34;34; LW
+110; Wissam; Ben Yedder;30; 1990-08-12;170;68; FRA; AS Monaco;42;42; ST
+111; Lucas; Digne;27; 1993-07-20;178;74; FRA; Everton;41;41; LF
+112; Josip; Ili?i?;33; 1988-01-29;190;79; SVN; Atalanta;27;27; RF
+113; Damián; Martínez;28; 1992-09-02;195;88; ARG; Aston Villa;34;34; GK
+114; Harry; Maguire;28; 1993-03-05;194;100; ENG; Manchester United;43;43; CB
+115; Stefan; Savi?;30; 1991-01-08;187;80; MNE; Atlético de Madrid;35;35; CB
+116; Marcel; Sabitzer;27; 1994-03-17;178;76; AUT; FC Bayern München;48;48; CM
+117; Luke; Shaw;25; 1995-07-12;181;75; ENG; Manchester United;49;49; LF
+118; Jack; Grealish;25; 1995-09-10;180;81; ENG; Manchester City;51;51; LW
+119; Matthias; Ginter;27; 1994-01-19;191;86; DEU; Borussia Mönchengladbach;43;43; CB
+120; Felipe; de Almeida;32; 1989-05-16;190;84; BRA; Atlético de Madrid;28;28; CB
+121; Yannick; Carrasco;27; 1993-09-04;185;73; BEL; Atlético de Madrid;45;45; LM
+122; Filip; Kosti?;28; 1992-11-01;184;82; SRB; Eintracht Frankfurt;43;43; LM
+123; Hakim; Ziyech;28; 1993-03-19;181;65; MAR; Chelsea;43;43; CAM
+124; Raphaël; Guerreiro;27; 1993-12-22;170;71; PRT; Borussia Dortmund;41;41; LF
+125; Ricardo; Pereira;27; 1993-10-06;175;70; PRT; Leicester City;41;41; RB
+126; Timo; Werner;25; 1996-03-06;180;76; DEU; Chelsea;57;57; ST
+127; Mike; Maignan;25; 1995-07-03;191;89; FRA; AC Milan;50;50; GK
+128; Marcelo; Brozovi?;28; 1992-11-16;181;68; HRV; Inter;37;37; CDM
+129; Youri; Tielemans;24; 1997-05-07;176;72; BEL; Leicester City;57;57; CDM
+130; José María; Giménez;26; 1995-01-20;185;79; URY; Atlético de Madrid;52;52; CB
+131; Nabil; Fekir;27; 1993-07-18;173;75; FRA; Real Betis Balompié;45;45; CAM
+132; Leroy; Sané;25; 1996-01-11;183;80; DEU; FC Bayern München;56;56; LM
+133; Nicolò; Barella;24; 1997-02-07;172;68; ITA; Inter;64;64; CM
+134; Marcos; Acuña;29; 1991-10-28;172;69; ARG; Sevilla FC;37;37; LF
+135; André; Silva;25; 1995-11-06;185;84; PRT; RB Leipzig;51;51; ST
+136; Franck; Kessié;24; 1996-12-19;183;88; CI; AC Milan;50;50; LM
+137; Theo; Hernández;23; 1997-10-06;184;81; FRA; AC Milan;63;63; LF
+138; Kai; Havertz;22; 1999-06-11;188;82; DEU; Chelsea;95;95; CAM
+139; Philip; Foden;21; 2000-05-28;171;69; ENG; Manchester City;95;95; CM
+140; Fernando; Luiz;36; 1985-05-04;179;67; BRA; Manchester City;7;7; CDM
+141; Carlos; Vela;32; 1989-03-01;177;77; MEX; Los Angeles FC;29;29; RW
+142; Axel; Witsel;32; 1989-01-12;186;81; BEL; Borussia Dortmund;24;24; CM
+143; Sergio; Asenjo;32; 1989-06-28;189;87; ESP; Villarreal CF;18;18; GK
+144; Simon; Thorup;32; 1989-03-26;190;86; DNK; AC Milan;24;24; CB
+145; Edin; Džeko;35; 1986-03-17;193;80; BIH; Inter;16;16; ST
+146; Jérôme; Boateng;32; 1988-09-03;190;94; DEU; Olympique Lyonnais;24;24; LW
+147; Toby; Alderweireld;32; 1989-03-02;186;81; BEL; Royal Antwerp FC;2;2; CB
+148; César; Azpilicueta;31; 1989-08-28;178;77; ESP; Chelsea;25;25; RWB
+149; José; Paulinho;32; 1988-07-25;183;80; BRA; Al Ahli;29;29; CM
+150; Iker; Muniain;28; 1992-12-19;170;66; ESP; Athletic Club de Bilbao;37;37; LM
+151; Sergio; Canales;30; 1991-02-16;176;65; ESP; Real Betis Balompié;35;35; LM
+152; Lukáš; Hrádecký;31; 1989-11-24;192;83; FIN; Bayer 04 Leverkusen;19;19; GK
+153; Alex; Sandro;30; 1991-01-26;180;80; BRA; Juventus;32;32; LF
+154; Bernd; Leno;29; 1992-03-04;190;83; DEU; Arsenal;28;28; GK
+155; Konstantinos; Manolas;30; 1991-06-14;189;83; GRC; Napoli;30;30; CB
+156; Henrikh; Mkhitaryan;32; 1989-01-21;177;75; ARM; Roma;30;30; LM
+157; Juan; Cuadrado;33; 1988-05-26;179;72; COL; Juventus;19;19; RM
+158; Joël; Andre;29; 1991-08-08;194;90; CMR; Liverpool;31;31; CB
+159; Sebastián; Coates;30; 1990-10-07;196;92; URY; Sporting CP;30;30; CB
+160; Francesco; Acerbi;33; 1988-02-10;192;88; ITA; Lazio;18;18; CB
+161; Allan; Marques;30; 1991-01-08;175;74; BRA; Everton;31;31; LM
+162; Kevin; Volland;28; 1992-07-30;179;85; DEU; AS Monaco;37;37; RF
+163; Álvaro; Morata;28; 1992-10-23;190;84; ESP; Juventus;37;37; ST
+164; Mauro; Icardi;28; 1993-02-19;181;75; ARG; Paris Saint-Germain;37;37; ST
+165; Leonardo; Spinazzola;28; 1993-03-25;186;75; ITA; Roma;33;33; LW
+166; John; Stones;27; 1994-05-28;188;76; ENG; Manchester City;41;41; CB
+167; Nick; Pope;29; 1992-04-19;199;76; ENG; Burnley;25;25; GK
+168; Raúl; Jiménez;30; 1991-05-05;188;81; MEX; Wolverhampton Wanderers;36;36; ST
+169; Jordan; Pickford;27; 1994-03-07;185;77; ENG; Everton;33;33; GK
+170; Antonio; Rüdiger;28; 1993-03-03;190;85; DEU; Chelsea;35;35; CB
+171; Lucas; Ocampos;26; 1994-07-11;188;84; ARG; Sevilla FC;40;40; LW
+172; Mateo; Kova?i?;27; 1994-05-06;176;80; HRV; Chelsea;42;42; CM
+173; Thomas; Partey;28; 1993-06-13;185;77; GHA; Arsenal;37;37; CDM
+174; José; Gayà;26; 1995-05-25;172;66; ESP; Valencia CF;44;44; LF
+175; Thomas; Lemar;25; 1995-11-12;171;66; FRA; Atlético de Madrid;48;48; CM
+176; Pierre-Emile; Højbjerg;25; 1995-08-05;185;84; DNK; Tottenham Hotspur;44;44; CM
+177; Ángel; Correa;26; 1995-03-09;171;70; ARG; Atlético de Madrid;48;48; RW
+178; Duván; Zapata;30; 1991-04-01;189;88; COL; Atalanta;36;36; ST
+179; Andrej; Kramari?;30; 1991-06-19;177;73; HRV; TSG Hoffenheim;36;36; CAM
+180; José; Ángel;24; 1997-01-04;175;69; ESP; RB Leipzig;46;46; LF
+181; Lucas; Hernández;25; 1996-02-14;184;79; FRA; FC Bayern München;45;45; CM
+182; Marco; Asensio;25; 1996-01-21;182;76; ESP; Real Madrid CF;48;48; LW
+183; Wout; Weghorst;28; 1992-08-07;197;84; NLD; VfL Wolfsburg;37;37; ST
+184; Robin; Gosens;26; 1994-07-05;183;76; DEU; Atalanta;36;36; LM
+185; Mikel; Merino;25; 1996-06-22;189;83; ESP; Real Sociedad;50;50; CM
+186; Presnel; Kimpembe;25; 1995-08-13;189;80; FRA; Paris Saint-Germain;46;46; CB
+187; Ferland; Mendy;26; 1995-06-08;180;73; FRA; Real Madrid CF;44;44; LF
+188; Aaron; Wan-Bissaka;23; 1997-11-26;183;72; ENG; Manchester United;49;49; RB
+189; Ronaldo; Cabrais;29; 1992-02-29;177;75; BRA; Grêmio;36;36; CAM
+190; Arthur; Ramos;24; 1996-08-12;171;73; BRA; Juventus;47;47; CM
+191; Gabriel; Jesus;24; 1997-04-03;175;73; BRA; Manchester City;53;53; ST
+192; Ousmane; Dembélé;24; 1997-05-15;178;67; FRA; FC Barcelona;55;55; RW
+193; Mason; Mount;22; 1999-01-10;178;70; ENG; Chelsea;59;59; RW
+194; Édouard; Mendy;29; 1992-03-01;197;86; SEN; Chelsea;30;30; GK
+195; Federico; Chiesa;23; 1997-10-25;175;70; ITA; Juventus;81;81; LM
+196; Federico; Valverde;22; 1998-07-22;182;78; URY; Real Madrid CF;58;58; CM
+197; Jules; Koundé;22; 1998-11-12;181;75; FRA; Sevilla FC;53;53; CB
+198; João; Félix;21; 1999-11-10;181;72; PRT; Atlético de Madrid;82;82; LW
+199; Kléper; Laveran;38; 1983-02-26;188;80; PRT; FC Porto;6;6; CB
+200; Raúl; Albiol;35; 1985-09-04;190;82; ESP; Villarreal CF;8;8; CB
+201; ?ukasz; Fabia?ski;36; 1985-04-18;190;83; POL; West Ham United;3;3; GK
+202; Salvatore; Sirigu;34; 1987-01-12;192;85; ITA; Genoa;5;5; GK
+203; Ivan; Rakiti?;33; 1988-03-10;184;78; HRV; Sevilla FC;19;19; CM
+204; Gareth; Bale;31; 1989-07-16;185;82; WLS; Real Madrid CF;25;25; RW
+205; Rui; Pedro;33; 1988-02-15;190;84; PRT; Roma;10;10; GK
+206; Éver; Banega;33; 1988-06-29;174;75; ARG; Al Shabab;15;15; CAM
+207; Miralem; Pjani?;31; 1990-04-02;178;72; BIH; Be?ikta? JK;25;25; CM
+208; Yuri; Berchiche;31; 1990-02-10;181;80; ESP; Athletic Club de Bilbao;22;22; LF
+209; Oscar; dos Santos;29; 1991-09-09;179;70; BRA; Shanghai Port FC;30;30; CAM
+210; Kevin; Trapp;30; 1990-07-08;189;88; DEU; Eintracht Frankfurt;21;21; GK
+211; Philippe; Coutinho;29; 1992-06-12;172;68; BRA; FC Barcelona;30;30; CM
+212; Christian; Eriksen;29; 1992-02-14;181;76; DNK; Inter;30;30; LW
+213; Daley; Blind;31; 1990-03-09;180;72; NLD; Ajax;21;21; LF
+214; Mario; Götze;29; 1992-06-03;177;71; DEU; PSV;30;30; CAM
+215; Alphonse; Areola;28; 1993-02-27;195;94; FRA; West Ham United;26;26; GK
+216; Jesús; Corona;28; 1993-01-06;173;66; MEX; FC Porto;31;31; GK
+217; Alexandre; Lacazette;30; 1991-05-28;175;73; FRA; Arsenal;30;30; ST
+218; Idrissa; Gueye;31; 1989-09-26;174;66; SEN; Paris Saint-Germain;22;22; CM
+219; Mário; Fernandes;30; 1990-09-19;187;80; RUS; PFC CSKA Moscow;27;27; RB
+220; Oliver; Baumann;31; 1990-06-02;187;82; DEU; TSG Hoffenheim;16;16; GK
+221; Norberto; Neto;31; 1989-07-19;190;84; BRA; FC Barcelona;16;16; LW
+222; Isco; Alarcón;29; 1992-04-21;176;79; ESP; Real Madrid CF;30;30; CAM
+223; Wilfried; Zaha;28; 1992-11-10;180;66; CI; Crystal Palace;31;31; RW
+224; Luis; Muriel;30; 1991-04-16;179;79; COL; Atalanta;30;30; ST
+225; Anthony; Lopes;30; 1990-10-01;184;81; PRT; Olympique Lyonnais;23;23; GK
+226; José; Campaña;28; 1993-05-31;179;70; ESP; Levante Unión Deportiva;31;31; CM
+227; Jordan; Veretout;28; 1993-03-01;177;67; FRA; Roma;30;30; LM
+228; Jesús; Fernández;27; 1993-11-19;176;70; ESP; Sevilla FC;33;33; RW
+229; Thorgan; Hazard;28; 1993-03-29;175;71; BEL; Borussia Dortmund;31;31; LW
+230; Juan; Bernat;28; 1993-03-01;170;67; ESP; Paris Saint-Germain;28;28; LF
+231; Cristian; Portugués;29; 1992-05-21;167;66; ESP; Real Sociedad;30;30; RB
+232; Hakan; Çalhano?lu;27; 1994-02-08;178;76; TUR; Inter;35;35; CM
+233; Emre; Can;27; 1994-01-12;186;86; DEU; Borussia Dortmund;35;35; CM
+234; Saúl; Ñíguez;26; 1994-11-21;184;75; ESP; Chelsea;40;40; CM
+235; Yassine; Bounou;30; 1991-04-05;192;78; MAR; Sevilla FC;21;21; GK
+236; Alejandro; Grimaldo;25; 1995-09-20;171;69; ESP; SL Benfica;37;37; LWB
+237; Alessio; Romagnoli;26; 1995-01-12;185;75; ITA; AC Milan;32;32; CB
+238; Domenico; Berardi;26; 1994-08-01;183;72; ITA; U.S. Sassuolo Calcio;34;34; RM
+239; Nicolás; Tagliafico;28; 1992-08-31;172;65; ARG; Ajax;28;28; LF
+240; Pierluigi; Gollini;26; 1995-03-18;194;94; ITA; Tottenham Hotspur;35;35; GK
+241; Niklas; Süle;25; 1995-09-03;195;99; DEU; FC Bayern München;41;41; CB
+242; Alex; Telles;28; 1992-12-15;181;71; BRA; Manchester United;28;28; LF
+243; Anderson; Souza;27; 1994-02-01;190;80; BRA; Al Nassr;36;36; CAM
+244; Rodrigo; De Paul;27; 1994-05-24;180;70; ARG; Atlético de Madrid;35;35; CDM
+245; Rafael; Fernandes;28; 1993-05-17;170;63; PRT; SL Benfica;31;31; RM
+246; Diego; Santos;28; 1993-03-15;185;86; BRA; Sevilla FC;31;31; CB
+247; Ante; Rebi?;27; 1993-09-21;185;78; HRV; AC Milan;33;33; LM
+248; Clément; Lenglet;26; 1995-06-17;186;81; FRA; FC Barcelona;38;38; CB
+249; James; Maddison;24; 1996-11-23;175;73; ENG; Leicester City;42;42; CAM
+250; Manuel; Locatelli;23; 1998-01-08;185;75; ITA; Juventus;42;42; CDM
+251; Martin; Ødegaard;22; 1998-12-17;178;68; NOR; Arsenal;49;49; CAM
+252; Rúben; Neves;24; 1997-03-13;180;80; PRT; Wolverhampton Wanderers;46;46; CM
+253; Diogo; Jota;24; 1996-12-04;178;73; PRT; Liverpool;46;46; ST
+254; Joe; Gomez;24; 1997-05-23;188;77; ENG; Liverpool;44;44; CB
+255; Fabián; Ruiz;25; 1996-04-03;189;70; ESP; Napoli;42;42; CM
+256; Christian; Pulisic;22; 1998-09-18;177;69; USA; Chelsea;49;49; LW
+257; João; Alves;25; 1995-07-09;190;82; PRT; Sporting CP;41;41; CM
+258; Dayotchanculle; Upamecano;22; 1998-10-27;186;90; FRA; FC Bayern München;64;64; CB
+259; Mario; Hermoso;26; 1995-06-18;185;76; ESP; Atlético de Madrid;36;36; CB
+260; Leon; Bailey;23; 1997-08-09;178;77; JAM; Aston Villa;42;42; LW
+261; Ben; Chilwell;24; 1996-12-21;178;77; ENG; Chelsea;41;41; LF
+262; Raphael; Anjos;33; 1988-02-29;190;85; BRA; RB Bragantino;10;10; GK
+263; Josué; Chiamulera;29; 1992-02-29;185;80; BRA; Grêmio;26;26; CB
+264; Unai; Simón;24; 1997-06-11;190;89; ESP; Athletic Club de Bilbao;35;35; GK
+265; Richarlison; de Andrade;24; 1997-05-10;181;71; BRA; Everton;47;47; LM
+266; Cristian; Romero;23; 1998-04-27;185;79; ARG; Tottenham Hotspur;42;42; CB
+267; Denzel; Dumfries;25; 1996-04-18;188;80; NLD; Inter;35;35; RB
+268; Raphael; Dias;24; 1996-12-14;176;68; BRA; Leeds United;46;46; RM
+269; Alexander; Isak;21; 1999-09-21;192;77; SWE; Real Sociedad;45;45; ST
+270; Declan; Rice;22; 1999-01-14;185;80; ENG; West Ham United;43;43; LM
+271; Alphonso; Davies;20; 2000-11-02;183;75; CAN; FC Bayern München;57;57; LF
+272; Florian; Neuhaus;24; 1997-03-16;185;74; DEU; Borussia Mönchengladbach;46;46; LM
+273; Youssef; En-Nesyri;24; 1997-06-01;188;78; MAR; Sevilla FC;44;44; ST
+274; Tanguy; Ndombèlé;24; 1996-12-28;179;76; FRA; Tottenham Hotspur;46;46; CM
+275; Tomáš; Sou?ek;26; 1995-02-27;192;86; CZE; West Ham United;36;36; CDM
+276; Éder; Militão;23; 1998-01-18;186;78; BRA; Real Madrid CF;57;57; CB
+277; Ferran; Torres;21; 2000-02-29;184;77; ESP; Manchester City;69;69; ST
+278; Pau; Torres;24; 1997-01-16;191;80; ESP; Villarreal CF;57;57; CB
+279; Dominik; Livakovi?;26; 1995-01-09;187;79; HRV; Dinamo Zagreb;35;35; GK
+280; Daniel; Olmo;23; 1998-05-07;179;72; ESP; RB Leipzig;46;46; CAM
+281; Joaquín; Sánchez;39; 1981-07-21;179;75; ESP; Real Betis Balompié;9;9; RM
+282; Burak; Y?lmaz;35; 1985-07-15;188;77; TUR; LOSC Lille;11;11; LW
+283; Luís; Almeida;34; 1986-11-17;177;70; PRT; Orlando City Soccer Club;12;12; ST
+284; André-Pierre; Gignac;35; 1985-12-05;189;85; FRA; Tigres U.A.N.L.;11;11; ST
+285; Héctor; Herrera;31; 1990-04-19;185;78; MEX; Atlético de Madrid;21;21; CM
+286; Andrea; Consigli;34; 1987-01-27;189;82; ITA; U.S. Sassuolo Calcio;4;4; GK
+287; Steve; Mandanda;36; 1985-03-28;185;82; FRA; Olympique de Marseille;3;3; GK
+288; Gonzalo; Higuaín;33; 1987-12-10;186;89; ARG; Inter Miami CF;17;17; ST
+289; José; Fonte;37; 1983-12-22;191;84; PRT; LOSC Lille;5;5; CB
+290; Jan; Vertonghen;34; 1987-04-24;189;86; BEL; SL Benfica;9;9; CB
+291; Lucas; Leiva;34; 1987-01-09;179;78; BRA; Lazio;9;9; CDM
+292; Antonio; Garrido;34; 1987-05-13;190;86; ESP; Sporting CP;4;4; GK
+293; Ivan; Periši?;32; 1989-02-02;186;80; HRV; Inter;21;21; LM
+294; Arturo; Vidal;34; 1987-05-22;180;75; CHL; Inter;12;12; CDM
+295; Max; Kruse;33; 1988-03-19;180;76; DEU; 1. FC Union Berlin;17;17; LW
+296; Marko; Arnautovi?;32; 1989-04-19;192;83; AUT; Bologna;21;21; ST
+297; Marlos; Romero;33; 1988-06-07;174;76; UKR; Shakhtar Donetsk;16;16; RM
+298; Benjamin; André;30; 1990-08-03;180;74; FRA; LOSC Lille;22;22; CM
+299; Nicolás; Otamendi;33; 1988-02-12;183;76; ARG; SL Benfica;13;13; CB
