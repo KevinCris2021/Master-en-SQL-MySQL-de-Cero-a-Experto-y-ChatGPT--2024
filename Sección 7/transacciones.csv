@@ -1,4 +1,4 @@
-﻿CustomerId;Transaction;Value
+﻿CustomerId;trx;values_trx
 14500857;trans_4;-29.86
 14502067;trans_1;3373.19
 14504221;trans_4;158.82
@@ -844,7 +844,6 @@
 15991180;trans_4;157.42
 15993883;trans_3;2844.72
 15994367;trans_1;2414.51
-15995435;trans_1;3087
+15995435;trans_1;3087,00
 15995745;trans_4;434.12
 15996378;trans_2;-690.9
-;;
